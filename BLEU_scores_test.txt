@@ -1,0 +1,2612 @@
+Sentence 1: Quand j'avais la vingtaine, j'ai vu mes tout premiers clients comme psychothérapeute.
+ - BLEU score: 0.799085
+Sentence 2: J'étais étudiante en thèse en psychologie clinique à Berkeley.
+ - BLEU score: 0.613217
+Sentence 3: Elle, c'était une femme de 26 ans appelée Alex.
+ - BLEU score: 1.02583
+Sentence 4: Lorsqu'Alex est entrée pour sa première séance, elle portait un jean et un grand top trop large, elle s'est laissée tomber sur le canapé de mon bureau, a enlevé ses chaussures et m'a dit qu'elle était ici pour parler de problèmes de garçons.
+ - BLEU score: 0.719194
+Sentence 5: Lorsque j'ai entendu ça, j'ai été si soulagée.
+ - BLEU score: 0.842811
+Sentence 6: Ma camarade de classe avait eu un pyromane comme premier patient.
+ - BLEU score: 1.084641
+Sentence 7: Et moi, j'avais une fille de 20 ans et quelques qui voulait parler des garçons.
+ - BLEU score: 0.842902
+Sentence 8: Je pensais pouvoir gérer ça.
+ - BLEU score: 0.983941
+Sentence 9: Mais je ne l'ai pas géré.
+ - BLEU score: 1.039993
+Sentence 10: Avec les histoires amusantes qu'Alex ramenait durant les sessions, c'était facile pour moi de simplement hocher la tête alors qu'on repoussait le problème.
+ - BLEU score: 0.913401
+Sentence 11: « La trentaine, c'est la nouvelle vingtaine », disait Alex, et, pour ce que j'en savais, elle avait raison.
+ - BLEU score: 0.762484
+Sentence 12: Le travail arrive plus tard, le mariage arrive plus tard, les enfants arrivent plus tard, même la mort arrive plus tard.
+ - BLEU score: 0.778412
+Sentence 13: Les jeunes dans la vingtaine comme Alex et moi avions toute la vie devant nous.
+ - BLEU score: 0.760795
+Sentence 14: Mais peu de temps après, mon direceur de thèse m'a poussé à questionner Alex sur sa vie amoureuse.
+ - BLEU score: 0.767713
+Sentence 15: J'ai protesté.
+ - BLEU score: 0.946646
+Sentence 16: J'ai dit, « Oui, elle sort avec des idiots, elle couche avec un crétin, mais ce n'est pas qu'elle va l'épouser. »
+ - BLEU score: 0.708797
+Sentence 17: Alors mon directeur a répondu, « Pas encore, mais elle pourrait épouser le prochain.
+ - BLEU score: 0.797922
+Sentence 18: De plus, le meilleur moment pour préparer le mariage d'Alex, c'est avant qu'elle ne le fasse. »
+ - BLEU score: 0.641992
+Sentence 19: C'est ce que les psychologues appellent l'instant de révélation.
+ - BLEU score: 0.671806
+Sentence 20: C'est le moment où j'ai réalisé que la trentaine n'est pas la nouvelle vingtaine.
+ - BLEU score: 1.012918
+Sentence 21: Oui, les gens se casent plus tard qu'auparavant, mais ça ne fait pas de la vingtaine d'Alex un temps mort pour son développement.
+ - BLEU score: 0.89855
+Sentence 22: Ça fait de la vingtaine d'Alex le meilleur moment pour son développement, et nous étions assises là à le gâcher.
+ - BLEU score: 0.847702
+Sentence 23: C'est à ce moment que j'ai compris que cette négligence anodine était un vrai problème et qu'il avait de réelles conséquences, non seulement pour Alex et sa vie sentimentale mais pour les carrières, les familles et l'avenir de toutes les personnes dans la vingtaine.
+ - BLEU score: 0.806462
+Sentence 24: Il y a actuellement 50 millions de personnes dans la vingtaine aux Etats-Unis.
+ - BLEU score: 0.80771
+Sentence 25: C'est à dire environ 15 pour cent de la population, ou 100 pour cent si on considère que personne ne se sort de l'âge adulte sans d'abord se sortir de ses 20 ans.
+ - BLEU score: 0.757833
+Sentence 26: Levez la main, si vous avez la vingtaine.
+ - BLEU score: 1.012906
+Sentence 27: Je voudrais vraiment en voir quelques uns ici.
+ - BLEU score: 0.673852
+Sentence 28: Oh, ouais! Vous êtes géniaux.
+ - BLEU score: 1.095746
+Sentence 29: Si vous travaillez avec des gens dans la vingtaine, si vous aimez une personne dans la vingtaine si vous perdez le sommeil à cause de personnes dans la vingtaine, je veux voir -- OK. Génial, les jeunes de vingt ans comptent vraiment.
+ - BLEU score: 0.816425
+Sentence 30: Je me suis spécialisée dans les vingt ans parce que je crois que chacun de ces 50 millions de jeunes mérite de savoir ce que les psychologues, les sociologues, les neurologues et les spécialistes de la fertilité savent déjà : assumer sa vingtaine est une des choses les plus simples, mais aussi les plus transformantes, qu'on puisse vivre pour son travail, sa vie amoureuse, son bonheur et peut-être même le monde.
+ - BLEU score: 1.083437
+Sentence 31: Ce n'est pas mon opinion. Ce sont les faits.
+ - BLEU score: 0.775509
+Sentence 32: Nous savons que 80 pour cent des moments les plus décisifs d'une vie ont lieu avant 35 ans.
+ - BLEU score: 1.0746
+Sentence 33: Ça signifie que 8 des 10 décisions, expériences et révélations qui font d'une vie ce qu'elle est auront lieu d'ici le milieu de la trentaine.
+ - BLEU score: 0.630429
+Sentence 34: Vous les gens de plus de 40 ans, pas de panique.
+ - BLEU score: 0.685543
+Sentence 35: Ce public va s'en sortir, je pense.
+ - BLEU score: 0.674955
+Sentence 36: Nous savons que les 10 premières années d'une carrière ont un impact exponentiel sur le salaire qu'on gagnera.
+ - BLEU score: 1.088075
+Sentence 37: Nous savons que plus de la moitié des Américains sont mariés, vivent ou sortent avec leur futur partenaire avant leurs 30 ans.
+ - BLEU score: 0.974473
+Sentence 38: Nous savons que le cerveau termine sa seconde et ultime poussée de croissance dans la vingtaine alors qu'il se recâble pour l'âge adulte, ce qui signifie que tout ce qu'on veut changer en soi, c'est maintenant qu'il faut le faire.
+ - BLEU score: 1.06562
+Sentence 39: Nous savons que la personnalité change plus durant la vingtaine qu'à n'importe quel autre moment de la vie, et nous savons que le pic de fertilité chez les femmes a lieu à 28 ans, et que les choses se compliquent après 35 ans.
+ - BLEU score: 0.811982
+Sentence 40: Donc la vingtaine est le moment de s'informer sur son corps et ses options.
+ - BLEU score: 0.899869
+Sentence 41: Donc, lorsqu'on pense au développement de l'enfant, nous savons tous que les 5 premières années sont une période critique pour le langage et les connections dans le cerveau.
+ - BLEU score: 1.025603
+Sentence 42: C'est le moment où la vie quotidienne a un impact extraordinaire sur celui ou celle qu'on va devenir.
+ - BLEU score: 0.820986
+Sentence 43: Mais ce dont on entend moins parler, c'est qu'il existe ce qu'on appelle un développement adulte, et que notre vingtaine est la période critique du développement adulte.
+ - BLEU score: 1.095298
+Sentence 44: Mais ce n'est pas ce que les jeunes adultes entendent.
+ - BLEU score: 0.833687
+Sentence 45: Les journaux parlent de décalage des phases de la maturité.
+ - BLEU score: 1.041227
+Sentence 46: Les chercheurs appellent les 20 ans, une adolescence prolongée.
+ - BLEU score: 0.975925
+Sentence 47: Les journalistes donnent des surnoms stupides à ceux qui ont la vingtaine comme « twixters » ou « adulescent ».
+ - BLEU score: 1.089507
+Sentence 48: C'est vrai.
+ - BLEU score: 1.085716
+Sentence 49: Culturellement, nous avons trivialisé ce qui est en réalité la décennie primordiale de l'âge adulte.
+ - BLEU score: 0.939803
+Sentence 50: Leonard Bernstein a dit que pour faire de grandes choses, il faut avoir un plan et pas assez de temps.
+ - BLEU score: 0.791701
+Sentence 51: N'est-ce pas vrai ?
+ - BLEU score: 0.614212
+Sentence 52: Que pensez-vous qu'il arrive quand, en lui passant la main dans les cheveux, on dit à un jeune de vingt ans «Tu as encore 10 ans pour commencer ta vie ? »
+ - BLEU score: 0.810065
+Sentence 53: Il ne se passe rien.
+ - BLEU score: 0.708547
+Sentence 54: On a privé cette personne de son impatience et de son ambition, et il ne se passe absolument rien.
+ - BLEU score: 0.929212
+Sentence 55: Et puis, chaque jour, des jeunes gens intelligents, intéressants comme vous ou comme vos fils et vos filles arrivent dans mon bureau et disent des choses comme : « Je sais que mon petit ami n'est pas bon pour moi mais cette relation n'a pas d'importance. Je ne fais que passer le temps. »
+ - BLEU score: 0.944397
+Sentence 56: Ou bien ils disent :« Tout le monde dit que tant que je commence ma carrière d'ici mes 30 ans, ça ira. »
+ - BLEU score: 0.605143
+Sentence 57: Mais ensuite ça commence à ressembler à ça : « Ma vingtaine est presque terminée, et je n'ai rien accompli.
+ - BLEU score: 0.845907
+Sentence 58: J'avais un meilleur CV au lendemain de mon diplôme universitaire. »
+ - BLEU score: 0.643116
+Sentence 59: Et ensuite ça commence à ressembler à ça : « Sortir à 20 ans, c'était comme jouer aux chaises musicales.
+ - BLEU score: 0.925716
+Sentence 60: Tout le monde se tournait autour et s'amusait, mais ensuite vers 30 ans, c'est comme si la musique s'arrêtait et tout le monde commençaient à s'asseoir.
+ - BLEU score: 0.793711
+Sentence 61: Je ne voulais pas être la dernière debout, alors quelquefois je pense que j'ai épousé mon mari parce qu'il était la chaise la plus proche de moi à 30 ans. »
+ - BLEU score: 0.629362
+Sentence 62: Où sont les gens qui ont la vingtaine ici ?
+ - BLEU score: 0.999971
+Sentence 63: Ne faites pas ça.
+ - BLEU score: 0.86376
+Sentence 64: OK, ça a l'air un peu léger, mais ne vous y trompez pas, les enjeux sont très importants.
+ - BLEU score: 1.099034
+Sentence 65: Quand on repousse beaucoup de choses jusqu'à la trentaine, on se met sous pression pour faire décoller sa carrière, pour s'installer, se mettre en couple, avoir 2 ou 3 enfants en une période encore plus courte.
+ - BLEU score: 0.989713
+Sentence 66: Beaucoup de ces choses sont incompatibles, comme la recherche commence à le montrer, simplement plus difficiles et plus stressantes à faire tout d'un coup pendant la trentaine.
+ - BLEU score: 1.088159
+Sentence 67: La crise de la quarantaine post-millénaire ne consiste pas à acheter une voiture de sport rouge.
+ - BLEU score: 0.98279
+Sentence 68: C'est de se rendre compte qu'on ne peut pas avoir la carrière qu'on veut maintenant.
+ - BLEU score: 0.630524
+Sentence 69: C'est se rendre compte qu'on ne peut pas avoir les enfants qu'on veut maintenant, ou qu'on ne peut pas faire un frère ou une sœur à son enfant.
+ - BLEU score: 0.863073
+Sentence 70: Beaucoup trop de trentenaires et de quadragénaires se regardent, puis me regardent moi de l'autre côté de cette pièce, parlent de leur vingt ans et disent: « Qu'est-ce que je faisais ? A quoi est-ce que je pensais »
+ - BLEU score: 1.020567
+Sentence 71: Je veux changer ce que les gens de la vingtaine sont en train de faire et de penser.
+ - BLEU score: 1.035264
+Sentence 72: Voici une histoire sur ce qui peut se passer.
+ - BLEU score: 0.649792
+Sentence 73: C'est l'histoire d'une femme appelée Emma.
+ - BLEU score: 0.649903
+Sentence 74: A 25 ans, Emma est venue dans mon bureau parce qu'elle avait, selon ses propres mots, une crise d'identité.
+ - BLEU score: 0.948502
+Sentence 75: Elle disait qu'elle pensait qu'elle aimerait travailler dans le domaine des arts ou du spectacle, mais elle n'avait pas encore décidé, elle avait donc passé les dernières années comme serveuse.
+ - BLEU score: 0.838006
+Sentence 76: Parce que c'était moins cher, elle vivait avec son petit ami qui affichait son mauvais caractère plus souvent que ses ambitions.
+ - BLEU score: 0.983916
+Sentence 77: Et bien que sa vingtaine ait été difficile, son enfance l'avait été encore davantage.
+ - BLEU score: 0.639114
+Sentence 78: Elle pleurait souvent pendant nos sessions, mais ensuite elle se reprenait en disant, « On ne choisit pas sa famille mais on peut choisir ses amis. »
+ - BLEU score: 0.91182
+Sentence 79: Puis un jour, Emma est entrée elle a posé sa tête sur ses genoux et a sangloté pendant presque toute l'heure.
+ - BLEU score: 0.845403
+Sentence 80: Elle venait juste d'acheter un nouveau carnet d'adresse, et avait passé la matinée à le remplir avec ses nombreux contacts, mais ensuite elle était restée à observer cette page blanche qu'il y a après les mots « En cas d'urgence, s'il vous plait appelez... »
+ - BLEU score: 0.920067
+Sentence 81: Elle était presque hystérique quand elle m'a regardé et a dit, « Qui est-ce qui sera là pour moi si j'ai un accident de voiture ?
+ - BLEU score: 0.929384
+Sentence 82: Qui va prendre soin de moi si j'ai un cancer ? »
+ - BLEU score: 0.838819
+Sentence 83: Et à ce moment-là, il m'a fallu toute ma volonté pour ne pas dire, « Moi je le ferai »
+ - BLEU score: 0.695614
+Sentence 84: Mais ce dont Emma avait besoin, ce n'était pas d'une psy qui se sentait vraiment vraiment concernée.
+ - BLEU score: 0.749332
+Sentence 85: Emma avait besoin d'une meilleure vie, et je savais que là c'était sa chance.
+ - BLEU score: 0.863966
+Sentence 86: J'en avais trop appris depuis la première fois où j'avais travaillé avec Alex pour rester assise là à regarder la décennie décisive d'Emma passer devant moi.
+ - BLEU score: 0.676354
+Sentence 87: Donc durant les semaines et les mois suivants, J'ai dit à Emma voici trois choses que toute personne de vingt ans, homme ou femme, mérite d'entendre.
+ - BLEU score: 0.802154
+Sentence 88: Tout d'abord, j'ai dit à Emma d'oublier sa crise d'identité mais d'avoir un capital d'identité.
+ - BLEU score: 0.761324
+Sentence 89: Par avoir un capital d'identité, je veux dire faire quelque chose qui ajoute de la valeur à la personne que l'on est.
+ - BLEU score: 0.823816
+Sentence 90: Faire quelque chose qui soit un investissement pour la personne que l'on veut être après.
+ - BLEU score: 0.797801
+Sentence 91: Je ne savais pas quel serait la carrière future d'Emma, personne ne connaît son avenir professionnel mais je sais ceci : le capital identitaire génère le capital identitaire.
+ - BLEU score: 0.898871
+Sentence 92: C'est maintenant qu'il faut postuler ce travail à l'autre bout du pays, ce stage, cette start-up qu'on veut tenter.
+ - BLEU score: 0.628432
+Sentence 93: Je ne néglige pas ici les exprériences exploratoires des gens dans la vingtaine mais j'écarte celles qui sont supposées ne pas être importantes celles qui, par ailleurs, ne sont pas des expériences exploratoires.
+ - BLEU score: 0.882382
+Sentence 94: C'est de la procrastination.
+ - BLEU score: 0.797274
+Sentence 95: J'ai dit à Emma d'explorer la piste du travail et de faire en sorte que ça compte.
+ - BLEU score: 0.781349
+Sentence 96: Deuxièmement, j'ai dit à Emma que la tribu urbaine était surfaite.
+ - BLEU score: 0.633315
+Sentence 97: Les meilleurs amis sont super pour vous emmener à l'aéroport, mais les jeunes de vingt ans qui restent entre gens ayant les mêmes conceptions limitent ceux qu'ils connaissent, ce qu'ils connaissent, comment ils pensent, comment ils parlent, et où ils travaillent.
+ - BLEU score: 0.878791
+Sentence 98: Cette nouvelle part de capital, cette nouvelle personne avec qui sortir vient presque toujours de l'extérieur du cercle restreint.
+ - BLEU score: 0.95069
+Sentence 99: Les nouveautés viennent de ce qu'on appelle nos liens faibles, les amis d'amis d'amis.
+ - BLEU score: 1.020247
+Sentence 100: Alors oui, la moitié des jeunes dans la vingtaine sont sans emploi ou sous-employés.
+ - BLEU score: 0.855091
+Sentence 101: Mais la moitié ne l'est pas, et les liens faibles sont une façon d'entrer soi-même dans ce groupe.
+ - BLEU score: 0.708704
+Sentence 102: La moitié des nouveaux postes ne sont jamais publiés, donc entrer en contact avec le patron de son voisin est la façon dont on obtiendra ce poste non publié.
+ - BLEU score: 1.04305
+Sentence 103: Ce n'est pas tricher. C'est la science de la diffusion de l'information.
+ - BLEU score: 0.883828
+Sentence 104: Enfin et surtout, Emma croyait qu'on ne peut pas choisir sa famille, mais qu'on peut choisir ses amis.
+ - BLEU score: 0.954274
+Sentence 105: C'était vrai pendant son enfance mais une fois dans la vingtaine, bientôt Emma choisirait sa famille quand elle se mettrait en couple avec quelqu'un et créerait sa propre famille.
+ - BLEU score: 1.046667
+Sentence 106: J'ai dit à Emma que c'était maintenant qu'il fallait comencer à choisir sa famille.
+ - BLEU score: 1.014793
+Sentence 107: Certes, on peut penser que la trentaine est en réalité un meilleur âge pour se caser que 20 ou même 25 ans, et je suis d'accord avec vous.
+ - BLEU score: 0.841312
+Sentence 108: Mais attrapper celui ou celle avec qui on vit ou on couche par hasard au moment ou vous couchez où tous ses amis sur Facebook commencent à passer à la mairie, ce n'est pas aller de l'avant.
+ - BLEU score: 0.876145
+Sentence 109: Le meilleur moment de préparer son mariage, c'est avant, ça signifie être aussi réfléchi en amour que dans son travail.
+ - BLEU score: 1.005199
+Sentence 110: Choisir sa famille consiste à choisir consciencieusement qui et ce qu'on veut plutôt que de tuer le temps et de s'accommoder de celui ou celle qui par hasard vous aura choisi.
+ - BLEU score: 0.9575
+Sentence 111: Donc qu'est-ce qui est arrivé à Emma ?
+ - BLEU score: 1.007161
+Sentence 112: Et bien, elle a ouvert son carnet d'adresse, et elle a trouvé un cousin d'une ancienne colocataire qui travaillait dans un musée d'art dans un autre état.
+ - BLEU score: 0.690695
+Sentence 113: Ce lien faible l'a aidée à obtenir un travail là-bas.
+ - BLEU score: 0.884411
+Sentence 114: Ce travail lui a donné une bonne raison de quitter ce petit ami avec lequel elle vivait.
+ - BLEU score: 0.620336
+Sentence 115: Maintenant, cinq ans plus tard, elle travaille dans l'événementiel pour les musées.
+ - BLEU score: 0.616972
+Sentence 116: Elle a épousé un homme qu'elle a choisi avec soin.
+ - BLEU score: 0.679078
+Sentence 117: Elle aime sa nouvelle carrière, elle aime sa nouvelle famille, et elle m'a envoyé une carte qui disait, « Maintenant l'espace pour les contacts d'urgence ne paraît pas assez grand. »
+ - BLEU score: 1.016016
+Sentence 118: Certes l'histoire d'Emma peut donner à croire que c'est simple, mais c'est ce que j'aime avec les gens dans la vingtaine.
+ - BLEU score: 0.792034
+Sentence 119: Ils sont si faciles à aider.
+ - BLEU score: 0.953784
+Sentence 120: Les gens dans la vingtaine sont comme des avions qui décollent de Los Angeles, en route vers l'ouest.
+ - BLEU score: 0.795046
+Sentence 121: Juste après le décollage, un léger changement de trajectoire fait qu'ils atterrissent en Alaska plutôt qu' à Fiji.
+ - BLEU score: 0.881576
+Sentence 122: De même, à 21 ou 25, ou même 29 ans, une bonne conversation, un coup de chance, une bonne conférence TED peuvent avoir un impact énorme pour les années et même les générations à venir.
+ - BLEU score: 0.814002
+Sentence 123: Voilà donc une idée qui mérite d'être diffusée à tous les jeunes de vingt ans que vous connaissez.
+ - BLEU score: 0.879131
+Sentence 124: C'est aussi simple que ce que j'ai appris à dire à Alex.
+ - BLEU score: 0.822002
+Sentence 125: C'est ce que j'ai maintenant le plaisir de dire chaque jour aux gens de vingt ans comme Emma : La trentaine n'est pas la nouvelle vingtaine, assumez donc votre âge adulte, gagnez du capital d'identité, utilisez vos liens faibles, choisissez votre famille.
+ - BLEU score: 0.894718
+Sentence 126: Ne soyez pas définis par ce que vous ne saviez pas ou n'avez pas fait.
+ - BLEU score: 1.022461
+Sentence 127: Vous décidez de votre vie dès maintenant.
+ - BLEU score: 0.654205
+Sentence 128: Merci.
+ - BLEU score: 0.732239
+Sentence 129: Tout au long de l'histoire de l'informatique, nous avons tâché de combler le fossé entre nous et le monde numérique, l'écart entre notre monde physique et le monde derrière notre écran où notre imagination peut s'épanouir.
+ - BLEU score: 0.686384
+Sentence 130: Cet écart est devenu plus mince, encore plus mince, toujours plus mince, et maintenant il en est devenu plus fin qu'un millimètre, l'épaisseur d'un écran tactile. La puissance de l'informatique est à présent accessible à tous.
+ - BLEU score: 0.658538
+Sentence 131: Mais je me suis demandé : et s'il pouvait n'y avoir aucune limite ?
+ - BLEU score: 0.970431
+Sentence 132: J'ai commencé à imaginer à quoi cela pourrait ressembler.
+ - BLEU score: 0.859948
+Sentence 133: Premièrement, j'ai créé cet outil qui pénètre dans l'espace numérique. Lorsque vous l'appuyez sur l'écran, il transfère sa matière physique en pixels.
+ - BLEU score: 0.618921
+Sentence 134: Les designers peuvent matérialiser leurs idées directement en 3D, et les chirurgiens peuvent s'entraîner sur des organes virtuels sous l'écran.
+ - BLEU score: 1.02031
+Sentence 135: Avec cet outil, la frontière a été franchie.
+ - BLEU score: 1.00061
+Sentence 136: Mais nos deux mains demeurent encore hors de l'écran.
+ - BLEU score: 0.884404
+Sentence 137: Comment peut-on s'introduire à l'intérieur et interagir avec les informations numériques en utilisant toute la dextérité de nos mains ?
+ - BLEU score: 0.702418
+Sentence 138: Chez Microsoft Applied Sciences, avec mon mentor Cati Boulanger, j'ai repensé l'ordinateur et transformé un petit espace au-dessus du clavier en un espace de travail numérique.
+ - BLEU score: 0.932296
+Sentence 139: En combinant un écran transparent et des caméras de profondeur pour la détection des doigts et du visage, vous pouvez maintenant lever vos mains du clavier, atteindre l'intérieur de cet espace 3D et saisir les pixels à mains nues.
+ - BLEU score: 0.947819
+Sentence 140: Parce que nos fenêtres et nos fichiers ont une position dans l'espace réel, les sélectionner est aussi facile que d'attraper un livre sur votre étagère.
+ - BLEU score: 0.796451
+Sentence 141: Puis vous pouvez feuilletez ce livre tout en surlignant les lignes, les mots via le clavier virtuel sous chaque fenêtre flottante.
+ - BLEU score: 0.766972
+Sentence 142: Les architectes peuvent étirer ou faire tourner les modèles directement avec leurs mains.
+ - BLEU score: 0.846419
+Sentence 143: Ainsi, avec ces exemples, nous pénétrons dans le monde numérique.
+ - BLEU score: 0.716991
+Sentence 144: Mais pourquoi ne pas inverser les rôles, et amener les éléments numériques jusqu'à nous ?
+ - BLEU score: 0.892281
+Sentence 145: Je suis sûr que beaucoup d'entre vous ont fait l'expérience d'acheter et de retourner des articles en ligne.
+ - BLEU score: 0.715456
+Sentence 146: Mais maintenant, il ne faut plus s'en inquiéter.
+ - BLEU score: 0.639395
+Sentence 147: J'ai apporté ici une cabine d'essayage en ligne en réalité augmentée.
+ - BLEU score: 0.71861
+Sentence 148: Il s'agit d'une vue que vous recevez d'un dispositif d'affichage monté sur la tête ou bien transparent grâce à un système qui comprend la géométrie de votre corps.
+ - BLEU score: 0.636293
+Sentence 149: Poussant cette idée plus loin, j'ai commencé à me dire : au lieu de juste voir ces pixels dans notre espace, comment pouvons-nous les rendre concrets, afin que nous puissions les toucher et les sentir ?
+ - BLEU score: 1.00213
+Sentence 150: A quoi ressemblerait un tel futur ?
+ - BLEU score: 0.901525
+Sentence 151: Au MIT Media Lab, avec mon conseiller Hiroshi Ishii et mon collaborateur Rehmi Post, Nous avons matérialisé un pixel.
+ - BLEU score: 0.742321
+Sentence 152: Ici, cet aimant sphérique agit comme un pixel en 3D dans notre espace, ce qui signifie que des ordinateurs comme des personnes peuvent déplacer cet objet partout dans ce petit espace 3D.
+ - BLEU score: 0.99291
+Sentence 153: Nous avons en gros réussi à annuler la gravité et à contrôler le mouvement en combinant la lévitation magnétique, l'actionnement mécanique et les technologies de télédétection.
+ - BLEU score: 1.099192
+Sentence 154: En programmant numériquement l'objet, nous le libérons de toutes contraintes de temps et d'espace, ce qui signifie que maintenant, les mouvements humains peuvent être enregistrés, reproduits et conservés indéfiniment dans le monde physique.
+ - BLEU score: 0.716101
+Sentence 155: Donc une chorégraphie peut être enseignée physiquement à distance et le célèbre tir de Michael Jordan peut être répliqué encore et encore comme une réalité physique.
+ - BLEU score: 0.999684
+Sentence 156: Les étudiants peuvent l'utiliser comme un outil pour en savoir plus sur les concepts complexes tels le mouvement des planètes, les lois de la physique, et contrairement aux écrans d'ordinateur ou aux manuels scolaires, il s'agit d'une expérience réelle, tangible que vous pouvez toucher et sentir, et c'est très puissant.
+ - BLEU score: 0.710383
+Sentence 157: Ce qui est bien plus excitant que de simplement donner forme à ce qui est déjà dans l'ordinateur, c'est de commencer à imaginer comment le monde de la programmation changera notre activité physique quotidienne.
+ - BLEU score: 0.917343
+Sentence 158: Comme vous pouvez le voir, l'information numérique ne va pas seulement nous montrer quelque chose, mais va commencer à agir directement sur nous comme une composante de notre environnement physique sans nous déconnecter du monde.
+ - BLEU score: 0.782326
+Sentence 159: Aujourd'hui, nous avons commencé par parler de limite, mais si on supprime cette limite, la seule qu'il nous reste est notre imagination.
+ - BLEU score: 0.840358
+Sentence 160: Merci.
+ - BLEU score: 0.747438
+Sentence 161: J'ai été entraînée pour devenir gymnaste pendant 2 ans, dans la province d'Hunan en Chine dans les années 1970.
+ - BLEU score: 0.778953
+Sentence 162: Quand j'étais en première année, le gouvernement a voulu me transférer dans une école pour athlètes, tous frais payés.
+ - BLEU score: 0.875537
+Sentence 163: Mais maman tigre a dit, « Non. »
+ - BLEU score: 0.636282
+Sentence 164: Mes parents voulaient que je devienne ingénieure comme eux.
+ - BLEU score: 0.956199
+Sentence 165: Ayant survécu à la révolution culturelle, ils croyaient dur comme fer qu'il n'y avait qu'un seul vrai moyen d'être heureux : un emploi stable et bien payé.
+ - BLEU score: 1.029964
+Sentence 166: Que j'aime ce travail ou non n'avait pas d'importance.
+ - BLEU score: 1.001332
+Sentence 167: Mais mon rêve était de devenir chanteuse d'opéra chinois.
+ - BLEU score: 0.62013
+Sentence 168: Ça, c'est moi qui joue sur mon piano imaginaire.
+ - BLEU score: 1.000825
+Sentence 169: Une chanteuse d'opéra doit commencer à s'entraîner dès son plus jeune âge pour apprendre l'acrobatie, alors j'ai tout essayé pour être acceptée à l'école d'opéra.
+ - BLEU score: 0.66141
+Sentence 170: J'ai même écrit au directeur de l'école et à l'animateur d'une émission de radio.
+ - BLEU score: 1.092589
+Sentence 171: Mais aucun adulte n'a aimé cette idée.
+ - BLEU score: 0.79022
+Sentence 172: Aucun adulte n'a cru que j'étais sérieuse.
+ - BLEU score: 0.892646
+Sentence 173: Seuls mes amis m'ont soutenue, mais c'était des enfants, tout aussi impuissants que moi.
+ - BLEU score: 0.940185
+Sentence 174: Alors à quinze ans, j'ai compris que j'étais trop vieille pour être entraînée.
+ - BLEU score: 1.008845
+Sentence 175: Mon rêve ne se réaliserait jamais.
+ - BLEU score: 0.894882
+Sentence 176: J'ai eu peur que pour le reste de ma vie, un bonheur fade serait ce que je pouvais espérer de mieux.
+ - BLEU score: 0.927157
+Sentence 177: Mais c'est tellement injuste.
+ - BLEU score: 1.062178
+Sentence 178: J'étais déterminée à trouver une autre vocation.
+ - BLEU score: 0.622187
+Sentence 179: Personne pour m'apprendre ? Parfait.
+ - BLEU score: 0.832101
+Sentence 180: Je me suis tournée vers les livres.
+ - BLEU score: 0.661231
+Sentence 181: J'ai satisfait ma soif de conseils parentaux en lisant ce livre écrit par une famille d'écrivains et de musiciens. [" Correspondance dans la Famille de Fou Lei "] Je me suis trouvé un modèle de femme indépendante alors que la tradition confucianiste exigeait l'obéissance. [" Jane Eyre "] Et avec ce livre, j'ai appris à être efficace. [" Treize à la douzaine "] Et après avoir lu ce livre, j'ai eu envie d'aller étudier à l'étranger.
+ - BLEU score: 0.792075
+Sentence 182: [" Oeuvres complètes de Sanmao " ] [" Des Leçons de l'Histoire " pas Nan Huaijin] Je suis arrivée aux États-Unis en 1995, et selon vous, quels livres ai-je lu en arrivant ?
+ - BLEU score: 0.82664
+Sentence 183: Les livres interdits en Chine, bien sûr.
+ - BLEU score: 0.67791
+Sentence 184: " La Terre chinoise " parle de la vie rurale en Chine.
+ - BLEU score: 0.638218
+Sentence 185: Pas vraiment l'idéal pour la propagande. D'accord.
+ - BLEU score: 0.9542
+Sentence 186: La Bible est intéressante, mais étrange.
+ - BLEU score: 0.955238
+Sentence 187: Ce n'est pas notre sujet d'aujourd'hui.
+ - BLEU score: 0.761033
+Sentence 188: Mais le cinquième commandement fût une révélation : « Tu honoreras ton père et ta mère . »
+ - BLEU score: 0.807263
+Sentence 189: « Honorer », je me suis dit, « c'est tellement différent, et mieux qu'obéir. »
+ - BLEU score: 0.864105
+Sentence 190: C'est devenu mon tremplin pour sortir de cette culpabilité confucéenne et pour reconstruire ma relation avec mes parents.
+ - BLEU score: 0.872036
+Sentence 191: Au contact de cette nouvelle culture, j'ai aussi pris l'habitude de faire de la lecture comparée.
+ - BLEU score: 0.906643
+Sentence 192: C'est une grande source d'enseignements.
+ - BLEU score: 0.802594
+Sentence 193: Par exemple, j'ai trouvé cette carte étrange au début car c'est cette carte-là que les élèves Chinois étudient.
+ - BLEU score: 0.678764
+Sentence 194: Il ne m'était jamais venu à l'esprit que la Chine n'était peut-être pas au centre du monde.
+ - BLEU score: 0.679231
+Sentence 195: Une carte ne représente que la perspective de quelqu'un.
+ - BLEU score: 0.793835
+Sentence 196: La lecture comparée n'a rien de nouveau.
+ - BLEU score: 0.948264
+Sentence 197: C'est une pratique répandue dans les milieux académiques.
+ - BLEU score: 0.684869
+Sentence 198: Il existe même des domaines de recherche dédiés à la religion comparée et la littérature comparée.
+ - BLEU score: 1.073921
+Sentence 199: Comparer et mettre en opposition donne aux intellectuels une compréhension plus approfondie d'un sujet.
+ - BLEU score: 0.916037
+Sentence 200: Alors j'ai pensé, bon, si la lecture comparée fonctionne pour la recherche, pourquoi ne pas l'appliquer dans la vie de tous les jours ?
+ - BLEU score: 1.091532
+Sentence 201: Alors j'ai commencé à lire les livres par deux.
+ - BLEU score: 1.013078
+Sentence 202: Et ils peuvent porter sur des gens -- [" Benjamin Franklin : Une vie américaine " de Walter Isaacson] John Adams" de David McCullough] -- qui sont impliqués dans le même évènement, ou sur des amis qui partagent les mêmes expériences.
+ - BLEU score: 1.0227
+Sentence 203: [" L'autobiographie de Katharine Graham "] [" Warren Buffett. La biographie officielle, l'effet boule de neige," d'Alice Schroeder] Je compare aussi des histoires similaires dans différents genres -- [La Bible, version du Roi James] [" L'Agneau " de Christopher Moore] -- ou des histoires similaires vues par différentes cultures, comme ce que Joseph Campbell a fait dans son merveilleux livre. [" La puisssance du mythe " de Joseph Campbell] Par exemple, Christ et Bouddha ont tous les deux vécu trois tentations.
+ - BLEU score: 0.77222
+Sentence 204: Pour le Christ, les tentations sont économiques, politiques et spirituelles.
+ - BLEU score: 0.874154
+Sentence 205: Pour le Bouddha, elles sont toutes psychologiques : l'envie, la peur et le devoir social -- intéressant.
+ - BLEU score: 0.656883
+Sentence 206: Et si vous parlez une autre langue, c'est amusant aussi de lire vos livres favoris dans les deux langues.
+ - BLEU score: 0.680877
+Sentence 207: [" Zen, Tao et Nirvana ", Thomas Merton] [" Tao: The Watercourse Way " d'Alan Watts] Plutôt que de perdre du sens, j'ai trouvé qu'il y avait tant à gagner.
+ - BLEU score: 0.639004
+Sentence 208: Par exemple, c'est grâce à la traduction que j'e me suis rendue compte que " bonheur " en Chinois se traduit littéralement par " joie rapide ". Hum !
+ - BLEU score: 0.886383
+Sentence 209: " Mariée " en chinois se traduit littéralement par " nouvelle mère ". Oh-oh !
+ - BLEU score: 0.748219
+Sentence 210: Les livres ont été une sorte de porte magique pour entrer en contact avec les gens du passé et du présent.
+ - BLEU score: 0.844244
+Sentence 211: Je sais que je ne me sentirai plus jamais seule et impuissante.
+ - BLEU score: 0.745361
+Sentence 212: Avoir vu mon rêve brisé n'est vraiment pas grand' chose comparé aux souffrances que beaucoup d'autres ont endurées.
+ - BLEU score: 0.700783
+Sentence 213: J'en suis venue à croire que devenir réalité n'est pas la seule raison d'être d'un rêve.
+ - BLEU score: 0.799332
+Sentence 214: Sa raison d'être la plus importante est de nous amener là d'où les rêves viennent, d'où la passion vient, d'où le bonheur vient.
+ - BLEU score: 0.600971
+Sentence 215: Même un rêve brisé peut faire ça pour vous.
+ - BLEU score: 0.816241
+Sentence 216: Alors grâce aux livres, je suis ici aujourd'hui, heureuse, vivant de nouveau avec un but et une clarté d'esprit, la plupart du temps.
+ - BLEU score: 0.853551
+Sentence 217: Que les livres soient toujours avec vous.
+ - BLEU score: 0.744349
+Sentence 218: Merci.
+ - BLEU score: 0.799575
+Sentence 219: Merci.
+ - BLEU score: 1.047884
+Sentence 220: Merci.
+ - BLEU score: 0.88628
+Sentence 221: Quand j'avais huit ans, une nouvelle fille a rejoint la classe, et elle était très impressionnante, comme le sont toujours les nouvelles filles.
+ - BLEU score: 1.037514
+Sentence 222: Elle avait une épaisse chevelure très brillante, une mignonne petite trousse, elle était incollable sur les capitales, et super forte en dictée.
+ - BLEU score: 0.675699
+Sentence 223: Je me suis décomposée de jalousie durant toute cette année là, jusqu'à ce que j'élabore mon plan sournois.
+ - BLEU score: 0.782409
+Sentence 224: Un jour, je suis restée un peu tard après l'école, un peu trop tard, et je me suis tapie dans les toilettes des filles.
+ - BLEU score: 1.008066
+Sentence 225: Quand la voie a été libre, je suis sortie, je me suis introduite dans la classe, et j'ai pris le cahier de notes sur le bureau de ma maîtresse.
+ - BLEU score: 0.850912
+Sentence 226: Et puis je l'ai fait.
+ - BLEU score: 1.026322
+Sentence 227: J'ai bidouillé les notes de ma rivale, juste un peu, seulement rétrogradé quelques uns de ces A.
+ - BLEU score: 1.080883
+Sentence 228: La totalité de ces A.
+ - BLEU score: 1.006582
+Sentence 229: Et je me préparais à remettre le cahier dans son tiroir, quand, attendez un peu, certains autres de mes camarades avaient aussi de terriblement bonnes notes.
+ - BLEU score: 0.874346
+Sentence 230: Alors, prise de frénésie, j'ai corrigé les notes de tout le monde, sans aucune imagination.
+ - BLEU score: 1.083281
+Sentence 231: J'ai donné à tout le monde une rangée de D. Et je me suis attribuée une rangée de A. Puisque j'étais là, vous voyez, autant en profiter.
+ - BLEU score: 0.885419
+Sentence 232: Je suis encore perplexe aujourd'hui devant mon comportement.
+ - BLEU score: 0.798402
+Sentence 233: Je ne comprends pas d'où m'est venue l'idée.
+ - BLEU score: 1.056666
+Sentence 234: Je ne comprends pas pourquoi je me sentais si bien en le faisant.
+ - BLEU score: 0.764851
+Sentence 235: Je me sentais très bien.
+ - BLEU score: 1.05423
+Sentence 236: Je ne comprends pas pourquoi je n'ai jamais été attrapée.
+ - BLEU score: 0.808964
+Sentence 237: Je veux dire, ça aurait pourtant dû être tellement évident.
+ - BLEU score: 1.014133
+Sentence 238: Je n'ai jamais été attrapée.
+ - BLEU score: 0.606065
+Sentence 239: Mais plus que tout, je me demande pourquoi ça me dérangeait tellement que cette petite fille, cette minuscule petite fille, soit si forte en dictée ?
+ - BLEU score: 1.021286
+Sentence 240: La jalousie me rend perplexe !
+ - BLEU score: 0.658015
+Sentence 241: Elle est si mystérieuse, et pourtant tellement répandue.
+ - BLEU score: 0.705137
+Sentence 242: On sait que les bébés souffrent de jalousie.
+ - BLEU score: 0.620838
+Sentence 243: On sait que les primates en souffrent. Les merles bleus y sont très enclins.
+ - BLEU score: 0.675973
+Sentence 244: On sait que la jalousie est la première cause de meurtres conjugaux aux Etats-Unis.
+ - BLEU score: 0.682522
+Sentence 245: Et pourtant, aucune des études que j'ai lues n'a su me décrypter le sentiment de solitude qu'elle entraîne, sa durée, ou la sombre joie qui l'accompagne.
+ - BLEU score: 0.726224
+Sentence 246: Pour cela, on doit se tourner vers la fiction, parce que le roman est le labo qui a étudié la jalousie dans toutes les configurations possibles.
+ - BLEU score: 1.020907
+Sentence 247: En fait, je ne crois pas qu'il soit exagéré de dire que sans la jalousie, nous n'aurions même pas de littérature ?
+ - BLEU score: 0.951213
+Sentence 248: Sans l'infidèle Hélène, pas d'Odyssée.
+ - BLEU score: 0.626513
+Sentence 249: Sans roi jaloux, pas de « Mille et une Nuits ».
+ - BLEU score: 0.703416
+Sentence 250: Pas de Shakespeare.
+ - BLEU score: 0.66542
+Sentence 251: Adieu la liste de lecture du lycée, parce qu'on perd « Le Bruit et la Fureur », on perd « Gatsby le Magnifique », « Le Soleil se Lève Aussi », on perd « Madame Bovary », « Anna Karénine ».
+ - BLEU score: 0.837924
+Sentence 252: Pas de jalousie, pas de Proust. Bien sûr, je sais que c'est à la mode de dire que Proust détient la réponse à tout. Mais dans le cas de la jalousie, c'est un peu vrai.
+ - BLEU score: 0.905481
+Sentence 253: Cette année c'est le centenaire de son chef-d'oeuvre, « A la Recherche du Temps Perdu », qui est l'étude la plus complète sur la jalousie sexuelle et sur l'esprit de compétition, mon registre, que l'on puisse espérer avoir.
+ - BLEU score: 1.035269
+Sentence 254: Lorsqu'on pense à Proust, on pense aux trucs sentimentaux, non ?
+ - BLEU score: 0.761038
+Sentence 255: On pense au petit garçon qui essaie de s'endormir.
+ - BLEU score: 0.760002
+Sentence 256: On pense à une madeleine trempée dans un thé à la lavande.
+ - BLEU score: 0.638988
+Sentence 257: On oublie à quel point sa vision était sévère.
+ - BLEU score: 0.711483
+Sentence 258: On oublie à quel point il est sans pitié.
+ - BLEU score: 0.986575
+Sentence 259: Je veux dire, ce sont des livres dont Virginia Woolf a dit qu'ils étaient durs comme du catgut.
+ - BLEU score: 0.992469
+Sentence 260: Je ne sais pas ce qu'est du catgut, mais je suppose que c'est redoutable.
+ - BLEU score: 0.978279
+Sentence 261: Pourquoi vont-ils si bien ensemble, le roman et la jalousie, la jalousie et Proust ?
+ - BLEU score: 0.668283
+Sentence 262: Est-ce pour la raison évidente que la jalousie, qui se résume à sujet, désir, obstacle, est un socle narratif tellement solide ?
+ - BLEU score: 0.862439
+Sentence 263: Je ne sais pas. Je pense que c'est une explication un peu limitée, si on réfléchit à ce qui se passe quand on est jaloux.
+ - BLEU score: 0.641181
+Sentence 264: Quand on est jaloux, on se raconte des histoires.
+ - BLEU score: 0.747725
+Sentence 265: On se raconte des histoires sur la vie des autres, et ces histoires nous font du mal, parce qu'elles sont conçues pour nous faire du mal.
+ - BLEU score: 1.095178
+Sentence 266: En tant que conteur et public à la fois, on sait exactement quels détails intégrer pour retourner le couteau dans la plaie, non ?
+ - BLEU score: 0.609852
+Sentence 267: La jalousie fait de nous tous des romanciers amateurs, et c'est une chose que Proust avait comprise.
+ - BLEU score: 0.739303
+Sentence 268: Dans le premier tome, « Du Côté de Chez Swann », dans les premiers volumes, Swann, l'un des personnages principaux, pense très tendrement à sa maîtresse, et à ses qualités au lit, et tout à coup, en quelques phrases -- et ce sont des phrases proustiennes, alors elles sont longues comme des fleuves -- mais en quelques phrases, il se reprend soudain, et il réalise, « Attends, tout ce que j'aime chez cette femme, n'importe qui d'autre l'aimerait aussi.
+ - BLEU score: 0.786603
+Sentence 269: Tout ce qu'elle fait qui me donne du plaisir, pourrait donner du plaisir à n'importe qui d'autre, si ça se trouve en ce moment même. »
+ - BLEU score: 0.710138
+Sentence 270: Et voici l'histoire qu'il commence à se raconter, et à partir de là, Proust écrit que chaque nouveau charme que Swann trouve à sa maîtresse, il l'ajoute à sa « collection d'instruments dans sa chambre de torture privée ».
+ - BLEU score: 0.798499
+Sentence 271: Il faut admettre que Swann et Proust étaient notoirement jaloux.
+ - BLEU score: 0.840874
+Sentence 272: Vous savez. Les petits amis de Proust devaient quitter le pays s'ils voulaient rompre avec lui.
+ - BLEU score: 1.073566
+Sentence 273: Mais sans être jaloux à ce point, on peut admettre que la tâche est rude, non ?
+ - BLEU score: 0.603458
+Sentence 274: La jalousie est épuisante.
+ - BLEU score: 0.720726
+Sentence 275: C'est une émotion exigeante. Elle doit être nourrie.
+ - BLEU score: 0.920042
+Sentence 276: Qu'aime donc la jalousie ?
+ - BLEU score: 0.621618
+Sentence 277: La jalousie aime l'information.
+ - BLEU score: 0.875297
+Sentence 278: La jalousie aime les détails.
+ - BLEU score: 1.036125
+Sentence 279: La jalousie aime les épaisses chevelures très brillantes, les mignonnes petites trousses.
+ - BLEU score: 1.04265
+Sentence 280: La jalousie aime les photos.
+ - BLEU score: 1.057688
+Sentence 281: C'est ce qui explique le succès d'Instagram.
+ - BLEU score: 0.703575
+Sentence 282: Proust fait le lien entre le langage érudit et la jalousie.
+ - BLEU score: 0.96612
+Sentence 283: Lorsque Swann est dans les affres de la jalousie, et que soudain il écoute aux portes, et qu'il soudoie les serviteurs de sa maîtresse, il justifie ces comportements.
+ - BLEU score: 1.099718
+Sentence 284: Il dit : « Ecoutez, je sais que vous pensez que c'est répugnant, mais ce n'est pas différent de la traduction d'un texte ancien, ou de l'observation d'un monument. »
+ - BLEU score: 1.025792
+Sentence 285: Il dit : « Ce sont des investigations scientifiques, avec une réelle valeur intellectuelle. »
+ - BLEU score: 1.057671
+Sentence 286: Proust essaie de nous montrer que la jalousie semble impardonnable, et donne l'air absurde, mais qu'elle est, fondamentalement, une quête de savoir, une quête de vérité, de vérité qui fait mal, et en fait, en ce qui concerne Proust, plus la vérité fait mal, mieux c'est.
+ - BLEU score: 0.947042
+Sentence 287: Le chagrin, l'humiliation, la perte : c'était, pour Proust, les chemins de la sagesse.
+ - BLEU score: 1.074498
+Sentence 288: Il dit : « Une femme que l'on désire, qui nous fait souffrir, suscite en nous une gamme de sentiments bien plus profonds et vitaux qu'un homme de génie qui nous intéresse. »
+ - BLEU score: 0.893164
+Sentence 289: Est-ce qu'il nous conseille d'aller trouver des femmes cruelles ?
+ - BLEU score: 1.047039
+Sentence 290: Non. Je pense qu'il essaie de dire que la jalousie nous révèle à nous-mêmes.
+ - BLEU score: 0.872164
+Sentence 291: Y-a-t-il une autre émotion qui brise notre armure de façon aussi particulière ?
+ - BLEU score: 0.893486
+Sentence 292: Y-a-t-il une autre émotion qui nous révèle ainsi notre propre agressivité, notre affreuse ambition, et nos droits ?
+ - BLEU score: 0.870087
+Sentence 293: Y-a-t-il une autre émotion qui nous apprenne à observer avec une telle étrange intensité ?
+ - BLEU score: 1.037236
+Sentence 294: Freud écrira sur ce sujet plus tard.
+ - BLEU score: 0.811693
+Sentence 295: Un jour, Freud reçut la visite d'un très anxieux jeune homme qui était dévoré par l'idée que sa femme le trompait.
+ - BLEU score: 0.877752
+Sentence 296: Et Freud a dit, il y a quelque chose de bizarre chez ce type, parce qu'il ne regarde pas ce que sa femme fait.
+ - BLEU score: 0.807347
+Sentence 297: Parce qu'elle est innocente ; tout le monde le sait.
+ - BLEU score: 0.607531
+Sentence 298: La pauvre femme est soupçonnée sans raison.
+ - BLEU score: 0.934482
+Sentence 299: Mais il remarque ce que sa femme fait sans y prendre garde, des comportements involontaires.
+ - BLEU score: 0.730425
+Sentence 300: Est-ce qu'elle sourit trop largement ici, ou bien est-ce qu'elle frôle un homme par inadvertance, là ?
+ - BLEU score: 0.789428
+Sentence 301: Freud dit que l'homme devient le gardien de l'inconscient de sa femme.
+ - BLEU score: 0.8701
+Sentence 302: Le roman excelle dans ce domaine.
+ - BLEU score: 0.851572
+Sentence 303: Le roman excelle à décrire comment la jalousie nous apprend à regarder avec intensité, mais sans exactitude.
+ - BLEU score: 0.613959
+Sentence 304: En fait, plus nous sommes violemment jaloux, plus nous nourrissons de fantasmes.
+ - BLEU score: 0.681717
+Sentence 305: C'est la raison pour laquelle, je crois, la jalousie ne nous pousse pas seulement à commettre des actes violents, ou des actes illégaux.
+ - BLEU score: 0.827463
+Sentence 306: La jalousie nous invite à adopter des comportements frénétiquement inventifs.
+ - BLEU score: 0.64905
+Sentence 307: Je pense à moi-même à l'âge de huit ans, je l'avoue, mais je pense également à cette histoire que j'ai entendue aux infos.
+ - BLEU score: 0.89359
+Sentence 308: Une habitante du Michigan, âgée de 52 ans, a été prise à créer un faux compte Facebook avec lequel elle s'est envoyé à elle même, pendant un an, des messages abominables, horribles.
+ - BLEU score: 0.836846
+Sentence 309: Pendant un an. Un an.
+ - BLEU score: 0.923379
+Sentence 310: Elle essayait de faire accuser la nouvelle petite amie de son ex, et je dois dire que quand j'ai entendu ça, je n'ai pu éprouver que de l'admiration.
+ - BLEU score: 1.085968
+Sentence 311: Parce que, je veux dire, soyons sérieux.
+ - BLEU score: 0.641297
+Sentence 312: Quelle immense inventivité, même mal placée, non ?
+ - BLEU score: 0.666813
+Sentence 313: On se croirait dans un roman.
+ - BLEU score: 1.046253
+Sentence 314: On se croirait dans un roman de Patricia Highsmith.
+ - BLEU score: 0.899398
+Sentence 315: J'ai une préférence particulière pour Highsmith.
+ - BLEU score: 1.023865
+Sentence 316: C'est une femme de lettres américaine tellement brillante et étrange.
+ - BLEU score: 0.875034
+Sentence 317: Elle est l'auteur de « L'Inconnu du Nord-Express ». et de « Monsieur Ripley », des livres qui ne parlent que de jalousie, de la façon dont elle brouille nos esprits, et de comment, une fois sous son influence, dans ce royaume de la jalousie, la membrane entre ce qui est et ce qui pourrait être peut être transpercée en un instant.
+ - BLEU score: 0.968887
+Sentence 318: Prenez Tom Ripley, son plus célèbre personnage.
+ - BLEU score: 1.058684
+Sentence 319: Tom Ripley commence par vous désirer, ou désirer ce que vous possédez, puis il prend votre place et s'attribue ce qui était à vous, vous finissez entre quatre planches, il répond à votre nom, il porte votre bague, il vide votre compte en banque.
+ - BLEU score: 0.938469
+Sentence 320: C'est une façon de faire.
+ - BLEU score: 0.89948
+Sentence 321: Mais qu'est-ce qu'on peut faire, nous ? On ne peut pas suivre le chemin de Tom Ripley.
+ - BLEU score: 0.981841
+Sentence 322: Je ne peux pas donner des D au monde entier, même si j'en ai vraiment envie, certains jours.
+ - BLEU score: 1.097573
+Sentence 323: Et c'est bien dommage, car nous vivons une époque de convoitise.
+ - BLEU score: 0.917572
+Sentence 324: Nous vivons une époque de jalousie.
+ - BLEU score: 0.690768
+Sentence 325: Je veux dire, nous sommes tous de bons pratiquants des réseaux sociaux, où la jalousie est monnaie courante n'est-ce pas ?
+ - BLEU score: 0.879623
+Sentence 326: Est-ce que les romans nous indiquent une issue à ce problème ? Je m'interroge.
+ - BLEU score: 1.094576
+Sentence 327: Faisons donc ce que font tous les personnages quand ils s'interrogent, quand ils sont face à un mystère.
+ - BLEU score: 0.673446
+Sentence 328: Allons au numéro 221 B de Baker Street, et demandons Sherlock Holmes.
+ - BLEU score: 1.07803
+Sentence 329: Quand on pense à Holmes, on pense à sa Némésis, le Professeur Moriarty, oui, ce génie criminel.
+ - BLEU score: 1.082066
+Sentence 330: Mais j'ai toujours préféré l'Inspecteur Lestrade, le patron de Scotland Yard, avec sa face de rat, qui a terriblement besoin de Holmes, besoin du génie de Holmes, mais qui lui en veut.
+ - BLEU score: 0.796017
+Sentence 331: Comme je comprends ça !
+ - BLEU score: 0.8212
+Sentence 332: Lestrade a besoin de son aide, il lui en veut, et ne fait que ressasser son amertume tout au long des romans.
+ - BLEU score: 0.83992
+Sentence 333: Mais au fur et à mesure de leur collaboration, quelque chose commence à changer, et finalement, dans « Les Six Napoléons », lorsque Holmes arrive et éblouit tout le monde avec sa solution, Lestrade se tourne vers lui, et lui dit : « Nous ne sommes pas jaloux de vous, M. Holmes,
+ - BLEU score: 0.998469
+Sentence 334: Nous sommes très fiers de vous. »
+ - BLEU score: 0.846725
+Sentence 335: Et il ajoute qu'il n'y aurait pas un homme à Scotland Yard qui ne serait heureux de serrer la main de Sherlock Holmes.
+ - BLEU score: 1.040447
+Sentence 336: C'est l'une des rares fois où l'on voit Holmes être touché, dans les romans, et je trouve cela très émouvant, cette petite scène, mais c'est également mystérieux, non ?
+ - BLEU score: 0.740971
+Sentence 337: On dirait que la jalousie y est considérée comme un problème de géométrie, pas comme une émotion.
+ - BLEU score: 0.764192
+Sentence 338: Vous voyez, à un moment Holmes est à l'opposé de Lestrade.
+ - BLEU score: 1.009259
+Sentence 339: Et l'instant d'après, ils sont du même bord.
+ - BLEU score: 0.603899
+Sentence 340: Tout à coup, Lestrade se laisse aller à admirer cet homme qui lui déplaisait.
+ - BLEU score: 0.847711
+Sentence 341: Serait-ce aussi simple que cela ?
+ - BLEU score: 0.695045
+Sentence 342: Et si la jalousie n'était vraiment qu'une question de géométrie, qu'une question d'endroit où l'on s'autorise à se tenir dans notre relation à l'autre ?
+ - BLEU score: 0.757804
+Sentence 343: Eh bien, peut-être qu'alors nous n'aurions pas besoin de mal prendre l'excellence d'autrui ?
+ - BLEU score: 0.718303
+Sentence 344: On pourrait en prendre modèle.
+ - BLEU score: 0.897691
+Sentence 345: Mais j'aime avoir une solution d'urgence.
+ - BLEU score: 0.906771
+Sentence 346: Donc, en attendant que cela se produise, souvenons-nous que nous pouvons trouver une consolation dans la fiction.
+ - BLEU score: 0.680467
+Sentence 347: Seule la fiction démystifie la jalousie.
+ - BLEU score: 0.613632
+Sentence 348: Seule la fiction la dompte, l'invite à notre table.
+ - BLEU score: 1.048408
+Sentence 349: Et regardez ceux qu'elle rassemble : le gentil Lestrade, le terrifiant Tom Ripley, ce fou de Swann, Marcel Proust lui-même.
+ - BLEU score: 0.674648
+Sentence 350: Nous sommes en excellente compagnie.
+ - BLEU score: 0.938624
+Sentence 351: Merci.
+ - BLEU score: 1.075963
+Sentence 352: J'avais à peu près 10 ans en camping avec mon père dans le massif des Adirondacks, une zone de nature sauvage dans la partie nord de l'état de New York.
+ - BLEU score: 0.760009
+Sentence 353: C'était une belle journée.
+ - BLEU score: 0.872256
+Sentence 354: La forêt était étincelante.
+ - BLEU score: 1.003875
+Sentence 355: Le soleil faisait briller les feuilles comme des vitraux et si ce n'était le chemin que nous suivions, nous aurions pu presque prétendre être les premiers êtres humains à marcher sur cette terre.
+ - BLEU score: 0.677143
+Sentence 356: Nous sommes arrivés au camping.
+ - BLEU score: 0.981276
+Sentence 357: C'était un appentis sur une falaise donnant sur un beau lac limpide, quand j'ai découvert une horreur.
+ - BLEU score: 0.730072
+Sentence 358: Derrière l'appentis, il y avait un tas d'ordure, peut-être 4 m², avec des trognons de pomme en train de pourir, des boules de papier aluminium, et une basket défoncée.
+ - BLEU score: 1.043295
+Sentence 359: J'étais stupéfaite, j'étais très en colère et profondément perplexe.
+ - BLEU score: 0.674244
+Sentence 360: Les campeurs qui étaient trop paresseux pour emporter ce qu'ils avaient amené qui pensaient-ils allait nettoyer après eux ?
+ - BLEU score: 0.75019
+Sentence 361: Cette question m'est restée, un peu simplifiée.
+ - BLEU score: 0.628144
+Sentence 362: Qui nettoie après nous ?
+ - BLEU score: 0.653001
+Sentence 363: On peut la retourner dans tous les sens, où qu'on place le 'nous', qui nettoie après nous à Istanbul ?
+ - BLEU score: 0.972265
+Sentence 364: Qui nettoie après nous à Rio ou à Paris ou à Londres ?
+ - BLEU score: 0.85084
+Sentence 365: Ici, à New York, le service sanitaire nettoie après nous, à hauteur de 11 000 tonnes d'ordures et 2000 tonnes de matières recyclables tous les jours.
+ - BLEU score: 0.850376
+Sentence 366: Je voulais les connaître en tant qu'individus.
+ - BLEU score: 0.759603
+Sentence 367: Je voulais comprendre qui se charge de la tâche.
+ - BLEU score: 0.993338
+Sentence 368: Qu'est-ce que c'est que de porter l'uniforme et porter ce fardeau ?
+ - BLEU score: 0.661055
+Sentence 369: Alors j'ai commencé un projet de recherche avec eux.
+ - BLEU score: 0.685285
+Sentence 370: Je roulais dans les camions et parcourais les routes, j'interviewais les gens dans les bureaux et les établissements partout dans la ville, et j'ai beaucoup appris, mais je restais une étrangère.
+ - BLEU score: 0.658205
+Sentence 371: Il me fallait aller plus loin.
+ - BLEU score: 0.70902
+Sentence 372: J'ai donc pris le travail en tant qu'éboueur.
+ - BLEU score: 0.735765
+Sentence 373: Je ne montais pas seulement dans les camions. Je les conduisais.
+ - BLEU score: 0.692716
+Sentence 374: J'ai utilisé les balais mécaniques et j'ai déneigé.
+ - BLEU score: 0.644285
+Sentence 375: Ça a été un formidable privilège et une éducation incroyable.
+ - BLEU score: 1.041051
+Sentence 376: Tout le monde pose la question de l'odeur.
+ - BLEU score: 0.772577
+Sentence 377: Elle est là, mais ce n'est pas aussi fréquente que vous le pensez, et les jours où ça sent vraiment mauvais, vous vous y habituez assez vite.
+ - BLEU score: 0.903604
+Sentence 378: Il faut longtemps pour s'habituer au poids.
+ - BLEU score: 1.023581
+Sentence 379: J'ai connu des personnes qui travaillaient depuis des années dont les corps commençaient à peine à s'adapter au poids de porter des tonnes de déchets chaque semaine.
+ - BLEU score: 1.049372
+Sentence 380: Ensuite il y a le danger.
+ - BLEU score: 0.601997
+Sentence 381: Selon l'Agence américaine de statistiques du travail, le travail d'éboueur est une des 10 professions plus dangereuse du pays, et j'ai appris pourquoi.
+ - BLEU score: 0.748553
+Sentence 382: Vous êtes dans la circulation toute la journée, et ça passe à toute allure de tous les côtés autour de vous.
+ - BLEU score: 1.077543
+Sentence 383: Ils veulent juste vous dépasser, donc souvent les automobilistes ne font pas attention.
+ - BLEU score: 0.668606
+Sentence 384: C'est vraiment mauvais pour le travailleur.
+ - BLEU score: 0.802474
+Sentence 385: Et puis les ordures elles-même sont pleines de dangers qui souvent ressortent du camion et font terriblement mal.
+ - BLEU score: 0.600843
+Sentence 386: J'ai aussi compris l'acharnement des ordures.
+ - BLEU score: 0.78527
+Sentence 387: Quand vous descendez du trottoir et voyez une ville depuis l'arrière d'un camion, vous comprenez que les ordures sont comme une force de la nature à part entière.
+ - BLEU score: 0.839715
+Sentence 388: Elles ne s'arrêtent jamais.
+ - BLEU score: 1.027699
+Sentence 389: Elles sont aussi comme une forme de respiration ou de circulation.
+ - BLEU score: 0.626035
+Sentence 390: Elles doivent toujours être en mouvement.
+ - BLEU score: 0.609398
+Sentence 391: Et puis, il y a la stigmatisation.
+ - BLEU score: 1.013237
+Sentence 392: Vous mettez l'uniforme, et vous devenez invisible jusqu'à ce que quelqu'un soit en colère contre vous pour une raison quelconque, comme avoir bloqué la circulation avec votre camion, ou parce que vous faites une pause trop près de chez eux, ou buvez en café dans leur bar, et ils viennent vous montrer leur mépris et vous dire qu'ils ne vous veulent pas près d'eux.
+ - BLEU score: 0.727619
+Sentence 393: Je trouve la stigmatisation particulièrement ironique, parce que je crois que les éboueurs sont la plus population active la plus importante dans les rues de la ville, pour trois raisons.
+ - BLEU score: 0.861476
+Sentence 394: Ce sont les premiers gardiens de la santé publique.
+ - BLEU score: 0.605182
+Sentence 395: S'ils n'emmènent pas les ordures efficacement tous les jours, elles commencent à déborder de leurs poubelles, et les dangers qui s'en suivent nous menacent réellement.
+ - BLEU score: 0.993093
+Sentence 396: Les maladies que nous avons sous contrôle pendant des décennies et des siècles réapparaissent à nouveau et commencer à nuire.
+ - BLEU score: 0.752685
+Sentence 397: L'économie a besoin d'eux.
+ - BLEU score: 0.707132
+Sentence 398: Si nous ne pouvons pas jeter les vieilles choses, nous n'aurons pas de place pour les nouvelles, ainsi, les moteurs de l'économie commencent à s'emballer lorsque la consommation est compromise.
+ - BLEU score: 0.918198
+Sentence 399: Je ne défends pas le capitalisme, je souligne juste leur relation.
+ - BLEU score: 0.780793
+Sentence 400: Et puis il y a ce que j'appelle notre vitesse quotidienne moyenne nécessaire.
+ - BLEU score: 0.757395
+Sentence 401: J'entends par là tout simplement à quelle vitesse nous sommes habitués à nous déplacer dans l'époque contemporaine.
+ - BLEU score: 0.96352
+Sentence 402: Habituellement nous ne nous soucions pas de réparer, nettoyer, transporter notre tasse de café, nos cabas, notre bouteille d'eau.
+ - BLEU score: 0.910056
+Sentence 403: Nous les utilisons, nous les jetons, nous les oublions, parce que nous savons qu'il y a des gens qui travaillent de l'autre côté qui vont tout emporter.
+ - BLEU score: 0.701539
+Sentence 404: Je tiens donc à proposer aujourd'hui deux façons de penser à l'assainissement qui contribueront peut-être à atténuer la stigmatisation et les ramener dans cette conversation sur comment concevoir une ville durable et humaine.
+ - BLEU score: 0.821924
+Sentence 405: Leur travail, je pense, est un peu liturgique.
+ - BLEU score: 0.890635
+Sentence 406: Ils sont dans les rues tous les jours, de façon rythmique.
+ - BLEU score: 0.69168
+Sentence 407: Ils portent un uniforme dans de nombreuses villes.
+ - BLEU score: 0.8503
+Sentence 408: Vous savez quand vous attendre à les voir.
+ - BLEU score: 0.679254
+Sentence 409: Et leur travail nous permet de faire notre travail.
+ - BLEU score: 1.060691
+Sentence 410: Ils sont presque une forme de réconfort.
+ - BLEU score: 0.916733
+Sentence 411: Le flux qu'ils entretiennent nous protège de nous-mêmes, de notre crasse, de nos vieilles fringues, et ce flux doit être maintenu en permanence quoi qu'il arrive.
+ - BLEU score: 0.832006
+Sentence 412: Le jour suivant le 11 septembre en 2001, j'ai entendu le grondement d'un camion poubelle dans la rue, j'ai attrapé mon bébé, je suis descendue en courant et il y avait un homme qui faisait son circuit de collecte du papier à recycler comme il le faisait tous les mercredis.
+ - BLEU score: 1.01751
+Sentence 413: J'ai essayé de le remercier pour son travail ce jour-là en particulier, mais j'ai commencé à pleurer.
+ - BLEU score: 0.688696
+Sentence 414: Il m'a regardé, il a juste hoché la tête et il a dit : « Tout va bien se passer.
+ - BLEU score: 0.82528
+Sentence 415: Tout va bien se passer. »
+ - BLEU score: 1.081405
+Sentence 416: C'est un peu plus tard que j'ai commencé mes recherches sur le nettoyage, et j'ai rencontré à nouveau cet homme.
+ - BLEU score: 0.642906
+Sentence 417: Il s'appelle Paulie, nous avons travaillé ensemble plusieurs fois, et nous sommes devenus bons amis.
+ - BLEU score: 0.947876
+Sentence 418: Je veux croire que Paulie avait raison.
+ - BLEU score: 1.001476
+Sentence 419: Tout va bien se passer.
+ - BLEU score: 0.992981
+Sentence 420: Mais dans l'effort pour réorganiser la manière dont nous existons en tant qu'espèce sur cette planète, nous devons prendre en compte tous les coûts, y compris le coût très réel du travail.
+ - BLEU score: 0.760208
+Sentence 421: Et nous ferions bien de tendre la main aux gens qui font ce travail et prendre leur avis d'experts sur la manière dont nous concevons, la manière dont nous créons des systèmes autour de la durabilité qui nous emmènent peut-être de la collecte sur les trottoirs, qui est une réussite remarquable des 40 dernières années, à travers les États-Unis et dans d'autres pays du monde, à nous élever vers un horizon plus large où nous considérons d'autres formes de déchets, provenant de sources industrielles et de construction, .qui pourraient être diminuées
+ - BLEU score: 0.979007
+Sentence 422: Les déchets municipaux, ce à quoi nous pensons quand on parle d'ordures, 3%représentent 3 % du flux des déchets du pays.
+ - BLEU score: 1.073434
+Sentence 423: C'est une statistique remarquable.
+ - BLEU score: 0.766299
+Sentence 424: Ainsi, dans le courant de vos journées, dans le courant de vos vies, la prochaine fois que vous voyez quelqu'un dont le travail est de nettoyer après vous, prenez le temps de vous montrer reconnaissant.
+ - BLEU score: 0.740032
+Sentence 425: Prenez le temps de dire merci.
+ - BLEU score: 0.736772
+Sentence 426: Bonjour, TEDWomen, ça va ?
+ - BLEU score: 0.929845
+Sentence 427: C'est pas encore ça.
+ - BLEU score: 0.983008
+Sentence 428: Bonjour, TEDWomen, comment ça va ?
+ - BLEU score: 1.092882
+Sentence 429: Je m'appelle Maysoon Zayid, et je ne suis pas saoule, mais le docteur qui m'a fait naître l'était.
+ - BLEU score: 0.999616
+Sentence 430: Il a ouvert ma mère à six reprises, en six endroits différents, ce qui a eu pour conséquence de m'asphyxier dans l'opération.
+ - BLEU score: 0.726466
+Sentence 431: Résultat : j'ai une paralysie cérébrale, ce qui veut dire que je tremble tout le temps.
+ - BLEU score: 0.861701
+Sentence 432: Regardez.
+ - BLEU score: 0.745642
+Sentence 433: C'est épuisant. Je suis comme Shakira, Shakira qui rencontre Mohammed Ali.
+ - BLEU score: 1.016394
+Sentence 434: La paralysie cérébrale n'est pas génétique.
+ - BLEU score: 0.989441
+Sentence 435: Ce n'est pas une anomalie congénitale. Vous ne pouvez pas l'attraper.
+ - BLEU score: 0.700486
+Sentence 436: Personne n'a jeté de sort sur l'utérus de ma mère, et je n'ai pas eu ça parce que mes parents étaient cousins au premier degré, même s'ils le sont.
+ - BLEU score: 0.859311
+Sentence 437: Ça n'arrive que par un accident, comme celui qui m'est arrivé le jour de ma naissance.
+ - BLEU score: 0.677277
+Sentence 438: Je préfère vous prévenir, je ne suis pas un exemple, et je ne veux pas que quiconque dans cette salle me plaigne, parce ce qu'il y a sûrement eu un moment dans votre vie, où vous avez rêvé d'être handicapé.
+ - BLEU score: 1.068692
+Sentence 439: Imaginez.
+ - BLEU score: 0.971841
+Sentence 440: C'est la veille de Noël, vous êtes au centre commercial, vous tournez en rond pour trouver une place de parking, et qu'est-ce que vous voyez ?
+ - BLEU score: 0.96804
+Sentence 441: Seize places pour handicapés, vides.
+ - BLEU score: 0.843669
+Sentence 442: Et vous vous dites, « Mon dieu, pourquoi ne suis-je pas rien qu'un petit peu invalide ? »
+ - BLEU score: 1.092203
+Sentence 443: Et puis, il faut que je vous dise, j'ai des tonnes de problèmes, la paralysie n'en est qu'un parmi 99 autres.
+ - BLEU score: 0.955988
+Sentence 444: S'il y avait des Jeux Olympiques de l'Oppression, je gagnerais la médaille d'or.
+ - BLEU score: 0.696349
+Sentence 445: Je suis Palestinienne, Musulmane, je suis une femme, je suis invalide, et je vis dans le New Jersey.
+ - BLEU score: 0.932653
+Sentence 446: Ça devrait vous aider à vous sentir mieux dans votre peau.
+ - BLEU score: 0.665286
+Sentence 447: J'ai grandi à Cliffside Park, dans le New Jersey.
+ - BLEU score: 1.088693
+Sentence 448: J'ai toujours aimé le fait que mon quartier et mon affection partagent les même initiales.
+ - BLEU score: 1.098436
+Sentence 449: J'aime aussi le fait que si je voulais marcher de ma maison jusqu'à New York, je pouvais.
+ - BLEU score: 0.655027
+Sentence 450: Beaucoup de gens qui ont une paralysie cérébrale ne peuvent pas marcher, mais mes parents n'acceptaient pas qu'on leur dise « je ne peux pas ».
+ - BLEU score: 0.788959
+Sentence 451: Le mantra de mon père était, « Tu peux le faire, oui, tu peux pouvoir. »
+ - BLEU score: 0.671714
+Sentence 452: Donc, si mes trois sœurs aînées passaient la serpillière, je passais la serpillière.
+ - BLEU score: 0.852454
+Sentence 453: Si mes trois sœurs aînées allaient à l'école publique, mes parents portaient plainte contre le système scolaire pour obtenir que j'y aille aussi, et si nous n'avions pas tous des A, on se prenait tous les coups de savate de ma mère.
+ - BLEU score: 0.845929
+Sentence 454: Mon père m'a appris à marcher quand j'avais 5 ans en plaçant mes talons sur ses pieds et en marchant, simplement.
+ - BLEU score: 0.956802
+Sentence 455: Une autre tactique qu'il utilisait était d'agiter un billet de un dollar devant moi, et je devais l'attraper.
+ - BLEU score: 0.934657
+Sentence 456: La strip-teaseuse en moi était très forte, et à ... Oui. A mon entrée en maternelle, je marchais déjà comme une championne qui a pris un coup de trop.
+ - BLEU score: 0.982131
+Sentence 457: Quand j'était petite, il n'y avait que six arabes dans ma ville, et ils faisaient tous partie de ma famille.
+ - BLEU score: 1.058084
+Sentence 458: Maintenant, il y a vingt arabes en ville, et ils sont encore tous de ma famille.
+ - BLEU score: 0.625826
+Sentence 459: Je crois que personne ne s'est même rendu compte que nous n'étions pas italiens.
+ - BLEU score: 0.929966
+Sentence 460: C'était avant le 11 septembre, et avant que les politiciens ne se mettent à penser qu'il était bon d'avoir comme slogan de campagne « Je déteste les musulmans ».
+ - BLEU score: 1.034388
+Sentence 461: Ma foi ne posait aucun problème aux gens avec qui j'ai grandi.
+ - BLEU score: 1.058323
+Sentence 462: En revanche, ils avaient très peur que je meure de faim pendant le Ramadan.
+ - BLEU score: 0.805727
+Sentence 463: Je leur expliquais que j'avais assez de graisse pour vivre dessus pendant trois mois entiers, et que donc, jeûner du lever au coucher du soleil, c'était du gâteau.
+ - BLEU score: 0.872239
+Sentence 464: J'ai fait des claquettes à Broadway.
+ - BLEU score: 0.986392
+Sentence 465: Oui, à Broadway. C'est fou.
+ - BLEU score: 0.685862
+Sentence 466: Mes parents ne pouvaient pas me payer de rééducation, alors ils m'ont envoyée dans une école de danse.
+ - BLEU score: 0.857968
+Sentence 467: J'ai appris à danser en talons hauts, ce qui veut dire que je peux marcher en talons hauts.
+ - BLEU score: 1.01065
+Sentence 468: Et je viens du New Jersey, où l'on accorde beaucoup d'importance à l'élégance, alors si mes amies portaient des talons hauts, moi aussi.
+ - BLEU score: 0.604951
+Sentence 469: Et tandis que mes amis allaient passer leurs grandes vacances sur la côte du New Jersey, pas moi.
+ - BLEU score: 1.045105
+Sentence 470: Je passais mes étés dans une zone de guerre, parce que mes parents craignaient que si on ne retourne pas chaque été en Palestine, on finirait comme Madonna.
+ - BLEU score: 0.696401
+Sentence 471: Mon père passait souvent les grandes vacances à essayer de me guérir, j'ai donc bu du lait de biche, on m'a posé des ventouses sur le dos, j'ai été plongée dans la Mer Morte, et je me souviens que l'eau me brûlait les yeux, et que je pensais : « Ça marche ! Ça marche ! »
+ - BLEU score: 0.703185
+Sentence 472: Mais nous avons trouvé un remède miracle : le yoga.
+ - BLEU score: 1.056403
+Sentence 473: Je dois vous dire, c'est très chiant, mais avant de faire du yoga, j'étais une comique de stand-up qui ne tenait pas debout.
+ - BLEU score: 0.655322
+Sentence 474: Maintenant, je peux faire le poirier.
+ - BLEU score: 0.618813
+Sentence 475: Mes parents m'ont inculqué l'idée que je pouvais tout réussir, qu'aucun rêve n'était hors de ma portée, et mon rêve était de jouer dans la série « Hôpital Central ».
+ - BLEU score: 0.956122
+Sentence 476: Je suis allée à la fac grâce à la discrimination positive et j'ai eu une bonne bourse pour l'ASU, l'Université d'Etat d'Arizona, parce que je remplissais chacun des quotas.
+ - BLEU score: 0.683079
+Sentence 477: J'étais la mascotte de la section théâtre.
+ - BLEU score: 1.093293
+Sentence 478: Tout le monde m'aimait.
+ - BLEU score: 0.78324
+Sentence 479: Je faisais les devoirs des enfants pas très intelligents, j'ai eu des A à tous mes examens, et des A à tous leurs examens.
+ - BLEU score: 0.752145
+Sentence 480: Chaque fois que je jouais une scène de « La Ménagerie de Verre » mes professeurs pleuraient.
+ - BLEU score: 0.614357
+Sentence 481: Mais je n'ai jamais obtenu de rôle.
+ - BLEU score: 1.095381
+Sentence 482: Finalement, pendant ma dernière année, l'ASU a décidé de monter un spectacle appelé « They Dance Real Slow in Jackson ».
+ - BLEU score: 0.721002
+Sentence 483: C'est une pièce sur une fille qui a une paralysie cérébrale.
+ - BLEU score: 0.985241
+Sentence 484: Je suis une fille qui a une paralysie cérébrale.
+ - BLEU score: 1.072217
+Sentence 485: J'ai commencé à crier sur tous les toits, « Je vais enfin avoir un rôle !
+ - BLEU score: 1.070454
+Sentence 486: J'ai une paralysie cérébrale !
+ - BLEU score: 1.07767
+Sentence 487: Enfin libre ! Enfin libre !
+ - BLEU score: 1.064351
+Sentence 488: Merci Dieu tout puissant, je suis enfin libre ! »
+ - BLEU score: 0.848742
+Sentence 489: Je n'ai pas eu le rôle.
+ - BLEU score: 0.984359
+Sentence 490: Sherry Brown a eu le rôle.
+ - BLEU score: 1.053148
+Sentence 491: J'ai couru voir la directrice de la section théâtre en sanglotant éperdument, comme si on venait de tuer mon chat, je lui ai demandé pourquoi, et elle m'a répondu que c'était parce qu'ils pensaient que je ne pourrais pas faire les cascades.
+ - BLEU score: 1.060214
+Sentence 492: J'ai dit, « Excusez-moi, mais si je ne peux pas faire les cascades, le personnage non plus. »
+ - BLEU score: 0.991452
+Sentence 493: J'étais littéralement née pour ce rôle, et ils le lui ont donné, ils l'ont donné à une actrice non paralysée.
+ - BLEU score: 0.768172
+Sentence 494: L'université ne faisait qu'imiter la vie.
+ - BLEU score: 0.696588
+Sentence 495: Hollywood a la sordide habitude de prendre des acteurs non-handicapés pour jouer des infirmes à l'écran.
+ - BLEU score: 0.64806
+Sentence 496: Dès que j'ai été diplômée, je suis revenue à la maison, et ma première prestation d'actrice a été une figuration dans une série quotidienne.
+ - BLEU score: 1.094464
+Sentence 497: Mon rêve devenait réalité.
+ - BLEU score: 0.850472
+Sentence 498: J'étais sûre que je serais promue du rôle de « copine » à celui de « meilleure amie timbrée » en un rien de temps.
+ - BLEU score: 0.808397
+Sentence 499: Au lieu de ça, je suis restée une potiche dont on n'aurait pu reconnaître que la nuque. J'ai vite compris que les directeurs de casting ne recrutaient pas d'actrices pulpeuses, ethniques et handicapées.
+ - BLEU score: 0.722901
+Sentence 500: Ils ne recrutent que les gens parfaits.
+ - BLEU score: 0.824816
+Sentence 501: Mais il y avait des exceptions à la règle.
+ - BLEU score: 1.005774
+Sentence 502: J'ai grandi en regardant Whoopi Goldberg, Roseanne Barr, Ellen, et toutes ces femmes avaient une chose en commun : elles étaient comiques.
+ - BLEU score: 0.814938
+Sentence 503: Je suis donc devenue humoriste.
+ - BLEU score: 0.987014
+Sentence 504: Mon premier contrat a été de conduire des humoristes célèbres de New York à des spectacles dans le New Jersey, et je n'oublierai jamais la tête du premier humoriste que j'ai conduit lorsqu'il a compris qu'il fonçait sur l'autoroute du New Jersey avec au volant une fille atteinte de paralysie cérébrale.
+ - BLEU score: 0.844004
+Sentence 505: Je me suis produite dans des clubs partout en Amérique, et j'ai aussi joué en arabe au Moyen-orient, non censurée et non voilée.
+ - BLEU score: 0.931206
+Sentence 506: Certaines personnes disent que je suis la première humoriste de stand-up du monde arabe.
+ - BLEU score: 1.080024
+Sentence 507: Je n'ai jamais aimé dire prems', mais je sais qu'ils n'avaient jamais entendu cette sale petite rumeur selon laquelle les femmes ne sont pas drôles, et qu'ils nous trouvent tordantes.
+ - BLEU score: 0.921371
+Sentence 508: En 2003, mon frère issu d'une autre mère et d'un autre père, Dean Obeidallah et moi-même, avons créé le Festival du Rire Arabo-Américain de New York, qui en est à sa dixième année maintenant.
+ - BLEU score: 0.893439
+Sentence 509: Notre objectif était de changer l'image négative des Arabes Américains dans les média, et de rappeler aussi aux directeurs de casting que sud-asiatique et arabe ne sont pas des synonymes.
+ - BLEU score: 1.022051
+Sentence 510: Intégrer les arabes a été beaucoup plus facile que relever le défi de la stigmatisation des handicapés.
+ - BLEU score: 0.75798
+Sentence 511: Ma grande percée a eu lieu en 2010.
+ - BLEU score: 1.072525
+Sentence 512: On m'a proposé d'être une invitée dans l'émission d'information du câble « Countdown With Keith Olbermann ».
+ - BLEU score: 0.846505
+Sentence 513: J'ai fait mon entrée comme si j'allais au bal de fin d'année, ils m'ont traînée dans un studio, et ils m'ont assise sur un fauteuil à roulettes pivotant.
+ - BLEU score: 0.621492
+Sentence 514: J'ai regardé la régisseuse de plateau et je lui ai dit, « Excusez-moi, est-ce que je pourrais avoir un autre fauteuil ? »
+ - BLEU score: 1.093145
+Sentence 515: Elle m'a regardé et a commencé, « Cinq, quatre, trois, deux... »
+ - BLEU score: 0.605973
+Sentence 516: Et on était en direct, vous voyez ?
+ - BLEU score: 0.739633
+Sentence 517: J'ai donc dû m'agripper au bureau du présentateur pour ne pas rouler hors de l'écran pendant la séquence, et lorsque l'interview a été terminé, j'étais blême.
+ - BLEU score: 0.880772
+Sentence 518: J'avais finalement eu ma chance et je l'avais gâchée, je savais que je ne serais plus jamais invitée.
+ - BLEU score: 1.08255
+Sentence 519: Non seulement M. Olbermann m'a réinvitée, mais il a fait de moi une collaboratrice à temps plein, et il a scotché ma chaise.
+ - BLEU score: 0.628178
+Sentence 520: Un truc que j'ai appris en étant à l'antenne, avec Keith Olbermann, c'est que les êtres humains sur Internet sont des pourritures.
+ - BLEU score: 1.096365
+Sentence 521: Les gens disent que les enfants sont cruels, mais on ne s'était jamais moqué de moi, ni enfant ni adulte.
+ - BLEU score: 0.978233
+Sentence 522: Soudain, mon handicap est devenu une cible idéale sur le Web.
+ - BLEU score: 1.011049
+Sentence 523: Je regardais les vidéos en ligne, et je voyais des commentaires comme : « Pourquoi est-ce qu'elle tremble ? »
+ - BLEU score: 1.015039
+Sentence 524: « Elle est attardée ou quoi ? »
+ - BLEU score: 0.860733
+Sentence 525: Et ma préférée : « Pauvre bouffonne terroriste.
+ - BLEU score: 1.066979
+Sentence 526: De quoi souffre-t-elle ?
+ - BLEU score: 0.764334
+Sentence 527: On devrait vraiment prier pour elle. »
+ - BLEU score: 0.795173
+Sentence 528: Un des auteurs de commentaires a même suggéré que j'ajoute mon handicap à ma carte de visite : auteur, humoriste, paralysée.
+ - BLEU score: 0.998072
+Sentence 529: Le handicap est aussi visuel que la race.
+ - BLEU score: 0.709542
+Sentence 530: Si quelqu'un en fauteuil roulant ne peut pas jouer Beyoncé, alors Beyoncé ne peut pas jouer quelqu'un en fauteuil roulant.
+ - BLEU score: 0.852853
+Sentence 531: Les handicapés sont la plus grande... Oui, vous pouvez applaudir. Allez-y !
+ - BLEU score: 1.040623
+Sentence 532: Les gens avec des handicaps constituent la plus grande minorité au monde, et nous sommes les plus sous-représentés dans le spectacle.
+ - BLEU score: 1.09668
+Sentence 533: Les docteurs disaient que je ne marcherais jamais, mais je suis là, devant vous.
+ - BLEU score: 0.622583
+Sentence 534: Cependant, si j'avais grandi avec les réseaux sociaux, je ne crois pas que je serai là.
+ - BLEU score: 0.927125
+Sentence 535: J'espère que tous ensemble nous pourrons créer une image plus positive du handicap dans les médias et dans la vie quotidienne.
+ - BLEU score: 0.766663
+Sentence 536: Peut-être que si l'on voyait plus d'images positives, ça encouragerait moins la haine sur Internet.
+ - BLEU score: 1.044467
+Sentence 537: Ou peut-être pas.
+ - BLEU score: 0.722381
+Sentence 538: Peut-être qu'il faut encore un village pour enseigner le bien à nos enfants.
+ - BLEU score: 0.981765
+Sentence 539: Mon voyage tortueux m'a emmenée dans des endroits très spectaculaires.
+ - BLEU score: 0.783349
+Sentence 540: J'ai foulé le tapis rouge aux côté de la star de série Susan Lucci et de l'emblématique Lorraine Arbus.
+ - BLEU score: 1.048263
+Sentence 541: J'ai eu un rôle dans un film avec Adam Sandler et j'ai travaillé avec mon idole, l'incroyable Dave Matthews.
+ - BLEU score: 0.646602
+Sentence 542: Je suis partie en tournée dans le monde comme tête d'affiche du festival « Les Arabes se Lâchent ».
+ - BLEU score: 0.905529
+Sentence 543: J'ai été déléguée pour représenter le grand état du New Jersey à la Convention Nationale Démocrate de 2008.
+ - BLEU score: 0.669978
+Sentence 544: Et j'ai fondé « Les enfants de Maysoon » une œuvre de charité qui espère donner aux enfants réfugiés palestiniens une infime partie de la chance que mes parents m'ont donnée.
+ - BLEU score: 0.843874
+Sentence 545: Mais le moment qui compte le plus a été lorsque j'ai -- Avant maintenant -- Mais le moment qui compte le plus pour moi, c'est lorsque j'ai joué pour l'homme qui volait comme un papillon et piquait comme une abeille, qui est atteint de Parkinson et tremble, tout comme moi, Mohamed Ali.
+ - BLEU score: 0.634732
+Sentence 546: C'est la seule et unique fois où mon père m'a vue jouer sur scène, et je dédie cette conférence à sa mémoire.
+ - BLEU score: 0.733594
+Sentence 547: Mon nom est Maysoon Zayid, et si je peux pouvoir, alors vous pouvez pouvoir.
+ - BLEU score: 0.718193
+Sentence 548: Dans le passé, nous avons résolu de grands problèmes.
+ - BLEU score: 0.70694
+Sentence 549: Le 21 Juillet 1969 Buzz Aldrin est sorti du module lunaire d'Apollo 11 et est descendu dans la Mer de la Tranquillité.
+ - BLEU score: 1.091272
+Sentence 550: Armstrong et Aldrin étaient seuls, mais leur présence sur la surface grise de la Lune, était l'aboutissement d'un effort collectif, convulsif.
+ - BLEU score: 0.650716
+Sentence 551: Le programme Apollo a permis la mobilisation la plus importante en période de paix, de l'Histoire des États-Unis.
+ - BLEU score: 0.860685
+Sentence 552: Pour se rendre sur la Lune, la NASA a dépensé environ 180 milliards de dollars actuels, soit 4 % du budget fédéral.
+ - BLEU score: 0.936356
+Sentence 553: Apollo a employé environ 400 000 personnes et a requis la collaboration de 20 000 entreprises, universités et organismes gouvernementaux.
+ - BLEU score: 0.676918
+Sentence 554: Des gens sont morts, dont l'équipage d'Apollo 1.
+ - BLEU score: 0.830217
+Sentence 555: Mais avant que le programme Apollo ait pris fin 24 hommes ont volé vers la Lune.
+ - BLEU score: 0.661948
+Sentence 556: Douze ont marché sur sa surface, dont Aldrin, qui, suite à la mort d'Armstrong l'année dernière, devint le plus âgé d'entre eux.
+ - BLEU score: 0.634217
+Sentence 557: Alors, pourquoi y sont-ils allés ?
+ - BLEU score: 1.005579
+Sentence 558: Ils n'ont pas apporté grand' chose à leur retour : 380 kg de vieilles pierres, et quelque chose que ces 24 personnes ont souligné plus tard -- un nouveau sens de la petitesse et la fragilité de notre maison commune.
+ - BLEU score: 0.753133
+Sentence 559: Pourquoi y sont-ils allés ? La réponse cynique, c'est qu'ils y sont allés parce que le Président Kennedy a voulu montrer aux Soviétiques que son pays avait de meilleurs fusées.
+ - BLEU score: 0.851046
+Sentence 560: Mais les mots que Kennedy a prononcés à l'Université Rice en 1962 en donnent une meilleure idée.
+ - BLEU score: 0.611228
+Sentence 561: Jason Pontin : Pour nos historiens contemporains, Apollo n'était pas seulement une victoire de l'Ouest sur l'Est pendant la guerre froide.
+ - BLEU score: 0.854741
+Sentence 562: À l'époque, l'émotion la plus forte, était l'émerveillement suscité par les pouvoirs transcendants de la technologie.
+ - BLEU score: 1.097149
+Sentence 563: Ils y sont allés parce que c'était une grande chose à faire.
+ - BLEU score: 0.931152
+Sentence 564: L'atterrissage sur la Lune s'est produit dans le contexte d'une longue série de triomphes technologiques.
+ - BLEU score: 0.839593
+Sentence 565: La première moitié du 20ème siècle a produit : la chaîne de montage et l'avion, la pénicilline et un vaccin contre la tuberculose.
+ - BLEU score: 0.958679
+Sentence 566: Au milieu du siècle, la polio a été éradiquée et la variole éliminée.
+ - BLEU score: 0.717936
+Sentence 567: La technologie elle-même semblait posséder ce qu'Alvin Toffler, en 1970, appelait : « puissance d'accélération.»
+ - BLEU score: 0.902104
+Sentence 568: Pendant la plus grande partie de l'Histoire humaine, nous ne pouvions pas aller plus vite qu'un cheval, ou un bateau à voile, mais en 1969, l'équipage d'Apollo 10 a volé à une vitesse de 40 000 km / h.
+ - BLEU score: 0.61913
+Sentence 569: Depuis 1970, aucun être humain n'est retourné sur la Lune.
+ - BLEU score: 1.017303
+Sentence 570: Personne n'a voyagé plus vite que l'équipage d'Apollo 10, et puis cet optimisme insouciant sur les pouvoirs de la technologie s'est évaporé comme les grands problèmes que l'on avait imaginé pouvant être résolus par la technologie. comme aller sur Mars, créer de l'énergie propre, guérir le cancer, ou nourrir le monde entier, nous semblent aujourd'hui irréductiblement complexes.
+ - BLEU score: 0.93071
+Sentence 571: Je me souviens regarder le décollage d'Apollo 17.
+ - BLEU score: 0.906165
+Sentence 572: J'avais cinq ans, et ma mère m'a dit de ne pas fixer du regard le système d'échappement d'une des fusées Saturn V.
+ - BLEU score: 1.097587
+Sentence 573: J'étais vaguement au courant que ça devait être la dernière des missions lunaires, mais j'étais absolument certain que j'assisterais aux colonies de Mars, au cours de ma vie.
+ - BLEU score: 0.924431
+Sentence 574: Ainsi, « Quelque chose est arrivé à notre capacité à résoudre de grands problèmes par le biais de la technologie » est devenu un refrain connu.
+ - BLEU score: 0.897196
+Sentence 575: On entend cela tout le temps.
+ - BLEU score: 0.956806
+Sentence 576: On l'a entendu au cours des deux derniers jours ici à TED.
+ - BLEU score: 0.730581
+Sentence 577: Il semble que les technologues ont détourné notre attention vers des gadgets insignifiants, avec lesquels ils se sont enrichis. comme les iPhones, les différentes applications et les réseaux sociaux, ou encore des algorithmes qui ont augmenté la vitesse des systèmes d'échanges automatisés.
+ - BLEU score: 1.047024
+Sentence 578: Il n'y a rien de mal dans la plupart de ces choses.
+ - BLEU score: 0.92542
+Sentence 579: Elles ont élargi et enrichi nos vies.
+ - BLEU score: 0.929306
+Sentence 580: Mais elles ne résolvent pas les grands problèmes de l'Humanité.
+ - BLEU score: 0.876961
+Sentence 581: Qu'est-il arrivé alors ?
+ - BLEU score: 0.83181
+Sentence 582: Il y a une explication paroissiale dans la Silicon Valley, qui admet qu'elle a financé des sociétés moins ambitieuses qu'elle ne l'a fait durant les années où elle a financé Intel, Microsoft, Apple et Genentech.
+ - BLEU score: 0.666391
+Sentence 583: La Silicon Valley dit que les marchés sont à blâmer, en particulier les aides que les investisseurs offrent aux entrepreneurs.
+ - BLEU score: 0.682018
+Sentence 584: La Silicon Valley dit que les investisseurs ont délaissé le financement des idées de transformation pour des problèmes de financement supplémentaires ou même de faux problèmes.
+ - BLEU score: 1.038184
+Sentence 585: Mais je ne pense pas que cette explication soit assez bonne.
+ - BLEU score: 0.868068
+Sentence 586: Elle explique surtout ce qui ne va pas dans la Silicon Valley.
+ - BLEU score: 0.774306
+Sentence 587: Même lorsque les capital-risqueurs étaient dans l'état le plus favorable, ils préféraient les petits investissements, ces tout petits investissements qui leur offrent une rentabilité à 10 ans.
+ - BLEU score: 0.696757
+Sentence 588: Les capital-risqueurs ont toujours lutté pour investir avec profit dans des technologies telles que l'énergie qui exige des fonds propres énormes et dont le développement est long et interminable, et n'ont jamais, jamais financé le développement des technologies destinées à résoudre de grands problèmes qui ne possèdent aucune valeur commerciale immédiate.
+ - BLEU score: 0.981161
+Sentence 589: Non, les raisons de notre incapacité à résoudre de grands problèmes sont plus compliquées et plus profondes.
+ - BLEU score: 0.784049
+Sentence 590: Parfois, on a choisi de ne pas résoudre ces grands problèmes.
+ - BLEU score: 1.018645
+Sentence 591: On pourrait aller sur Mars si on le voulait.
+ - BLEU score: 0.625688
+Sentence 592: La NASA dispose même de l'ébauche d'un plan.
+ - BLEU score: 0.759222
+Sentence 593: Mais aller sur Mars serait la conséquence d'une décision politique suite à une manifestation populaire, et cela n'arrivera jamais.
+ - BLEU score: 1.059789
+Sentence 594: Nous n'irons pas sur Mars, parce que tout le monde pense qu'il y a des choses plus importantes à faire ici sur Terre.
+ - BLEU score: 1.031442
+Sentence 595: Parfois, on ne peut pas résoudre les grands problèmes parce que nos systèmes politiques échouent.
+ - BLEU score: 1.045855
+Sentence 596: Aujourd'hui, moins de 2% de la consommation énergétique dans le monde provient de sources renouvelables de pointe, telles que le solaire, l'éolien et les biocarburants. Moins de 2%, et la raison est purement économique.
+ - BLEU score: 0.653685
+Sentence 597: Le charbon et le gaz naturel sont moins chers que les énergies solaire et éolienne, et le pétrole est moins cher que les biocarburants.
+ - BLEU score: 0.734989
+Sentence 598: On veut des sources d'énergie alternatives à des prix compétitifs. Il n'y en a aucune.
+ - BLEU score: 0.974713
+Sentence 599: Les technologues, les chefs d'entreprise et les économistes sont tous fondamentalement d'accord sur le fait que les politiques nationales et les traités internationaux pourraient stimuler le développement d'énergies alternatives : essentiellement, une augmentation significative en recherche et développement sur l'énergie, et une sorte de prix sur le carbone.
+ - BLEU score: 0.95265
+Sentence 600: Mais dans le climat politique actuel, il n'y a aucun espoir de voir une politique énergétique américaine ou des traités internationaux qui incarnent ce consensus.
+ - BLEU score: 0.637122
+Sentence 601: Parfois, les grands problèmes qui semblaient technologiques s'avèrent en fait ne pas l'être.
+ - BLEU score: 0.637474
+Sentence 602: On a longtemps cru que les famines étaient causées par des défaillances dans l'approvisionnement alimentaire.
+ - BLEU score: 0.839322
+Sentence 603: Mais 30 années de recherches nous ont appris que les famines sont des crises politiques qui ont une incidence catastrophique sur la distribution alimentaire.
+ - BLEU score: 0.642122
+Sentence 604: La technologie peut améliorer des choses comme le rendement des cultures ou les systèmes de stockage et de transport des aliments, mais il y aura des famines tant qu'il y aura de mauvais gouvernements.
+ - BLEU score: 1.078647
+Sentence 605: Enfin, les grands problèmes éludent parfois les solutions parce que l'on ne comprend pas vraiment le problème.
+ - BLEU score: 1.078018
+Sentence 606: Le président Nixon a déclaré la guerre au cancer en 1971, mais on a vite découvert qu'il existait de nombreux types de cancer, la plupart d'entre eux étant diaboliquement résistants à la thérapie, et c'est seulement au cours des 10 dernières années que des thérapies viables et efficaces ont commencé à voir le jour.
+ - BLEU score: 0.960826
+Sentence 607: Les problèmes difficiles sont difficiles.
+ - BLEU score: 0.618981
+Sentence 608: Il est faux de penser que l'on ne peut pas résoudre de grands problèmes par le biais de la technologie.
+ - BLEU score: 0.773239
+Sentence 609: On peut et on doit le faire, mais les quatre éléments suivants doivent tous être réunis : les dirigeants politiques et le peuple doivent s'occuper de résoudre un problème ; les institutions doivent prendre en charge sa solution ; il faut vraiment que ce soit un problème technologique ; et nous devons le comprendre.
+ - BLEU score: 0.975934
+Sentence 610: La mission Apollo, qui est devenue une sorte de métaphore pour illustrer la capacité de la technologie à résoudre de grands problèmes, satisfaisait ces critères.
+ - BLEU score: 1.03151
+Sentence 611: Mais c'est un modèle non reproductible à l'avenir.
+ - BLEU score: 0.945057
+Sentence 612: On n'est plus en 1961.
+ - BLEU score: 0.661528
+Sentence 613: Il n'y a pas de compétition qui nous galvanise comme pendant la guerre froide, et il n'y a aucun politicien comme John Kennedy qui puisse rendre héroïques la difficulté et le danger, et aucune mythologie populaire futuriste telle que l'exploration du système solaire.
+ - BLEU score: 0.972952
+Sentence 614: Et plus que tout, aller sur la Lune s'est avéré finalement facile.
+ - BLEU score: 0.616027
+Sentence 615: Ça n'a pris que trois jours.
+ - BLEU score: 0.843064
+Sentence 616: Et ça ne résolvait sans doute même pas beaucoup de problèmes.
+ - BLEU score: 0.841765
+Sentence 617: Nous restons seuls face aux problèmes de notre époque, et les solutions seront plus difficiles à trouver dans le futur.
+ - BLEU score: 0.646523
+Sentence 618: Dieu sait que nous ne manquons pas de défis !
+ - BLEU score: 0.684681
+Sentence 619: Merci beaucoup.
+ - BLEU score: 1.081943
+Sentence 620: Je voudrais vous inviter à fermer les yeux.
+ - BLEU score: 0.737644
+Sentence 621: Imaginez que vous êtes debout devant votre porte d'entrée.
+ - BLEU score: 1.045366
+Sentence 622: Je voudrais que vous remarquiez la couleur de la porte, le matériau dans lequel elle est faite.
+ - BLEU score: 0.610499
+Sentence 623: Maintenant visualisez un groupe de nudistes en surpoids sur des vélos.
+ - BLEU score: 0.768237
+Sentence 624: Ils courent dans une course de vélo nudiste, et ils se dirigent droit sur votre porte d'entrée.
+ - BLEU score: 0.748111
+Sentence 625: Je vous demande de bien visualiser cela.
+ - BLEU score: 0.733819
+Sentence 626: Ils pédalent vraiment fort, ils transpirent, ils rebondissent pas mal çà et là.
+ - BLEU score: 0.729724
+Sentence 627: Et ils foncent droit sur la porte d'entrée de votre maison.
+ - BLEU score: 0.778592
+Sentence 628: Les vélos volent partout, les roues roulent à coté de vous, les rayons atterrissent à des endroits bizarres.
+ - BLEU score: 1.019314
+Sentence 629: Passez le pas de votre porte dans l'entrée, le hall, quel que soit la pièce qui est de l'autre côté, et appréciez la qualité de la lumière.
+ - BLEU score: 0.702533
+Sentence 630: La lumière brille sur Macaron.
+ - BLEU score: 0.667974
+Sentence 631: Macaron vous salue de la main du haut d'un cheval champagne.
+ - BLEU score: 0.750267
+Sentence 632: C'est un cheval qui parle.
+ - BLEU score: 1.003079
+Sentence 633: Vous pouvez presque sentir la fourrure bleue vous chatouillez le nez.
+ - BLEU score: 0.746734
+Sentence 634: Vous pouvez sentir le cookie aux raisins et flocons d'avoine qu'il est sur le point d'avaler.
+ - BLEU score: 0.853476
+Sentence 635: Vous le dépassez. Vous entrez dans votre salon.
+ - BLEU score: 0.835056
+Sentence 636: Dans votre salon, avec votre imagination haut débit, visualisez Britney Spears.
+ - BLEU score: 0.876267
+Sentence 637: Elle est presque dévêtue, elle danse sur votre table basse, et elle chante « Hit Me Baby One More Time ».
+ - BLEU score: 0.835546
+Sentence 638: Ensuite suivez-moi dans votre cuisine.
+ - BLEU score: 0.64467
+Sentence 639: Dans votre cuisine, le sol a été pavé d'une route de briques jaunes. et sortant de votre four, viennent vers vous Dorothy, l'Homme de fer-blanc, l'Epouvantail et le Lion du « Magicien d'Oz » main dans la main sautillant droit vers vous.
+ - BLEU score: 0.68229
+Sentence 640: Ok. Ouvrez les yeux.
+ - BLEU score: 0.931741
+Sentence 641: Je vais vous parler d'une compétition très étrange qui se tient chaque printemps à New York City.
+ - BLEU score: 0.622032
+Sentence 642: Elle s'appelle le Championnat de Mémoire des Etats Unis.
+ - BLEU score: 0.937633
+Sentence 643: Et je suis allé couvrir cette compétition il y a quelques années comme journaliste scientifique m'attendant, j'imagine, à ce que ce soit comme la coupe du monde des savants.
+ - BLEU score: 1.039425
+Sentence 644: C'était un tas de mecs et quelques femmes, différent grandement aussi bien en âge qu'en niveau d'hygiène.
+ - BLEU score: 0.992095
+Sentence 645: Ils mémorisaient des centaines de chiffres au hasard, en ne les regardant qu'une fois.
+ - BLEU score: 0.942236
+Sentence 646: Ils mémorisaient les prénoms de douzaines de douzaines d'étrangers.
+ - BLEU score: 0.787264
+Sentence 647: Ils mémorisaient des poèmes entiers en seulement quelques minutes.
+ - BLEU score: 0.712603
+Sentence 648: Ils faisaient la compétition pour voir qui pouvait mémoriser le plus rapidement l'ordre mélangé d'un jeu de carte à jouer.
+ - BLEU score: 1.075357
+Sentence 649: Je me disais, ceci est incroyable.
+ - BLEU score: 0.605177
+Sentence 650: Ces gens doivent être des anomalies de la nature.
+ - BLEU score: 0.613554
+Sentence 651: Et j'ai commencé à parler à quelques participants.
+ - BLEU score: 0.770025
+Sentence 652: Voici un gars qui s'appelle Ed Cook qui était venu d'Angleterre où il était une des mémoires les mieux entrainées.
+ - BLEU score: 0.801623
+Sentence 653: Et je lui ai dit, « Ed, quand as-tu réalisé que tu étais un savant ? »
+ - BLEU score: 0.715706
+Sentence 654: Et Ed m'a répondu, « Je ne suis pas un savant.
+ - BLEU score: 0.86807
+Sentence 655: En fait, j'ai une mémoire dans la moyenne.
+ - BLEU score: 0.999276
+Sentence 656: Tous ceux qui concourent dans cette compétition vous diront qu'ils ont une mémoire dans la moyenne.
+ - BLEU score: 0.680298
+Sentence 657: Nous nous sommes tous entrainés pour accomplir ces miraculeux exploits de mémoire en utilisant des techniques anciennes, des techniques inventées il y a 2500 ans en Grèce, les mêmes techniques qu'utilisait Cicéron pour mémoriser ces discours, qu'utilisaient les intellectuels du moyen âge pour mémoriser des livres entiers. »
+ - BLEU score: 0.966949
+Sentence 658: Et je me disais, « Wow, comment se fait-il que je n'ai jamais entendu parler de ça avant ? »
+ - BLEU score: 0.668619
+Sentence 659: Et nous nous tenions à l'extérieur du hall de compétition et Ed, qui est un Anglais merveilleux, brillant, mais en quelque sorte excentrique, me dit, « Josh, tu es un journaliste Américain.
+ - BLEU score: 0.943364
+Sentence 660: Connais-tu Britney Spears ? »
+ - BLEU score: 0.692761
+Sentence 661: « Quoi ? Non. Pourquoi ? »
+ - BLEU score: 0.70442
+Sentence 662: « Parce que j'ai vraiment envie d'enseigner à Britney Spears comment mémoriser l'ordre d'un paquet de cartes à jouer mélangées sur la télévision nationale Américaine.
+ - BLEU score: 0.825951
+Sentence 663: Ça prouvera au monde que n'importe qui peut le faire. »
+ - BLEU score: 0.802486
+Sentence 664: J'ai répondu, « Je ne suis pas Britney Spears, mais tu peux peut-être me l'apprendre à moi.
+ - BLEU score: 0.678027
+Sentence 665: Je veux dire, il faut bien commencer quelque part, non ? »
+ - BLEU score: 0.667055
+Sentence 666: Et ce fut le début d'un voyage très étrange pour moi.
+ - BLEU score: 0.954268
+Sentence 667: J'ai fini par passer la plupart de l'année suivante non seulement à entrainer ma mémoire, mais aussi à l'enquêter, essayant de comprendre comment elle marche, pourquoi parfois ça ne marche pas et pourquoi parfois ça va peut-être marcher.
+ - BLEU score: 0.863456
+Sentence 668: J'ai rencontré beaucoup de gens très intéressant.
+ - BLEU score: 0.616033
+Sentence 669: Voici un mec qui s'appelle E.P.
+ - BLEU score: 0.962623
+Sentence 670: C'est un amnésique qui a très probablement, la pire mémoire du monde.
+ - BLEU score: 0.7025
+Sentence 671: Sa mémoire était si mauvaise qu'il ne se souvenait même pas avoir un problème de mémoire, ce qui est fascinant.
+ - BLEU score: 0.729654
+Sentence 672: Il était cette personne incroyablement tragique mais aussi une fenêtre vers l'idée que nos mémoires font de nous ce que nous sommes.
+ - BLEU score: 0.912026
+Sentence 673: A l'autre extrémité du spectre : j'ai rencontré ce mec.
+ - BLEU score: 0.615738
+Sentence 674: C'est Kim Peek.
+ - BLEU score: 0.805805
+Sentence 675: Il était la référence pour le personnage de Dustin Hoffman dans « Rain Man ».
+ - BLEU score: 0.963371
+Sentence 676: Nous avons passé un après-midi ensemble dans la librairie publique de Salt Lake City, à mémoriser des annuaires, ce qui était brillant.
+ - BLEU score: 1.089144
+Sentence 677: Je suis revenu et j'ai lu un paquet de traités sur la mémoire, des traités écrits il y a plus de 2000 ans en Latin, dans l'Antiquité puis plus tard au Moyen-Age.
+ - BLEU score: 0.835768
+Sentence 678: Et j'ai appris un tas de choses très intéressantes.
+ - BLEU score: 0.630669
+Sentence 679: Une des choses très intéressantes que j'ai appris est qu'à une époque, cette idée d'avoir une mémoire entrainée, disciplinée, cultivée n'était pas si étrangère que cela nous parait aujourd'hui.
+ - BLEU score: 0.982131
+Sentence 680: A une époque, les gens investissaient dans leur mémoire, en remplissant laborieusement leur tête.
+ - BLEU score: 1.053597
+Sentence 681: Au cours de ces derniers millénaires nous avons inventé une série de technologies, de l'alphabet au parchemin aux manuscrits, à la presse typographique, à la photographie, à l'ordinateur, aux smartphones -- qui ont rendu progressivement de plus en plus facile l'externalisation de nos mémoires, simplement l'externalisation de cette capacité humaine essentielle.
+ - BLEU score: 0.936595
+Sentence 682: Ces technologies ont rendu notre monde moderne possible mais elles nous ont aussi changés.
+ - BLEU score: 0.779742
+Sentence 683: Elles nous ont changés culturellement, et j'argumenterais qu'elles nous ont changés cognitivement.
+ - BLEU score: 0.780193
+Sentence 684: Ayant dorénavant peu besoin de mémoriser il semble parfois que nous avons oublié comment le faire.
+ - BLEU score: 0.613833
+Sentence 685: Un des derniers endroits sur Terre où vous trouvez toujours des gens passionnés par cette idée d'une mémoire entrainée, disciplinée, cultivée est à cette compétition de mémoire tout à fait singulière.
+ - BLEU score: 0.959558
+Sentence 686: Elle n'est en fait pas si singulière il y a des compétitions similaires partout dans le monde.
+ - BLEU score: 0.813515
+Sentence 687: Et j'étais fasciné, je voulais savoir comment ces gens font.
+ - BLEU score: 0.872658
+Sentence 688: Il y a quelques années, un groupe de chercheurs à l'University College London ont rassemblé quelques champions de mémoire dans un laboratoire.
+ - BLEU score: 0.906682
+Sentence 689: Ils voulaient savoir : Est-ce que ces gars ont des cerveaux qui ont quelque chose de structurellement ou anatomiquement différents des nôtres ?
+ - BLEU score: 0.974866
+Sentence 690: La réponse est non.
+ - BLEU score: 0.615053
+Sentence 691: Sont-ils plus intelligents que le reste d'entre nous ?
+ - BLEU score: 1.051389
+Sentence 692: Ils leur ont fait passer une série de tests cognitifs, et la réponse a été : pas vraiment.
+ - BLEU score: 1.048607
+Sentence 693: Il y avait cependant une chose très intéressante et montrant des différences entre le cerveau des champions de mémoire et ceux des sujets-control auxquels ils les comparaient.
+ - BLEU score: 1.045549
+Sentence 694: En les mettant dans une machine IRM, qui scannait leur cerveau pendant qu'ils mémorisaient nombres, prénoms et images de flocon de neige, ils ont découvert que les champions de mémoire utilisaient différentes parties de leur cerveau par rapport aux autres.
+ - BLEU score: 1.036416
+Sentence 695: Ils utilisaient, ou semblaient utiliser, une partie du cerveau qui est impliquée dans la mémoire spatiale et l'orientation.
+ - BLEU score: 1.022493
+Sentence 696: Pourquoi ? Et y a-t-il quelque chose que le reste d'entre nous peut en tirer ?
+ - BLEU score: 0.781634
+Sentence 697: Le sport de mémorisation de compétition est entrainé par une sorte de bras de fer où chaque année, quelqu'un invente une nouvelle façon de mémoriser plus de choses plus rapidement, et le reste doit rattraper le temps perdu.
+ - BLEU score: 1.015049
+Sentence 698: Voici mon ami Ben Pridmore, trois fois champion du monde de mémoire.
+ - BLEU score: 0.697244
+Sentence 699: Sur son bureau devant lui il y a 36 paquets de carte à jouer mélangés qu'il est sur le point d'essayer de mémoriser en une heure, en utilisant une technique qu'il a inventé et que lui seul maitrise.
+ - BLEU score: 0.888078
+Sentence 700: Il a utilisé une technique similaire pour mémoriser l'ordre précis de 4140 chiffres binaires au hasard en une demi-heure.
+ - BLEU score: 0.639159
+Sentence 701: Ouais.
+ - BLEU score: 0.871488
+Sentence 702: Et s'il y a un tas de façons de mémoriser des trucs dans ces compétitions, toutes les techniques qui sont utilisées, se résument à un seul concept que les psychologues appellent encodage élaboré.
+ - BLEU score: 0.73019
+Sentence 703: Et cela est bien illustré par le superbe paradoxe connu sous le nom du paradoxe Boulanger/boulanger qui se résume à ceci : Si je dis à deux personnes de se souvenir du même mot, si je vous dis, « Souvenez-vous il y a un monsieur appelé Boulanger. »
+ - BLEU score: 0.784986
+Sentence 704: C'est son nom.
+ - BLEU score: 0.922696
+Sentence 705: Et si je vous dis « Souvenez-vous il y a un monsieur qui est boulanger. »
+ - BLEU score: 0.866117
+Sentence 706: Et si je reviens vers vous plus tard, et je dis, « Vous souvenez-vous du mot que je vous ai dit toute à l'heure ?
+ - BLEU score: 0.766135
+Sentence 707: Vous souvenez-vous ce que c'était ? »
+ - BLEU score: 0.95366
+Sentence 708: La personne à qui on a dit que son nom est Boulanger est moins à même de se souvenir du même mot que la personne à qui on a dit qu'il était boulanger
+ - BLEU score: 0.962636
+Sentence 709: Même mot, différent moyen de se souvenir ; c'est bizarre.
+ - BLEU score: 0.843171
+Sentence 710: Qu'est-ce qui se passe ?
+ - BLEU score: 0.860824
+Sentence 711: Et bien le nom de Boulanger ne vous dit rien personnellement.
+ - BLEU score: 0.753215
+Sentence 712: Il n'est attaché à aucun souvenir flottant dans votre cerveau.
+ - BLEU score: 0.834195
+Sentence 713: Mais le nom commun boulanger, nous connaissons tous des boulangers.
+ - BLEU score: 1.087198
+Sentence 714: Les boulangers ont de drôles de chapeaux blancs.
+ - BLEU score: 0.974218
+Sentence 715: Les boulangers ont de la farine sur les mains.
+ - BLEU score: 0.702298
+Sentence 716: Les boulangers sentent bon quand ils rentrent du travail.
+ - BLEU score: 0.792212
+Sentence 717: Et peut-être que nous en connaissons un.
+ - BLEU score: 0.60103
+Sentence 718: et quand nous entendons le mot pour la première fois, nous commençons à mettre des hameçons associatifs qui plus tard facilite le repêchage.
+ - BLEU score: 0.907668
+Sentence 719: Tout l'art de ce qui se passe dans ces compétitions de mémoires et l'art de se souvenir mieux des choses de tous les jours est de trouver des moyens de transformer le B majuscule de Boulanger en b minuscule de boulangers -- de prendre une information qui manque de contexte, d'importance, de sens et de la transformer d'une certaine façon en quelque chose de significatif à la lumière de toutes les autres choses que vous avez en tête.
+ - BLEU score: 1.033128
+Sentence 720: Une des techniques les plus élaborées pour faire cela date de 2500 ans dans la Grèce Antique
+ - BLEU score: 0.989778
+Sentence 721: Cela était connu comme le palais de la mémoire.
+ - BLEU score: 1.072043
+Sentence 722: L'histoire derrière sa création raconte : Il y avait un poète appelé Simonide qui assistait à un banquet.
+ - BLEU score: 0.891804
+Sentence 723: Il était en réalité engagé pour divertir, car à cette époque si vous vous vouliez organiser une fête de tonnerre, vous n'embauchiez pas un DJ, vous embauchiez un poète.
+ - BLEU score: 1.021919
+Sentence 724: Donc il se lève, dit son poème de mémoire, sort de la pièce, et au moment où il le fait, la salle de banquet s'effondre, tuant tout le monde à l'intérieur.
+ - BLEU score: 0.671089
+Sentence 725: Cela n'a pas simplement tué tout le monde, les corps sont écrasés au-delà de toute reconnaissance possible.
+ - BLEU score: 0.610009
+Sentence 726: Personne ne peut dire qui était à l'intérieur, personne ne peut dire où ils étaient assis.
+ - BLEU score: 1.095942
+Sentence 727: Les corps ne peuvent pas être correctement enterrés.
+ - BLEU score: 0.641322
+Sentence 728: C'est une double tragédie.
+ - BLEU score: 0.710812
+Sentence 729: Simonide, debout à l'extérieur, le seul survivant parmi les débris, ferme les yeux et a cette prise de conscience, de ce qui est dans l'œil de son esprit, Il peut voir où chacun des invités du banquet était assis.
+ - BLEU score: 0.619399
+Sentence 730: Et il prend les membres de la famille par la main et guide chacun d'eux jusqu'à leurs proches au milieu des débris.
+ - BLEU score: 0.62599
+Sentence 731: Ce que Simonide compris à ce moment-là est quelque chose que je pense que nous savons de manière intuitive qui est que, aussi mauvais que nous soyons à nous souvenir des noms et numéros de téléphone et d'instructions mot à mot de nos collègues, nous avons vraiment une exceptionnelle mémoire visuelle et spatiale.
+ - BLEU score: 0.88392
+Sentence 732: Si je vous demandais de raconter les 10 premiers mots de l'histoire que je viens de vous dire sur Simonide, il y a une forte chance que ce soit difficile pour vous.
+ - BLEU score: 0.616771
+Sentence 733: Mais je parie que si je vous demande de vous rappeler qui est assis sur un cheval champagne qui parle dans votre entrée, vous seriez capable de voir ça.
+ - BLEU score: 0.958154
+Sentence 734: L'idée derrière le palais de la mémoire est de créer cet édifice imaginaire dans votre esprit et de le remplir avec des images des choses dont vous voulez vous souvenir -- plus l'image est folle, curieuse, bizarre, drôle, torride, puante plus elle est susceptible d'être inoubliable.
+ - BLEU score: 0.835719
+Sentence 735: Il s'agit de conseils qui remontent à plus de 2000 ans à l'époque des premiers traités latin sur la mémoire.
+ - BLEU score: 0.606181
+Sentence 736: Alors, comment cela fonctionne ?
+ - BLEU score: 0.835325
+Sentence 737: Disons que vous avez été invité sur la scène principale de TED pour tenir un discours et que vous voulez le faire de mémoire, et que vous voulez le faire de la manière dont Cicéron l'aurait fait s'il avait été invité à TEDxRome il y a 2000 ans.
+ - BLEU score: 0.644446
+Sentence 738: Ce que vous pouvez faire est de projeter l'image de vous-même à la porte d'entrée de votre maison.
+ - BLEU score: 0.605624
+Sentence 739: Et il vous serait venu à l'esprit une sorte d'image absolument folle, ridicule, inoubliable pour vous souvenir que la première chose dont vous voulez parler est ce concours totalement bizarre.
+ - BLEU score: 0.816343
+Sentence 740: Vous iriez ensuite à l'intérieur de votre maison, et vous verriez l'image de Macaron sur le dos de Mister Ed.
+ - BLEU score: 1.097912
+Sentence 741: Et cela vous rappellerait que vous voulez introduire votre ami Ed Cook.
+ - BLEU score: 0.927382
+Sentence 742: Et puis, vous verriez l'image de Britney Spears pour vous rappeler cette anecdote amusante que vous voulez raconter.
+ - BLEU score: 0.928413
+Sentence 743: Et vous allez dans votre cuisine, et la quatrième chose dont vous allez parler est cet étrange voyage que vous avez fait en un an, et vous avez quelques amis pour vous aider à vous en souvenir.
+ - BLEU score: 0.94499
+Sentence 744: C'est comme cela que les orateurs romains mémorisaient leurs discours -- pas mot à mot, ce qui est voué à l'échec, mais sujet après sujet.
+ - BLEU score: 1.060491
+Sentence 745: En fait, l'expression « topic sentence » [phrase d'introduction] qui vient du mot grec « topos », qui signifie « lieu ».
+ - BLEU score: 0.908229
+Sentence 746: est un vestige qui nous reste de l'époque où les gens pensaient à l'oratoire et à la rhétorique en termes spatiales.
+ - BLEU score: 0.713086
+Sentence 747: L'expression « en premier lieu » c'est comme au premier endroit de votre du Palais de la mémoire.
+ - BLEU score: 0.804967
+Sentence 748: Je pensais que c'était juste fascinant, et je m'y suis vraiment mis.
+ - BLEU score: 0.818846
+Sentence 749: Et je suis allé à d'autres de ces concours de mémoire.
+ - BLEU score: 1.028581
+Sentence 750: Et j'ai eu cette idée que je pourrais écrire quelque chose de plus sur cette sous-culture de compétition de mémoires.
+ - BLEU score: 0.836287
+Sentence 751: Mais il y avait un problème.
+ - BLEU score: 0.892875
+Sentence 752: Le problème était qu'un concours de mémoire est un événement pathologiquement ennuyeux.
+ - BLEU score: 0.91464
+Sentence 753: Vraiment, c'est comme un tas de gens assis qui passe un test d'admission.
+ - BLEU score: 0.640346
+Sentence 754: Je veux dire, le moment le plus dramatique c'est quand quelqu'un commence à se masser les tempes.
+ - BLEU score: 1.027813
+Sentence 755: Et je suis journaliste, j'ai besoin d'écrire sur quelque chose.
+ - BLEU score: 0.788492
+Sentence 756: Je sais qu'il y a ce truc incroyable qui se passe dans ces esprits, mais je n'y ai pas accès.
+ - BLEU score: 0.82224
+Sentence 757: Et je me suis rendu compte que si j'allais raconter cette histoire, il fallait que je me mette un peu à leur place.
+ - BLEU score: 0.858737
+Sentence 758: Et donc j'ai commencé à essayer de passer de 15 à 20 minutes tous les matins avant de m'assoir pour lire mon New York Times à essayer de me souvenir de quelque chose.
+ - BLEU score: 0.783175
+Sentence 759: Peut-être était-ce un poème.
+ - BLEU score: 0.983979
+Sentence 760: Peut-être était-ce des noms dans un annuaire d'anciens élèves acheté dans un marché aux puces.
+ - BLEU score: 0.805132
+Sentence 761: Et j'ai trouvé que c'était incroyablement amusant.
+ - BLEU score: 0.79317
+Sentence 762: Je ne me serai jamais attendu à cela.
+ - BLEU score: 0.671621
+Sentence 763: C'était amusant, parce que ça ne regarde pas vraiment la formation de votre mémoire.
+ - BLEU score: 0.606442
+Sentence 764: Ce que vous faites c'est essayer d'être meilleur et encore meilleur à créer, à rêver de ces images totalement ridicules, hilarantes et torrides et avec un peu de chance inoubliables dans votre esprit.
+ - BLEU score: 0.655026
+Sentence 765: Et je me suis pris au jeu.
+ - BLEU score: 0.755485
+Sentence 766: C'est moi portant mon kit de formation de mémorisation de compétition.
+ - BLEU score: 0.711345
+Sentence 767: C'est un casque antibruit et des lunettes de sécurité qui ont été masquées à l'exception de deux petits trous, parce que la distraction est le plus grand ennemi du mémorisateur de competition.
+ - BLEU score: 0.89521
+Sentence 768: J'ai fini par revenir à ce même concours que j'avais couvert un an plus tôt.
+ - BLEU score: 1.060904
+Sentence 769: Et j'ai eu cette idée que je pourrais y entrer, une sorte d'expérience de journalisme participatif.
+ - BLEU score: 0.963094
+Sentence 770: J'en aurais peut-être fait un bel épilogue à toutes mes recherches.
+ - BLEU score: 0.646179
+Sentence 771: Le problème est que l'expérience s'est emballée.
+ - BLEU score: 1.092389
+Sentence 772: J'ai gagné le concours, ce qui n'était pas vraiment supposé se produire.
+ - BLEU score: 0.860076
+Sentence 773: Maintenant, c'est sympa d'être capable de mémoriser les discours et les numéros de téléphone et les listes des courses, mais la question n'est pas là.
+ - BLEU score: 0.950351
+Sentence 774: Il s'agit seulement de quelques astuces.
+ - BLEU score: 1.049106
+Sentence 775: Ce sont des astuces qui fonctionnent parce qu'elles sont fondées sur des principes de base sur le fonctionnement de notre cerveau.
+ - BLEU score: 0.63982
+Sentence 776: Et vous ne devez pas construire des palais de la mémoire ou mémoriser des paquets de cartes à jouer pour bénéficier d'un aperçu sur le fonctionnement de votre esprit.
+ - BLEU score: 0.888182
+Sentence 777: Nous parlons souvent de gens avec une bonne mémoire comme s'il s'agissait d'une sorte de don inné, mais ce n'est pas le cas.
+ - BLEU score: 0.723089
+Sentence 778: Avoir une bonne mémoire, ça s'apprend.
+ - BLEU score: 0.853335
+Sentence 779: Au niveau le plus basique, nous nous souvenons quand nous faisons attention.
+ - BLEU score: 0.947133
+Sentence 780: Nous nous souvenons quand nous sommes profondément engagés.
+ - BLEU score: 1.036565
+Sentence 781: Nous nous souvenons quand nous sommes capables de prendre une information et une expérience et de comprendre pourquoi c'est significatif, pourquoi c'est important, pourquoi c'est coloré, quand nous sommes capables de le transformer pour que ce soit logique à la lumière de toutes les autres choses qui flottent dans nos esprits, lorsque nous sommes capables de transformer des Boulanger en boulangers.
+ - BLEU score: 0.6077
+Sentence 782: Le palais de la mémoire, ces techniques de mémoire, sont justes des raccourcis.
+ - BLEU score: 0.629083
+Sentence 783: En fait, ce ne sont pas vraiment des raccourcis.
+ - BLEU score: 1.078065
+Sentence 784: Ils marchent parce qu'ils vous font travailler.
+ - BLEU score: 1.068364
+Sentence 785: Ils forcent une sorte profondeur de traitement, une sorte de conscience, que la plupart d'entre nous ne font pas marcher normalement.
+ - BLEU score: 0.742147
+Sentence 786: Il n'existe en réalité aucun raccourci.
+ - BLEU score: 0.859047
+Sentence 787: Voilà comment les choses deviennent mémorables.
+ - BLEU score: 0.891603
+Sentence 788: Et je pense que, s'il y a une chose avec laquelle je veux vous quitter, c'est ce que E.P., l'amnésique qui ne pouvait pas même se rappeler qu'il avait un problème de mémoire, m'a laissé, qui est la notion que nos vies sont la somme de nos souvenirs.
+ - BLEU score: 0.656537
+Sentence 789: Combien sommes-nous prêts à perdre de notre vie déjà très courte en nous perdant dans nos BlackBerry, nos iPhone, en ne faisant pas attention à l'humain en face de nous qui nous parle, en étant si paresseux que nous ne sommes pas prêts à traiter profondément?
+ - BLEU score: 0.766398
+Sentence 790: J'ai appris par moi même qu'il y a des capacités de mémoire incroyables latentes en chacun de nous.
+ - BLEU score: 0.942155
+Sentence 791: Mais si vous voulez vivre une vie mémorable il faut être le type de personne qui se souvient de se souvenir.
+ - BLEU score: 0.610378
+Sentence 792: Merci.
+ - BLEU score: 0.879427
+Sentence 793: Quand j'avais 27 ans, j'ai abandonné un travail très exigeant de consultante en management pour un travail encore plus exigeant : l'enseignement.
+ - BLEU score: 1.0277
+Sentence 794: Je suis allée enseigner les maths à des élèves de cinquième dans les écoles publiques de New York.
+ - BLEU score: 0.98529
+Sentence 795: Et comme n'importe quel enseignant, je faisais des questionnaires et des tests.
+ - BLEU score: 1.006712
+Sentence 796: Je donnais des devoirs à la maison.
+ - BLEU score: 0.897167
+Sentence 797: Quand mes élèves me rendaient le travail, je calculais les notes.
+ - BLEU score: 1.046549
+Sentence 798: Ce qui m'a frappée, c'est que le Q.I. n'était pas la seule différence entre mes meilleurs élèves et les moins bons.
+ - BLEU score: 0.645852
+Sentence 799: Certains de ceux qui avaient les meilleurs résultats n'avaient pas un Q.I. phénoménal.
+ - BLEU score: 0.65704
+Sentence 800: Certains de mes élèves parmi les plus intelligents ne réussissaient pas très bien.
+ - BLEU score: 0.662756
+Sentence 801: Et ça m'a fait réfléchir.
+ - BLEU score: 0.731023
+Sentence 802: Les choses qu'on doit apprendre en maths en cinquième, bien sûr, c'est dur : les fractions, les décimales, la surface d'un parallélogramme.
+ - BLEU score: 0.926553
+Sentence 803: Mais ces concepts ne sont pas impossibles à comprendre, et j'étais fermement convaincue que tous mes élèves pouvaient apprendre ces notions s'ils travaillaient assez dur et assez longtemps.
+ - BLEU score: 0.801091
+Sentence 804: Après plusieurs années passées à enseigner, je suis arrivée à la conclusion que ce dont nous avons besoin, dans l'éducation, c'est d'une meilleure compréhension des élèves et du processus d'apprentissage du point de vue de la motivation, du point de vue psychologique.
+ - BLEU score: 0.89068
+Sentence 805: Dans l'éducation, ce que nous savons le mieux mesurer, c'est le quotient intellectuel. Mais si réussir à l'école et dans la vie dépendait de bien plus que de la capacité à apprendre rapidement et facilement ?
+ - BLEU score: 0.770766
+Sentence 806: J'ai donc quitté ma salle de classe, et je suis allée passer mon diplôme pour devenir psychologue.
+ - BLEU score: 0.925339
+Sentence 807: J'ai commencé à étudier les enfants et les adultes dans toutes sortes de situations très exigeantes, et dans chaque étude, ma question était : qui réussit dans cette situation et pourquoi ?
+ - BLEU score: 0.937729
+Sentence 808: Je suis allée avec mon équipe de recherche à l'Académie militaire de West Point.
+ - BLEU score: 0.794216
+Sentence 809: Nous avons essayé de prédire quels cadets poursuivraient leur formation militaire et lesquels abandonneraient.
+ - BLEU score: 0.855233
+Sentence 810: Nous sommes allés au National Spelling Bee [NdT : concours d'orthographe aux Etats-Unis] et nous avons essayé de prédire quels enfants iraient le plus loin dans la compétition.
+ - BLEU score: 1.035519
+Sentence 811: Nous avons étudié des professeurs débutants qui travaillaient dans des quartiers vraiment difficiles, et nous nous sommes demandé quels professeurs enseigneraient encore là à la fin de l'année scolaire, et parmi ceux-là, lesquels réussiraient le mieux à améliorer les résultats d'apprentissage de leurs élèves.
+ - BLEU score: 0.923742
+Sentence 812: Nous nous sommes associés à des compagnies privées, et nous nous sommes demandé : lesquels de ces vendeurs garderont leur travail ?
+ - BLEU score: 0.970177
+Sentence 813: Et qui va gagner le plus d'argent ?
+ - BLEU score: 0.801032
+Sentence 814: Dans tous ces contextes très différents, une caractéristique est ressortie comme un facteur significatif de succès.
+ - BLEU score: 0.785425
+Sentence 815: Et ce n'était pas l'intelligence sociale.
+ - BLEU score: 0.635846
+Sentence 816: Ce n'était pas l'apparence, la santé physique, et ce n'était pas le Q.I.
+ - BLEU score: 0.824829
+Sentence 817: C'était la ténacité.
+ - BLEU score: 0.937618
+Sentence 818: La ténacité, c'est la passion et la persévérance pour des objectifs à très long terme.
+ - BLEU score: 1.008476
+Sentence 819: La ténacité, c'est avoir de l'endurance.
+ - BLEU score: 1.065187
+Sentence 820: La ténacité, c'est s'accrocher à son futur, jour après jour pas seulement pendant une semaine, ou un mois, mais pendant des années, et travailler vraiment dur pour que ce futur devienne une réalité.
+ - BLEU score: 0.665471
+Sentence 821: La ténacité, c'est vivre sa vie comme si elle était un marathon, pas un sprint.
+ - BLEU score: 0.738224
+Sentence 822: Il y a quelques années, j'ai commencé à étudier la ténacité dans les écoles publiques de Chicago.
+ - BLEU score: 0.714831
+Sentence 823: J'ai demandé à des milliers de collégiens de répondre à des questionnaires sur la ténacité, et j'ai ensuite attendu plus d'un an pour voir lesquels allaient obtenir leur diplôme.
+ - BLEU score: 0.67892
+Sentence 824: Le résultat, c'est que les enfants les plus tenaces avaient beaucoup plus de chances d'avoir leur diplôme, même quand je les faisais correspondre à toutes les variables que je pouvais mesurer, comme les revenus de leur famille, leurs résultats aux tests de réussite standards, et même s'ils se sentaient en sécurité quand ils étaient à l'école.
+ - BLEU score: 1.013979
+Sentence 825: Donc ce n'est pas seulement à West Point ou au National Spelling Bee que la ténacité est importante. C'est aussi à l'école, en particulier pour les enfants qui risquent d'abandonner en cours de route.
+ - BLEU score: 0.934701
+Sentence 826: Pour moi, ce qui me choque le plus à propos de la ténacité, c'est à quel point on sait peu de choses, à quel point la science sait peu de choses, sur la manière dont on la construit.
+ - BLEU score: 0.811632
+Sentence 827: Chaque jour, des parents et des enseignants me demandent : « Comment faire pour que mes enfants soient tenaces ?
+ - BLEU score: 0.941745
+Sentence 828: Qu'est-ce que dois faire pour enseigner aux enfants une éthique solide du travail ?
+ - BLEU score: 1.075362
+Sentence 829: Comment je dois faire pour qu'ils restent motivés sur la durée ? »
+ - BLEU score: 0.601526
+Sentence 830: Pour être honnête, je ne sais pas.
+ - BLEU score: 0.829204
+Sentence 831: Ce que je sais, c'est qu'avoir du talent ne vous rend pas tenace.
+ - BLEU score: 0.781008
+Sentence 832: Nos données montrent très clairement qu'il y a beaucoup d'individus talentueux qui ne persévèrent pas dans leurs engagements.
+ - BLEU score: 0.78683
+Sentence 833: En fait, dans nos données, la ténacité est généralement sans rapport avec le talent, voire inversement proportionnelle aux mesures de talent.
+ - BLEU score: 0.809772
+Sentence 834: Jusqu'à présent, la meilleure idée que j'aie entendue sur la manière de développer la ténacité des enfants s'appelle « la mentalité de croissance »
+ - BLEU score: 0.95258
+Sentence 835: C'est une idée développée à l'Université de Stanford par Carol Dweck, et c'est la conviction que la capacité à apprendre n'est pas fixée, qu'elle peut changer avec l'effort.
+ - BLEU score: 0.969488
+Sentence 836: Le Dr. Dweck a montré que quand les enfants lisent et apprennent des choses sur le cerveau, sur la manière dont il change et grandit en réponse à un défi, ils sont bien plus susceptibles de persévérer quand ils échouent, parce qu'ils ne croient pas que l'échec est une condition permanente.
+ - BLEU score: 0.745195
+Sentence 837: La mentalité de croissance est donc une excellente idée pour construire la ténacité.
+ - BLEU score: 0.68283
+Sentence 838: Mais nous avons besoin de plus.
+ - BLEU score: 0.832595
+Sentence 839: Et je vais finir sur ces remarques, parce que c'est là que nous en sommes.
+ - BLEU score: 1.013012
+Sentence 840: C'est le travail qui nous attend.
+ - BLEU score: 0.877733
+Sentence 841: Nous devons prendre nos meilleures idées, nos intuitions les plus fortes, et nous devons les tester.
+ - BLEU score: 0.703963
+Sentence 842: Nous devons mesurer si nous avons réussi, et nous devons être prêts à échouer, à avoir tort, à recommencer en ayant appris de nos erreurs.
+ - BLEU score: 0.744592
+Sentence 843: En d'autres termes, nous devons être tenaces pour faire en sorte que nos enfants soient plus tenaces.
+ - BLEU score: 0.947541
+Sentence 844: Merci.
+ - BLEU score: 0.707939
+Sentence 845: Mon travail se concentre essentiellement sur le lien entre la perception de notre vie en communauté et le fait qu'elle fasse partie de l'environnement étant donné que l'architecture se développe à partir des conditions locales et des traditions.
+ - BLEU score: 0.615344
+Sentence 846: Aujourd'hui, je vais vous présenter deux projets récents qui illustrent cela.
+ - BLEU score: 0.679256
+Sentence 847: Les deux projets sont localisés dans des pays émergents, un en Ethiopie et un autre en Tunisie.
+ - BLEU score: 0.991447
+Sentence 848: Et ils partagent aussi le fait que les différentes analyses à partir des différentes perspectives deviennent une partie essentielle de l'architecture finale.
+ - BLEU score: 0.633996
+Sentence 849: Le premier exemple a débuté par une invitation, à concevoir un centre commercial de plusieurs étages dans la capitale Addis-Abeba en Éthiopie.
+ - BLEU score: 0.95754
+Sentence 850: Voici le type de bâtiment que l'on nous a montré à titre d'exemple, à mon équipe et moi-même, et que nous étions censés concevoir.
+ - BLEU score: 0.999532
+Sentence 851: La première chose que j'ai pensé a été : je veux m'enfuir.
+ - BLEU score: 0.630925
+Sentence 852: Après avoir vu quelques-uns de ces bâtiments, car il y en a beaucoup dans cette ville nous avons pris conscience qu'ils partageaient trois points essentiels.
+ - BLEU score: 0.636644
+Sentence 853: Tout d'abord, ces bâtiments sont quasiment vides parce qu'ils ont de très grands magasins où les gens ne peuvent pas se permettre d'acheter des choses.
+ - BLEU score: 1.082349
+Sentence 854: Deuxièmement, ils ont besoin d'énormément d'énergie en raison de la façade en verre qui crée de la chaleur à l'intérieur, et qui induit d'important besoins en refroidissement
+ - BLEU score: 0.664316
+Sentence 855: dans une ville où ça ne devrait pas se produire car il y a un climat très doux qui varie entre 20 et 25 degrés sur toute l'année.
+ - BLEU score: 0.775713
+Sentence 856: Enfin troisièmement, leur aspect n'a rien à voir avec l'Afrique et l'Éthiopie.
+ - BLEU score: 0.885429
+Sentence 857: C'est regrettable, dans un endroit qui renferme une telle culture et de riches traditions.
+ - BLEU score: 0.629747
+Sentence 858: Aussi, durant de notre première visite en Ethiopie, j'ai vraiment été captivé par l'ancien quartier du Merkato, qui dispose d'un espace en plein air où des milliers de personnes vont acheter des choses tous les jours chez de petits vendeurs.
+ - BLEU score: 0.781781
+Sentence 859: En plus, il y a cette idée d'espace public qui utilise l'extérieur pour créer de l'activité.
+ - BLEU score: 0.801968
+Sentence 860: J'ai alors pensé, voilà vraiment c'est ce que je veux concevoir, et non un centre commercial.
+ - BLEU score: 0.815416
+Sentence 861: Mais la question était de savoir comment réaliser un bâtiment contemporain de plusieurs étages selon ces principes.
+ - BLEU score: 0.869195
+Sentence 862: L'autre défi était le site, situé dans une zone en pleine croissance de la ville, où la plupart des bâtiments que vous voyez sur cette image, n'existaient pas à ce moment là.
+ - BLEU score: 1.064072
+Sentence 863: En plus il est situé entre deux rues parallèles qui n'ont pas de connexion sur des centaines de mètres.
+ - BLEU score: 1.064838
+Sentence 864: Donc la première chose que nous avons fait a été de créer une connexion entre ces deux rues, en positionnant toutes les entrées du bâtiment.
+ - BLEU score: 0.941163
+Sentence 865: Et cela donne sur un atrium incliné qui crée un espace de plein air dans le bâtiment qui s'auto-prémunit du soleil et de la pluie, grâce à sa propre forme.
+ - BLEU score: 0.70438
+Sentence 866: Et autour de ce vide nous avons introduit cette idée du marché avec de petites boutiques, qui changent dans chaque étage en raison de la forme du vide.
+ - BLEU score: 0.844023
+Sentence 867: J'ai aussi réfléchi à la façon de cloisonner le bâtiment ?
+ - BLEU score: 0.792835
+Sentence 868: Et je voulais vraiment trouver une solution qui répondrait aux conditions climatiques locales.
+ - BLEU score: 1.095132
+Sentence 869: J'ai alors commencé à penser le textile comme à une coque en béton avec des perforations qui permettraient le passage de l'air, et également de la lumière, mais d'une manière filtrée.
+ - BLEU score: 0.973009
+Sentence 870: Et puis l'inspiration est venue de ces magnifiques boutons de robes éthiopiennes,
+ - BLEU score: 0.837979
+Sentence 871: qui ont des propriétés géométriques fractales, et cela m'a aidé à façonner toute la façade.
+ - BLEU score: 0.858984
+Sentence 872: Nous construisons celle-ci avec ces petits morceaux préfabriqués qui sont les fenêtres qui laissent entrer l'air et la lumière d'une manière contrôlée à l'intérieur du bâtiment.
+ - BLEU score: 1.00293
+Sentence 873: Et ceci est complété par ces petits verres colorés qui utilisent la lumière provenant de l'intérieur du bâtiment pour éclairer le bâtiment la nuit.
+ - BLEU score: 0.979178
+Sentence 874: Avec ces idées, il n'a pas été facile au début de convaincre les promoteurs parce qu'ils pensaient : « Ça, ce n'est pas un centre commercial. Nous n'avons pas demandé ça. »
+ - BLEU score: 0.918954
+Sentence 875: Mais ensuite, nous avons tous compris que cette idée du marché serait beaucoup plus rentable que l'idée d'un centre commercial parce que fondamentalement ils avaient plus de commerces à vendre.
+ - BLEU score: 1.020655
+Sentence 876: Et aussi parce que l'idée de la façade était bien moins chère, non seulement en raison du matériau, par rapport au verre, mais aussi car nous n'avions plus besoin d'avoir d'air conditionné.
+ - BLEU score: 0.95501
+Sentence 877: Nous avons donc créé des économies budgétaires que nous avons utilisé pour mettre en œuvre le projet.
+ - BLEU score: 0.704867
+Sentence 878: Et la première mesure a été de penser comment rendre le bâtiment autonome en termes d'énergie dans une ville ou l'électricité est coupée quasiment tous les jours.
+ - BLEU score: 0.961214
+Sentence 879: Un énorme plus a été de placer des panneaux photovoltaïques sur le toit.
+ - BLEU score: 1.079159
+Sentence 880: Et puis sous ces panneaux nous avons pensé la toiture comme un nouvel espace public avec des lieux de rencontres et des bars pour créer une sorte d'oasis urbaine.
+ - BLEU score: 0.786593
+Sentence 881: Et tous ces porches sur le toit, permettent de recueillir l'eau qui est réutilisée dans l'assainissement à l'intérieur.
+ - BLEU score: 0.707421
+Sentence 882: Espérons que ce soit finit d'ici le début de l'année, nous en sommes déjà au cinquième étage.
+ - BLEU score: 0.982252
+Sentence 883: Le deuxième exemple est un plan directeur de 2000 appartements et locaux dans la ville de Tunis.
+ - BLEU score: 1.05703
+Sentence 884: Et pour réaliser un tel projet, le plus grand projet que je n'ai jamais conçu, j'avais vraiment besoin de comprendre la ville de Tunis, mais aussi ses alentours, ses traditions et sa culture.
+ - BLEU score: 0.641569
+Sentence 885: Au cours de cette analyse, j'ai prêté une attention particulière à la Médina une construction vieille de 1000 ans qui était autrefois cloisonnée par un mur, et ouverte par douze portes différentes, reliées par des lignes pratiquement droites.
+ - BLEU score: 0.600568
+Sentence 886: Quand je suis allé sur le site, la première opération de conception que nous avons fait était d'étendre les rues existantes, créant 12 blocs de départ de taille et de caractéristiques similaires à ceux que nous avons à Barcelone et dans d'autres villes en Europe, avec ces cours.
+ - BLEU score: 0.819118
+Sentence 887: En plus de cela, nous avons sélectionné quelques points stratégiques et les avons relié par des lignes droites, pour évoquer cette idée des portes, ce qui a modifié la configuration initiale.
+ - BLEU score: 0.9482
+Sentence 888: Et la dernière opération était de voir la cellule, le composant de base du projet, tel l'appartement, comme une partie essentielle du plan directeur.
+ - BLEU score: 0.813275
+Sentence 889: Et pour cela je me suis demandé : « quelle serait la meilleure orientation dans le climat méditerranéen pour un appartement ? »
+ - BLEU score: 0.997452
+Sentence 890: Nord-sud, car cela crée une différence thermique entre les deux côtés de la maison et ainsi une ventilation naturelle.
+ - BLEU score: 0.79215
+Sentence 891: Donc, nous avons choisi un agencement qui fait en sorte que la plupart des appartements soient parfaitement orientés dans cette direction.
+ - BLEU score: 0.899665
+Sentence 892: Et voici le résultat : c'est presque une combinaison du bloc européen et de la ville arabe.
+ - BLEU score: 0.668156
+Sentence 893: Il y a ces blocs avec des cours, puis au rez-de-chaussée vous avez toutes ces connexions pour les piétons.
+ - BLEU score: 1.05976
+Sentence 894: Cela répond aussi aux réglementations locales qui requièrent une densité plus élevée dans les niveaux supérieurs et une densité inférieure au rez-de-chaussée.
+ - BLEU score: 0.844971
+Sentence 895: Et cela consolide également l'idée des portes.
+ - BLEU score: 0.696653
+Sentence 896: Le volume a cette forme de raccordement nuancée par trois différents types d'appartements qui permet également au rez-de-chaussée d'être exposé à la lumiere dans un quartier très dense. Et on trouve différents locaux dans les cours, tels un gymnase et une école maternelle et à proximité, une série de commerces apportant une activité au rez-de-chaussée.
+ - BLEU score: 0.836839
+Sentence 897: Le toit, qui est mon espace préféré du projet, arrive presque à restituer à la communauté l'espace occupé par la construction.
+ - BLEU score: 0.80696
+Sentence 898: Et c'est là où tous les voisins peuvent se réunir, et faire des activités comme une course de deux kilomètres de bon matin, en passant d'un bâtiment à l'autre.
+ - BLEU score: 0.662689
+Sentence 899: Ces deux exemples, ont une approche commune dans le processus de conception.
+ - BLEU score: 0.647916
+Sentence 900: Et aussi, ils sont situés dans des pays émergents où on peut littéralement voir les villes croître.
+ - BLEU score: 0.992933
+Sentence 901: Dans ces villes, l'impact de l'architecture dans la vie des gens d'aujourd'hui et de demain modifie les communautés et les économies locales à la même vitesse que poussent les bâtiments.
+ - BLEU score: 0.968604
+Sentence 902: Pour cette raison, j'estime qu'il est encore plus important de se tourner vers l'architecture pour trouver des solutions simples mais accessibles qui renforcent les relations entre la communauté et l'environnement et qui visent à rapprocher la nature et les gens.
+ - BLEU score: 0.707034
+Sentence 903: Merci beaucoup.
+ - BLEU score: 1.040819
+Sentence 904: Je vais maintenant parler de confiance, et je vais commencer en vous rappelant l'opinion générale qu'ont les gens sur la confiance.
+ - BLEU score: 0.951214
+Sentence 905: Je pense qu'il y a tellement de lieux communs, ils sont devenus des clichés de notre société.
+ - BLEU score: 0.607559
+Sentence 906: Je pense qu'il y en a trois.
+ - BLEU score: 0.737594
+Sentence 907: Le premier est une affirmation : il y a eu un grand déclin de la confiance, et on y croit très largement.
+ - BLEU score: 0.657507
+Sentence 908: Le deuxième est un objectif : on devrait avoir plus de confiance.
+ - BLEU score: 0.670798
+Sentence 909: Et le troisième est une tâche : on devrait rétablir la confiance.
+ - BLEU score: 1.00571
+Sentence 910: Je pense que l'affirmation, l'objectif et la tâche sont tous pensés sous un mauvais angle.
+ - BLEU score: 1.091638
+Sentence 911: Alors ce que je vais tenter de vous raconter aujourd'hui, c'est une histoire différente sur une affirmation, un objectif et une tâche qui, je crois, offre une bien meilleure prise sur cette question.
+ - BLEU score: 0.827454
+Sentence 912: Premièrement, l'affirmation : pourquoi les gens pensent-ils que la confiance a diminué ?
+ - BLEU score: 0.686277
+Sentence 913: Et si j'y pense vraiment, d'après ma propre expérience, je ne connais pas la réponse.
+ - BLEU score: 0.916179
+Sentence 914: J'ai tendance à penser que ça a peut-être diminué pour certaines activités ou certaines institutions et que ça a peut-être augmenté pour d'autres.
+ - BLEU score: 0.724642
+Sentence 915: Je n'ai pas de vue d'ensemble.
+ - BLEU score: 0.713851
+Sentence 916: Mais, évidemment, je peux regarder les sondages d'opinion, et les sondages d'opinion sont supposément la source de la croyance que la confiance a diminué.
+ - BLEU score: 1.023608
+Sentence 917: En fait, quand vous regardez les sondages d'opinion au fil du temps, il n'y a pas vraiment de preuves de ça.
+ - BLEU score: 0.73726
+Sentence 918: C'est-à-dire que les gens qui inspiraient la méfiance il y a 20 ans, principalement les journalistes et les politiciens, inspirent encore la méfiance.
+ - BLEU score: 0.92488
+Sentence 919: Et les personnes en qui on avait une grande confiance il y a 20 ans sont encore hautement dignes de confiance : les juges, les infirmières.
+ - BLEU score: 1.01111
+Sentence 920: Le reste de nous se retrouve dans le milieu, et en passant, la personne ordinaire, dans la rue, se retrouve presque exactement à mi-chemin.
+ - BLEU score: 1.072319
+Sentence 921: Mais est-ce que c'est une preuve crédible ?
+ - BLEU score: 0.898387
+Sentence 922: Ce que les sondages d'opinion rapportent, évidemment, ce sont des opinions.
+ - BLEU score: 1.06795
+Sentence 923: Que pourraient-ils rapporter d'autre ?
+ - BLEU score: 0.890907
+Sentence 924: Alors ils cherchent à connaître l'opinion générale des gens quand on leur pose certaines questions.
+ - BLEU score: 1.049494
+Sentence 925: Faites-vous confiance aux politiciens ? Faites-vous confiance aux professeurs ?
+ - BLEU score: 0.937597
+Sentence 926: Maintenant, si quelqu'un vous dit : « Faites-vous confiance aux marchands de légumes ?
+ - BLEU score: 1.09884
+Sentence 927: Faites-vous confiance aux poissonniers ?
+ - BLEU score: 0.976852
+Sentence 928: Faites-vous confiance aux professeurs d'école primaire ? »
+ - BLEU score: 0.902469
+Sentence 929: Vous allez probablement commencer par demander : «Pour faire quoi ? »
+ - BLEU score: 0.738535
+Sentence 930: Et ce serait une réaction tout à fait sensée.
+ - BLEU score: 0.87244
+Sentence 931: Et vous pourriez dire, lorsque vous aurez la réponse : « Bien, je fais confiance à certains d'entre eux, mais pas à d'autres. »
+ - BLEU score: 0.870635
+Sentence 932: C'est tout à fait rationnel.
+ - BLEU score: 1.016029
+Sentence 933: Bref, dans nos vies réelles, on accorde notre confiance d'une façon différentielle.
+ - BLEU score: 0.872777
+Sentence 934: On ne présume pas que le degré de confiance qu'on aura pour un certain type d'employé, de fonctionnaire ou de personne va toujours être le même.
+ - BLEU score: 0.740376
+Sentence 935: Je peux, par exemple, dire que j'ai assurément confiance en un certain professeur d'école primaire que je connais pour enseigner à lire à sa classe, mais en aucun cas pour conduire l'autobus scolaire.
+ - BLEU score: 0.895723
+Sentence 936: Je peux, après tout, savoir qu'il n'est pas bon conducteur.
+ - BLEU score: 0.966198
+Sentence 937: Je peux faire confiance à mes amis les plus bavards pour tenir une conversation mais pas pour garder un secret.
+ - BLEU score: 0.755204
+Sentence 938: C'est simple.
+ - BLEU score: 0.796556
+Sentence 939: Alors si on voit, dans notre vie quotidienne, ces exemples qui montrent que la confiance est variable, pourquoi oublie-t-on cette information lorsqu'on pense à la confiance de façon plus abstraite ?
+ - BLEU score: 0.895449
+Sentence 940: Je pense que les sondages sont de très mauvais guides sur le degré de confiance qui existe en réalité, parce qu'ils essaient de faire disparaître le bon jugement qu'on utilise en accordant notre confiance.
+ - BLEU score: 1.052516
+Sentence 941: Deuxièmement, qu'en est-il de l'objectif ?
+ - BLEU score: 0.903077
+Sentence 942: L'objectif est d'avoir plus de confiance.
+ - BLEU score: 0.970853
+Sentence 943: Bien franchement, je pense que c'est un objectif stupide.
+ - BLEU score: 0.621643
+Sentence 944: Ce n'est pas ce que je viserais.
+ - BLEU score: 0.770428
+Sentence 945: J'aspirerais plutôt à avoir plus confiance en ce qui est digne de confiance mais pas en ce qui n'est pas digne de confiance.
+ - BLEU score: 0.847288
+Sentence 946: En fait, j'essaie plutôt de ne pas du tout faire confiance à ce qui n'est pas honnête.
+ - BLEU score: 0.97374
+Sentence 947: Et je pense à ces personnes qui, par exemple, ont placé leurs économies entre les mains de gens comme le bien nommé M. Madoff, qui s'est enfui avec elles, et je pense à eux et je me dis, eh bien, oui, trop de confiance.
+ - BLEU score: 0.962734
+Sentence 948: Plus de confiance n'est pas un objectif intelligent en ce monde.
+ - BLEU score: 0.647338
+Sentence 949: Accorder et refuser intelligemment la confiance est le véritable objectif.
+ - BLEU score: 0.711852
+Sentence 950: Alors une fois qu'on dit, que quelqu'un dit oui, ok, ça veut dire que l'important, en premier lieu, ce n'est pas la confiance mais l'honnêteté.
+ - BLEU score: 0.967665
+Sentence 951: C'est juger jusqu'à quel point les gens sont dignes de confiance pour des questions particulières.
+ - BLEU score: 0.74698
+Sentence 952: Et je pense que ce jugement exige qu'on examine trois points.
+ - BLEU score: 0.725747
+Sentence 953: Sont-ils compétents ? Sont-ils honnêtes ? Sont-ils fiables ?
+ - BLEU score: 0.865013
+Sentence 954: Et si on trouve qu'une personne est compétente dans une matière pertinente, et fiable et honnête, on a d'assez bonnes raisons de lui faire confiance. parce qu'elle va se montrer digne de confiance.
+ - BLEU score: 1.036104
+Sentence 955: Mais si, par ailleurs, elle n'est pas fiable, on ne devrait pas lui faire confiance.
+ - BLEU score: 0.835628
+Sentence 956: J'ai des amis qui sont compétents et honnêtes, mais je ne leur ferais pas confiance pour poster une lettre parce qu'ils sont distraits.
+ - BLEU score: 0.812172
+Sentence 957: J'ai des amis qui sont très confiants qu'ils peuvent faire certaines choses, mais je réalise qu'ils surestiment leurs propres compétences.
+ - BLEU score: 0.97172
+Sentence 958: Et je suis très fière de dire que je ne crois pas avoir beaucoup d'amis qui sont compétents et fiables mais extrêmement malhonnêtes.
+ - BLEU score: 0.948496
+Sentence 959: Si c'est le cas, je ne les ai pas encore repérés.
+ - BLEU score: 0.986973
+Sentence 960: Mais voici ce qu'on recherche : l'honnêteté avant la confiance.
+ - BLEU score: 0.60039
+Sentence 961: La confiance est la réponse.
+ - BLEU score: 0.903603
+Sentence 962: L'honnêteté est ce que nous devons évaluer. Et, évidemment, c'est difficile.
+ - BLEU score: 0.747391
+Sentence 963: Dans les dernières décennies, on a essayé de bâtir des systèmes d'imputabilité pour toutes sortes d'institutions, de professionnels, d'employés, etc., pour nous aider à évaluer leur honnêteté.
+ - BLEU score: 0.698353
+Sentence 964: Plusieurs de ces systèmes ont l'effet inverse.
+ - BLEU score: 1.073093
+Sentence 965: Ils ne fonctionnent pas comme ils le devraient.
+ - BLEU score: 0.999078
+Sentence 966: Je me souviens d'avoir parlé avec une sage-femme qui disait : « Eh bien, voyez-vous, le problème, c'est que c'est plus long pour remplir la paperasse que mettre le bébé au monde. »
+ - BLEU score: 0.984343
+Sentence 967: Et partout dans notre vie publique, institutionnelle, on se retrouve avec le problème que le système d'imputabilité, conçu pour protéger l'honnêteté et les preuves d'honnêteté fait en réalité tout le contraire.
+ - BLEU score: 1.064184
+Sentence 968: Il distrait les gens qui doivent réaliser des tâches difficiles, comme les sages-femmes, de leur travail, en exigeant qu'ils cochent des cases, comme on dit.
+ - BLEU score: 1.057118
+Sentence 969: Vous pouvez ajouter vos propres exemples ici.
+ - BLEU score: 0.982403
+Sentence 970: Alors voilà pour l'objectif.
+ - BLEU score: 0.983338
+Sentence 971: L'objectif, je pense, c'est plus d'honnêteté, et les choses vont changer si on essaie d'être honnête et de communiquer notre honnêteté à d'autres personnes, et si on tente d'évaluer si d'autres personnes, des fonctionnaires ou des politiciens, sont honnêtes.
+ - BLEU score: 0.787503
+Sentence 972: Ce n'est pas facile. C'est une question de jugement et les réactions, les réponses simples n'ont pas leur place ici.
+ - BLEU score: 1.063909
+Sentence 973: Maintenant, en troisième lieu, la tâche.
+ - BLEU score: 0.845552
+Sentence 974: Dire que la tâche est de rétablir la confiance nous ramène aussi en arrière, je pense,
+ - BLEU score: 0.615579
+Sentence 975: Ça suppose que vous et moi devrions rétablir la confiance.
+ - BLEU score: 0.660472
+Sentence 976: Eh bien, on peut faire ça par nous-mêmes.
+ - BLEU score: 0.617895
+Sentence 977: On peut rétablir un peu d'honnêteté.
+ - BLEU score: 1.011741
+Sentence 978: On peut faire ça, deux personnes ensemble, en essayant d'améliorer la confiance.
+ - BLEU score: 0.603501
+Sentence 979: Mais la confiance, en fin de compte, est particulière parce qu'elle est accordée par d'autres personnes.
+ - BLEU score: 0.632912
+Sentence 980: Vous ne pouvez pas rétablir ce que d'autres personnes vous donnent.
+ - BLEU score: 0.85349
+Sentence 981: Vous devez leur donner des raisons pour qu'ils vous accordent leur confiance.
+ - BLEU score: 0.855134
+Sentence 982: Alors vous devez, je crois, être digne de confiance.
+ - BLEU score: 0.668344
+Sentence 983: Et ça, évidemment, c'est parce que vous ne pouvez pas tromper tout le monde, tout le temps, généralement.
+ - BLEU score: 1.0011
+Sentence 984: Mais vous devez aussi fournir la preuve concrète que vous êtes digne de confiance.
+ - BLEU score: 0.728412
+Sentence 985: Comment faire ?
+ - BLEU score: 0.861943
+Sentence 986: Eh bien, chaque jour, un peu partout, des gens ordinaires, des fonctionnaires, des institutions, le font de manière assez efficace.
+ - BLEU score: 1.039536
+Sentence 987: Laissez-moi vous donner un exemple simple, dans le commerce.
+ - BLEU score: 0.8854
+Sentence 988: À la boutique où j'achète mes chaussettes, on me permet de les retourner sans qu'on me pose de questions.
+ - BLEU score: 0.755944
+Sentence 989: Ils les reprennent et me redonnent l'argent ou ils me donnent une paire de chaussettes de la couleur que je voulais.
+ - BLEU score: 1.024717
+Sentence 990: C'est super. Je leur fais confiance parce qu'ils se rendent eux-mêmes vulnérables face à moi.
+ - BLEU score: 0.858804
+Sentence 991: Je pense qu'il y a une grande leçon à retenir de ça.
+ - BLEU score: 0.641653
+Sentence 992: Si vous montrez votre vulnérabilité à l'autre partie, c'est une très bonne preuve que vous êtes honnête et que vous avez confiance en ce que vous dites.
+ - BLEU score: 1.075959
+Sentence 993: Alors en fin de compte, je pense que le but visé n'est pas très difficile à discerner.
+ - BLEU score: 0.602376
+Sentence 994: Ce sont les relations dans lequelles les gens sont honnêtes et capables de juger quand et comment l'autre personne est digne de confiance.
+ - BLEU score: 0.675581
+Sentence 995: Alors la morale de tout ça, c'est qu'on doit penser beaucoup moins à la confiance, et encore moins aux signes de confiance révélés ou pas par les sondages d'opinion, et beaucoup plus au fait d'être honnête et à la façon de donner aux gens des preuves pertinentes, utiles et simples que vous êtes digne de confiance.
+ - BLEU score: 0.733667
+Sentence 996: Merci.
+ - BLEU score: 0.863685
+Sentence 997: Le meilleur moment, quand on est papa ce sont les films que je peux regarder.
+ - BLEU score: 0.919103
+Sentence 998: J'adore partager mes films préférés avec mes enfants, et quand ma fille avait quatre ans, nous avons regardé "Le Magicien d'Oz" ensemble.
+ - BLEU score: 0.67242
+Sentence 999: Ce film a complètement captivé son imagination pendant des mois.
+ - BLEU score: 0.959845
+Sentence 1000: Son personnage préféré était Glinda, bien entendu.
+ - BLEU score: 0.717317
+Sentence 1001: Ça lui donnait une bonne excuse pour porter une robe à paillettes et avoir une baguette magique.
+ - BLEU score: 0.711192
+Sentence 1002: Mais si on regarde ce film assez de fois, on commence à se rendre compte à quel point il est inhabituel.
+ - BLEU score: 0.953648
+Sentence 1003: Le monde dans lequel nous vivons et élevons nos enfants est une sorte de complexe industriel d'un univers magique pour enfants.
+ - BLEU score: 1.08604
+Sentence 1004: Mais "Le Magicien d'Oz" a fait figure d'exception.
+ - BLEU score: 0.717777
+Sentence 1005: Il n'a pas initié cette tendance.
+ - BLEU score: 0.716399
+Sentence 1006: Ce n'est que 40 ans plus que cette tendance a vraiment démarré, avec, étonnamment, un autre film mettant en scène un bonhomme en métal et un bonhomme tout poilu qui sauvent une fille en se déguisant en gardes ennemis.
+ - BLEU score: 0.697215
+Sentence 1007: Vous voyez de quoi je parle ?
+ - BLEU score: 0.719082
+Sentence 1008: Oui.
+ - BLEU score: 1.022855
+Sentence 1009: Il y a une grande différence entre ces deux films, quelques différences très importantes entre "Le Magicien d'Oz" et tous les films que nous regardons aujourd'hui.
+ - BLEU score: 0.979283
+Sentence 1010: La première est qu'il y a peu de violence dans "Le Magicien d'Oz".
+ - BLEU score: 0.652575
+Sentence 1011: Les singes sont plutôt agressifs, ainsi que les pommiers.
+ - BLEU score: 0.837321
+Sentence 1012: Mais je pense que si "Le Magicien d'Oz" devait être réalisé aujourd'hui, le magicien dirait, "Dorothy, tu es le sauveur d'Oz dont parle la prophétie.
+ - BLEU score: 1.047435
+Sentence 1013: Utilise tes chaussures magiques pour vaincre les armées de synthèse de la Méchante Sorcière."
+ - BLEU score: 0.764569
+Sentence 1014: Mais ça ne se passe pas comme ça.
+ - BLEU score: 0.915259
+Sentence 1015: Une autre chose vraiment spécifique au "Magicien d'Oz" selon moi, est que, tous les personnages les plus héroïques et sages, même les méchants, sont des femmes.
+ - BLEU score: 0.812642
+Sentence 1016: J'ai commencé à m'en rendre compte quand j'ai montré "Star Wars" à ma fille, bien des années plus tard, et la situation était différente.
+ - BLEU score: 1.071852
+Sentence 1017: A ce moment-là, j'avais aussi un fils.
+ - BLEU score: 0.726396
+Sentence 1018: Il n'avait que trois ans à l'époque.
+ - BLEU score: 0.819677
+Sentence 1019: Il n'était pas invité à la projection. Il était trop jeune pour ça.
+ - BLEU score: 0.899043
+Sentence 1020: Mais il était le deuxième enfant, et le niveau de supervision avait baissé.
+ - BLEU score: 0.725927
+Sentence 1021: Donc il est entré dans la salle, et ça l'a marqué comme une mère enseigne à son enfant, et je ne pense pas qu'il ait compris ce qui se passait, mais il s'en est imprégné.
+ - BLEU score: 0.654
+Sentence 1022: Et je me demande ce dont il s'est imprégné.
+ - BLEU score: 0.893445
+Sentence 1023: Est-il en train d'intérioriser les thèmes de courage, de persévérance et de loyauté ?
+ - BLEU score: 0.911808
+Sentence 1024: Ou intériorise-t-il que Luke rejoint une armée pour renverser le gouvernement ?
+ - BLEU score: 1.05835
+Sentence 1025: Intériorise-t-il le fait qu'il n'y a que des garçons dans l'univers sauf la tante Beru, et bien sûr cette princesse, qui est vraiment cool, mais qui ne fait qu'attendre pendant presque tout le film pour pouvoir enfin récompenser le héros avec une médaille et un clin d'œil pour le remercier d'avoir sauvé l'univers, ce qu'il fait par la magie qu'il a de naissance ?
+ - BLEU score: 0.74992
+Sentence 1026: Comparons ça au "Magicien d'Oz" de 1939.
+ - BLEU score: 0.937683
+Sentence 1027: Comment Dorothy gagne-t-elle dans le film ?
+ - BLEU score: 0.93599
+Sentence 1028: En étant amie avec tout le monde et en étant un leader.
+ - BLEU score: 1.026627
+Sentence 1029: C'est le genre de monde dans lequel je voudrais élever mes enfants -- Oz, n'est-ce pas? -- et pas un monde de mecs qui se bagarrent, là où se retrouve actuellement.
+ - BLEU score: 0.669851
+Sentence 1030: Pourquoi il y a-t-il tellement de Force -- Force avec un F majuscule -- dans les films que nous faisons pour nos enfants et si peu de route de brique jaune?
+ - BLEU score: 0.778552
+Sentence 1031: Il y a beaucoup de littérature sur l'impact que les films mecs-et-violence ont sur les filles, et vous devriez lire ce qui se dit. C'est très éclairant.
+ - BLEU score: 0.905357
+Sentence 1032: Je n'ai pas lu autant sur comment les garçons réagissent à ça.
+ - BLEU score: 0.765416
+Sentence 1033: Je sais d'expérience que la princesse Leia ne donne pas le contexte adéquat qui aurait pu m'être utile pour naviguer dans le monde adulte qui est mixte.
+ - BLEU score: 0.756791
+Sentence 1034: Il y avait ce moment du premier baiser où je m'attendais vraiment à voir le générique de fin parce que c'est la fin d'un film, n'est-ce pas?
+ - BLEU score: 0.601247
+Sentence 1035: J'ai accompli ma quête, j'ai eu la fille.
+ - BLEU score: 0.983979
+Sentence 1036: Pourquoi vous êtes encore là ?
+ - BLEU score: 0.987576
+Sentence 1037: Je ne sais pas quoi faire, là.
+ - BLEU score: 0.93108
+Sentence 1038: Les films sont très orientés sur la victoire face au méchant et recevoir sa récompense, et il n'y a pas beaucoup de place pour d'autres relations ni d'autres aventures.
+ - BLEU score: 0.996791
+Sentence 1039: Du genre, si t'es un garçon, t'es un animal abruti, et si t'es une fille, tu dois mettre ton costume de guerrière.
+ - BLEU score: 0.766733
+Sentence 1040: Il y a beaucoup d'exceptions, et je défendrai les princesses de chez Disney quoique vous en disiez.
+ - BLEU score: 0.741225
+Sentence 1041: Mais elles envoient un message aux garçons qu'ils ne sont pas le public cible.
+ - BLEU score: 0.81529
+Sentence 1042: Elles font un boulot formidable pour montrer aux filles comment se défendre face au patriarcat, mais elles ne montrent pas particulièrement aux garçons comment ils sont censés se défendre contre ce patriarcat.
+ - BLEU score: 0.878885
+Sentence 1043: Il n'y a pas de modèles pour eux.
+ - BLEU score: 0.982269
+Sentence 1044: Et nous avons aussi des femmes formidables qui écrivent de nouvelles histoires pour nos enfants, et aussi réalistes et charmantes que soient Hermione et Katniss, il s'agit toujours de films de guerre.
+ - BLEU score: 1.031277
+Sentence 1045: Et bien sûr, le studio le plus prospère de tous les temps continue à sortir classique après classique, chacun d'entre eux racontant le parcours d'un garçon, ou d'un homme, ou de deux hommes qui sont amis, ou d'un homme et son fils, ou deux hommes qui élèvent une petite fille.
+ - BLEU score: 1.040355
+Sentence 1046: Jusqu'à ce que, comme beaucoup d'entre vous le pensent, cette année ils sortent "Rebelle".
+ - BLEU score: 0.701762
+Sentence 1047: Je le recommande à chacun d'entre vous. Il est actuellement disponible en VOD.
+ - BLEU score: 1.029176
+Sentence 1048: Vous vous souvenez de ce que les critiques ont dit quand "Rebelle" est sorti ?
+ - BLEU score: 0.934137
+Sentence 1049: "Ah, je n'arrive pas à croire que Pixar ait fait un film de princesse."
+ - BLEU score: 1.026003
+Sentence 1050: Il est très bien. Ne vous arrêtez pas à ça.
+ - BLEU score: 1.040145
+Sentence 1051: Donc, quasiment aucun de ces films ne passe le test de Bechdel.
+ - BLEU score: 1.07442
+Sentence 1052: Je ne sais pas si vous en avez entendu parlé.
+ - BLEU score: 0.920379
+Sentence 1053: Il n'est pas encore très connu, mais peut-être qu'aujourd'hui nous allons créer un mouvement.
+ - BLEU score: 0.925753
+Sentence 1054: Alison Bechdel est une dessinatrice de bande dessinée, et au milieu des années 80, elle a enregistré cette conversation qu'elle a eue avec un ami sur l'évaluation des films qu'ils avaient vus.
+ - BLEU score: 0.626505
+Sentence 1055: Et c'est très simple. Il n'y a que trois questions à se poser : Il y a-t-il plus d'un personnage dans le film qui soit feminin et qui ait du texte ?
+ - BLEU score: 1.009982
+Sentence 1056: Donc essayez d'atteindre ce niveau.
+ - BLEU score: 0.63453
+Sentence 1057: Et est-ce que ces femmes se parlent à un moment ou un autre dans le film ?
+ - BLEU score: 0.642207
+Sentence 1058: Est-ce que leur conversation tourne autour d'autre chose que l'homme qu'elles aiment toutes les deux ?
+ - BLEU score: 0.695473
+Sentence 1059: D'accord? Merci.
+ - BLEU score: 0.903341
+Sentence 1060: Merci beaucoup.
+ - BLEU score: 0.709826
+Sentence 1061: Deux femmes qui existent et qui discutent de trucs.
+ - BLEU score: 0.64042
+Sentence 1062: Ça existe. J'ai déjà vu ça, et pourtant je le vois très rarement dans les films que nous connaissons et aimons.
+ - BLEU score: 1.025748
+Sentence 1063: Justement, cette semaine je suis allé voir un film de haute facture, "Argo".
+ - BLEU score: 0.986473
+Sentence 1064: On parle d'Oscar, il fait carton au box-office, la définition même d'une super-production Hollywoodienne.
+ - BLEU score: 0.989267
+Sentence 1065: Il échoue tout de même au test de Bechdel.
+ - BLEU score: 0.759976
+Sentence 1066: Et je pense qu'il ne devrait pas, parce qu'une bonne partie du film, je ne sais pas si vous l'avez vu, mais une bonne partie du film se passe dans une ambassade où des hommes et des femmes se cachent pendant la crise des otages.
+ - BLEU score: 0.871457
+Sentence 1067: Nous avons pas mal de scènes d'hommes ayant des conversations profondes, dominées par la frustration, dans cette cachette, et un des grands moments pour une des actrices est d'entr'ouvrir une porte et de dire : "Tu viens te coucher, chéri ?"
+ - BLEU score: 0.755081
+Sentence 1068: Ça c'est du Hollywood.
+ - BLEU score: 0.697466
+Sentence 1069: Jetons un oeil aux chiffres.
+ - BLEU score: 0.7203
+Sentence 1070: En 2011, des 100 films les plus populaires, à votre avis, combien ont une femme comme personnage principal ?
+ - BLEU score: 0.72084
+Sentence 1071: Onze. C'est pas mal.
+ - BLEU score: 0.763782
+Sentence 1072: Ce n'est pas le même pourcentage que le nombre de femmes que nous venons d'élire au Congrès, donc ça va.
+ - BLEU score: 0.64585
+Sentence 1073: Mais il y a un chiffre qui est plus grand que ça qui va surprendre cette salle.
+ - BLEU score: 0.967747
+Sentence 1074: L'an dernier, le New York Times a publié une étude réalisée par le gouvernement.
+ - BLEU score: 1.091402
+Sentence 1075: Voici ce qu'elle dit.
+ - BLEU score: 0.919651
+Sentence 1076: Une femme sur cinq aux Etats-Unis dit avoir été agressée sexuellement à un moment de sa vie.
+ - BLEU score: 1.017391
+Sentence 1077: Bon, je ne pense pas que c'est la faute du divertissement grand public.
+ - BLEU score: 0.893959
+Sentence 1078: Je ne pense pas que les films pour enfants y soient pour quelque chose.
+ - BLEU score: 0.705608
+Sentence 1079: Je ne pense même pas que les clips ou la pornographie aient un rapport direct avec ça, mais il y a quelque chose qui cloche, et quand j'entends ces statistiques, une des choses auxquelles je pense est que ça fait beaucoup d'agresseurs sexuels.
+ - BLEU score: 1.076434
+Sentence 1080: Qui sont ces hommes ? Qu'est-ce qu'ils apprennent ?
+ - BLEU score: 0.85934
+Sentence 1081: Qu'est-ce qu'ils n'arrivent pas à apprendre ?
+ - BLEU score: 0.738698
+Sentence 1082: S'imprègnent-ils de l'histoire que le boulot du héros est de vaincre le méchant par la violence et d'ensuite prendre sa récompense, qui est une femme qui n'a pas d'amis et qui ne parle pas ?
+ - BLEU score: 0.705835
+Sentence 1083: Sommes-nous en train de nous imprégner de cette histoire?
+ - BLEU score: 0.831767
+Sentence 1084: Vous savez, en tant que parent qui a le privilège d'élever une fille comme vous qui faites la même chose, nous trouvons ce monde et ces statistiques très inquiétants et nous voulons les préparer.
+ - BLEU score: 0.779262
+Sentence 1085: Nous avons des outils à notre disposition tels que le "girl power", et nous espérons que ça aidera, mais je me demande, est-ce que le "girl power" va suffire à les protéger si, en même temps, de façon active ou passive, nous entraînons nos fils à maintenir leur "boy power" ?
+ - BLEU score: 0.963613
+Sentence 1086: Mon idée est que notre programme TV est un moyen de faire quelque chose de très important, et je m'adresse particulièrement aux pères ici.
+ - BLEU score: 0.794871
+Sentence 1087: Je pense que nous devons montrer à nos fils une nouvelle définition de la virilité.
+ - BLEU score: 0.730254
+Sentence 1088: La définition de la virilité est déjà en train de se renverser.
+ - BLEU score: 0.82143
+Sentence 1089: Vous avez dû lire comment la nouvelle économie renverse les rôles de celui qui gagne de l'argent et celui qui s'occupe de la famille.
+ - BLEU score: 0.826099
+Sentence 1090: Tout est chamboulé.
+ - BLEU score: 1.055474
+Sentence 1091: Nos fils vont devoir trouver un moyen de s'adapter à ça, à une nouvelle relation avec les autres et je pense que nous devons leur montrer, par l'exemple, à quel point un vrai mec c'est celui qui fait confiance à ses sœurs et les respecte, et veut faire partie de leur équipe, et se dresse contre les vrais méchants, qui sont les hommes qui maltraitent les femmes.
+ - BLEU score: 1.017443
+Sentence 1092: Et je pense que notre rôle dans cette programmation TV est de chercher ces films qui passent le test de Bechdel, si on arrive à les trouver, et à chercher les héroïnes qui sont là, qui font preuve de courage, qui rassemblent les gens, et d'inciter nos fils à s'identifier à ces héroïnes et à dire, "Je veux faire partie de leur équipe," parce qu'ils vont faire partie de leur équipe.
+ - BLEU score: 0.88542
+Sentence 1093: Quand j'ai demandé à ma fille son personnage préféré de "Star Wars", vous savez ce qu'elle a dit ?
+ - BLEU score: 0.738652
+Sentence 1094: Obi-Wan.
+ - BLEU score: 1.042427
+Sentence 1095: Obi-Wan Kenobi et Glinda.
+ - BLEU score: 0.910008
+Sentence 1096: Qu'ont-ils en commun ?
+ - BLEU score: 0.963652
+Sentence 1097: Peut-être qu'il y a plus que la robe scintillante.
+ - BLEU score: 1.052205
+Sentence 1098: Je pense que ces personnes sont des experts.
+ - BLEU score: 0.831503
+Sentence 1099: A mon avis, ce sont les deux personnes du film qui en savent plus que les autres, et ils aiment partager leurs connaissances avec les autres pour les aider à atteindre leur potentiel.
+ - BLEU score: 0.785191
+Sentence 1100: Ce sont des leaders.
+ - BLEU score: 0.778576
+Sentence 1101: J'aime ce genre de quête pour ma fille, et j'aime ce genre de quête pour mon fils.
+ - BLEU score: 0.797029
+Sentence 1102: Je veux plus de quêtes comme ça.
+ - BLEU score: 0.689281
+Sentence 1103: Je veux moins de quêtes où on raconte à mon fils, "Va et bats-toi seul," et plus de quêtes où il voit que c'est son devoir de rejoindre une équipe, peut-être une équipe menée par des femmes, pour aider les autres à devenir meilleurs et être de meilleures personnes, comme le Magicien d'Oz.
+ - BLEU score: 0.858884
+Sentence 1104: Merci.
+ - BLEU score: 0.797276
+Sentence 1105: J'aimerais vous raconter une histoire à propos d'un gamin d'une petite ville.
+ - BLEU score: 0.812746
+Sentence 1106: Je ne connais pas son nom, mais je connais bien son histoire.
+ - BLEU score: 0.972368
+Sentence 1107: Il habite dans un petit village du sud de la Somalie.
+ - BLEU score: 0.810104
+Sentence 1108: Son village est proche de Mogadiscio.
+ - BLEU score: 0.649228
+Sentence 1109: La sécheresse a plongé le petit village dans la pauvreté et l'a mené au bord de la famine.
+ - BLEU score: 0.707675
+Sentence 1110: N'espérant plus rien de sa vie là-bas, il quitte son village pour la grande ville, pour Mogadiscio, capitale de la Somalie.
+ - BLEU score: 0.749036
+Sentence 1111: Une fois là-bas, il n'y trouve aucune opportunité, aucun travail, aucun débouché.
+ - BLEU score: 1.087902
+Sentence 1112: Il finit par s'installer dans un camp de tentes dans la banlieue de Mogadiscio.
+ - BLEU score: 1.05078
+Sentence 1113: Une année se passe et toujours rien.
+ - BLEU score: 0.674085
+Sentence 1114: Un jour, un homme bien mis s'approche de lui et lui propose de lui offrir le déjeuner, puis le dîner, puis le petit-déjeuner.
+ - BLEU score: 0.922895
+Sentence 1115: Il rencontre alors ce groupe de personnes dynamiques qui l'aide à s'en sortir.
+ - BLEU score: 0.824916
+Sentence 1116: On lui donne un peu d'argent pour s'acheter de nouveaux vêtements, de l'argent à envoyer à sa famille au pays.
+ - BLEU score: 1.085098
+Sentence 1117: On le présente à une jeune femme.
+ - BLEU score: 0.729052
+Sentence 1118: Il finit par se marier.
+ - BLEU score: 0.82134
+Sentence 1119: Il commence une nouvelle vie.
+ - BLEU score: 0.778786
+Sentence 1120: Il a enfin un but dans la vie.
+ - BLEU score: 0.915621
+Sentence 1121: Puis un beau jour à Mogadiscio, sous un ciel d'un bleu d'azur, une voiture piégée explose.
+ - BLEU score: 0.762662
+Sentence 1122: Le gamin du village qui rêvait de la grande ville était le kamikaze responsable de cet acte, et ce groupe de gens plein de dynamisme c'était al-Shabaab, une organisation terroriste liée au groupe al-Qaeda.
+ - BLEU score: 0.76827
+Sentence 1123: Alors, comment se fait-il qu'un petit villageois qui cherche seulement à réussir dans la grande ville finisse par se faire exploser ?
+ - BLEU score: 0.995241
+Sentence 1124: Il était en train d'attendre.
+ - BLEU score: 0.805968
+Sentence 1125: En train d'attendre une opportunité, en train d'attendre de construire son avenir, en train d'attendre de trouver une issue, et ce fut la première chose qui se présenta.
+ - BLEU score: 1.056239
+Sentence 1126: Ce fut la première chose qui le sortit de ce que nous appellerons sa situation d'attente.
+ - BLEU score: 0.744339
+Sentence 1127: Et son histoire se répète dans les centres urbains à travers le monde.
+ - BLEU score: 0.886475
+Sentence 1128: C'est l'histoire de la jeunesse urbaine, sans emploi et marginalisée, celle qui déclenche des émeutes à Johannesburg, des émeutes à Londres, celle qui tente de s'extraire de cette situation d'attente.
+ - BLEU score: 0.862159
+Sentence 1129: Pour les jeunes, la promesse de la grande ville, le rêve de la grande ville est celui des opportunités, du travail, de la richesse, mais les jeunes ne profitent pas de la prospérité de leur ville.
+ - BLEU score: 0.682338
+Sentence 1130: Souvent, ce sont les jeunes qui souffrent des taux de chômage les plus élevés.
+ - BLEU score: 0.696488
+Sentence 1131: D'ici 2030, trois citadins sur cinq auront moins de 18 ans.
+ - BLEU score: 0.914857
+Sentence 1132: Si nous n'impliquons pas les jeunes dans la croissance de nos villes, si nous ne leur fournissons pas des opportunités, cette situation d'attente, cette porte d'accès au terrorisme, à la violence et au crime organisé, sera l'histoire de nos villes.
+ - BLEU score: 1.042068
+Sentence 1133: Dans ma ville natale, Mogadiscio, 70% des jeunes souffrent du chômage.
+ - BLEU score: 0.887591
+Sentence 1134: 70% n'ont pas de travail, ne vont pas à l'école.
+ - BLEU score: 0.904272
+Sentence 1135: Ils sont là, à ne rien faire.
+ - BLEU score: 0.800211
+Sentence 1136: Je suis retourné à Mogadiscio le mois dernier, et j'ai visité l'Hôpital Madina, l'hôpital où je suis né.
+ - BLEU score: 0.705761
+Sentence 1137: Je me souviens être resté debout devant cet hôpital criblé de balles en pensant, et si je n'étais jamais parti ?
+ - BLEU score: 1.004622
+Sentence 1138: Si j'avais été forcé de rester dans cette même situation d'attente ?
+ - BLEU score: 1.008143
+Sentence 1139: Serais-je devenu un terroriste ?
+ - BLEU score: 0.957638
+Sentence 1140: Je ne suis pas vraiment sûr de la réponse.
+ - BLEU score: 1.032315
+Sentence 1141: La raison pour laquelle je me trouvais à Mogadiscio ce mois-là était en vérité pour organiser un sommet des jeunes leaders et entrepreneurs.
+ - BLEU score: 0.790637
+Sentence 1142: J'ai réuni quelques 90 jeunes leaders somaliens.
+ - BLEU score: 1.064927
+Sentence 1143: Nous avons réfléchi ensemble à des solutions aux défis majeurs auxquels leur ville doit faire face.
+ - BLEU score: 0.948944
+Sentence 1144: Un des jeunes hommes dans la salle se nommait Aden.
+ - BLEU score: 0.771207
+Sentence 1145: Il avait obtenu son diplôme de l'université de Mogadiscio.
+ - BLEU score: 0.865118
+Sentence 1146: Mais il n'y avait pas d'emplois, pas d'opportunités.
+ - BLEU score: 0.721639
+Sentence 1147: Je me souviens qu'il m'avait dit, que parce qu'il était jeune diplômé, sans emploi et frustré, il représentait la cible parfaite pour être recruté par al-Shabaab et d'autres organisations terroristes.
+ - BLEU score: 0.943952
+Sentence 1148: Ils recherchaient des personnes comme lui.
+ - BLEU score: 1.052006
+Sentence 1149: Mais son histoire prit un autre tournant.
+ - BLEU score: 0.882732
+Sentence 1150: A Mogadiscio, le plus grand obstacle pour aller d'un point A vers un point B c'est les routes.
+ - BLEU score: 0.815042
+Sentence 1151: Vingt-trois ans de guerre civile ont complètement détruit le réseau routier, et une motocyclette est le moyen le plus aisé de se déplacer.
+ - BLEU score: 0.886137
+Sentence 1152: Aden y a vu une opportunité et l'a saisie.
+ - BLEU score: 0.728174
+Sentence 1153: Il a lancé une entreprise de motocyclettes.
+ - BLEU score: 1.042773
+Sentence 1154: Il a commencé à louer ces motos à des résidents locaux qui ne pouvaient en temps normal se le permettre.
+ - BLEU score: 0.956234
+Sentence 1155: Il a acheté dix motos avec l'aide de sa famille et de ses amis, et son rêve est de s'agrandir en en achetant plusieurs centaines dans les trois années à venir.
+ - BLEU score: 0.671685
+Sentence 1156: Qu'est-ce qui fait que cette histoire est différente ?
+ - BLEU score: 0.656292
+Sentence 1157: Qu'est-ce qui fait que son histoire est différente ?
+ - BLEU score: 0.960599
+Sentence 1158: Je crois que c'est sa capacité à identifier et à saisir une nouvelle opportunité.
+ - BLEU score: 0.974988
+Sentence 1159: C'est l'esprit d'entreprenariat, et je pense que l'entreprenariat peut être le remède le plus puissant contre la situation d'attente.
+ - BLEU score: 0.792598
+Sentence 1160: Il donne aux jeunes les moyens d'être les créateurs de ces mêmes opportunités qu'ils recherchent si désespérément.
+ - BLEU score: 1.034995
+Sentence 1161: Et on peut former les jeunes à devenirs des entrepreneurs.
+ - BLEU score: 0.806631
+Sentence 1162: Je vais vous raconter l'histoire d'un autre jeune homme qui a assisté à une de mes réunions, Mohamed Mohamoud, un fleuriste.
+ - BLEU score: 0.833997
+Sentence 1163: Il m'aidait à former certains jeunes présents au sommet de l'entreprenariat à faire preuve d'un esprit novateur et apprendre à créer une culture d'entreprenariat.
+ - BLEU score: 0.718981
+Sentence 1164: En fait, il est le premier fleuriste que Mogadiscio ait connu en plus de 22 ans, et jusqu'à tout récemment, jusqu'à l'arrivée de Mohamed, si vous vouliez des fleurs à votre mariage, il fallait utiliser des bouquets en plastique expédiés de l'étranger.
+ - BLEU score: 0.923031
+Sentence 1165: Si vous demandiez à quelqu'un « Qu'elle est la dernière fois où vous avez vu des fleurs fraîches ? » pour beaucoup de ceux ayant connu la guerre civile, la réponse serait « Jamais. »
+ - BLEU score: 1.094542
+Sentence 1166: Alors Mohamed vit là une opportunité.
+ - BLEU score: 0.690179
+Sentence 1167: Il fonda une société d'aménagement du paysage et de composition florale.
+ - BLEU score: 1.061801
+Sentence 1168: Il établit une ferme à l'extérieur de Mogadiscio, où il fit pousser des tulipes et des fleurs de lys, qui, selon lui, pourraient résister au dur climat de Mogadiscio.
+ - BLEU score: 0.877913
+Sentence 1169: Et il commença à livrer des fleurs aux mariages, à aménager des jardins dans les maisons et les sites commerciaux à travers la ville, et à présent il travaille sur le projet du premier jardin public de Mogadiscio en 22 ans.
+ - BLEU score: 1.022201
+Sentence 1170: Il n'y a pas de jardin public à Mogadiscio.
+ - BLEU score: 0.782163
+Sentence 1171: Il veut donc créer un espace où les familles et les jeunes pourront se retrouver, et, comme il dit, humer le parfum de ces roses proverbiales.
+ - BLEU score: 0.874199
+Sentence 1172: Au fait, il ne cultive pas de roses car elles ont besoin de beaucoup trop d'eau.
+ - BLEU score: 0.61117
+Sentence 1173: La première étape est donc d'inspirer les jeunes, et dans cette salle, la présence de Mohamed a réellement eu un profond impact sur les jeunes.
+ - BLEU score: 0.800944
+Sentence 1174: Ils n'avaient jamais vraiment pensé à monter leur propre affaire.
+ - BLEU score: 0.602804
+Sentence 1175: Ils avaient pensé à travailler pour une ONG, à travailler pour le gouvernement, mais son histoire, son innovation, a vraiment eu un fort impact sur eux.
+ - BLEU score: 0.90425
+Sentence 1176: Il les a forcé à regarder leur ville comme une source d'opportunités.
+ - BLEU score: 0.859554
+Sentence 1177: Il leur a permis de croire en leur potentiel d'entrepreneurs, en leur pouvoir de changer les choses.
+ - BLEU score: 0.870123
+Sentence 1178: A la fin de la journée, ils étaient en mesure de proposer des solutions innovantes à certains des défis majeurs auxquels leur ville est confrontée.
+ - BLEU score: 0.744891
+Sentence 1179: Ils ont trouvé des solutions entreprenariales aux problèmes locaux.
+ - BLEU score: 0.73404
+Sentence 1180: Ainsi, inspirer les jeunes et créer une culture d'entreprenariat représente vraiment un grand pas, mais les jeunes ont besoin de capitaux pour concrétiser leurs idées.
+ - BLEU score: 0.990755
+Sentence 1181: Ils ont besoin de conseillers et de mentors pour les guider dans le développement et le lancement de leurs projets.
+ - BLEU score: 0.604118
+Sentence 1182: Donnez aux jeunes les ressources dont ils ont besoin, accordez-leur le soutien nécessaire pour passer de l'idée à la création, et vous aurez créé un catalyseur à la croissance urbaine.
+ - BLEU score: 1.081133
+Sentence 1183: Selon moi, l'entreprenariat est plus que le simple fait de monter une affaire.
+ - BLEU score: 0.707328
+Sentence 1184: C'est avoir un impact sur la société.
+ - BLEU score: 0.624108
+Sentence 1185: Mohamed ne vend pas simplement des fleurs.
+ - BLEU score: 0.8439
+Sentence 1186: Il vend aussi de l'espoir.
+ - BLEU score: 0.733425
+Sentence 1187: Son Peace Park comme il l'appelle, une fois achevé, va véritablement transformer le regard des gens sur leur ville.
+ - BLEU score: 0.709556
+Sentence 1188: Aden a engagé des gosses de la rue pour l'aider à louer et entretenir les motos.
+ - BLEU score: 0.819627
+Sentence 1189: Il leur a ainsi donné l'occasion d'échapper à la paralysie de la situation d'attente.
+ - BLEU score: 0.778046
+Sentence 1190: Ces jeunes entrepreneurs ont un immense impact sur leur villes.
+ - BLEU score: 0.985705
+Sentence 1191: Ma suggestion est donc, transformez les jeunes en entrepreneurs, incubez et nourrissez leur capacité d'innovation inhérente, et vous aurez plus d'histoires de fleurs et de Peace Parks que de voitures piégées et de situations d'attente.
+ - BLEU score: 0.981749
+Sentence 1192: Je vous remercie.
+ - BLEU score: 0.65438
+Sentence 1193: Quand j'étais enfant, j'ai grandi dans le Maine, j'aimais beaucoup chercher des dollars des sables sur les plages du Maine, parce que mes parents me disaient que ça me porterait chance.
+ - BLEU score: 0.898656
+Sentence 1194: Vous savez, ces coquillages sont difficiles à trouver.
+ - BLEU score: 0.963834
+Sentence 1195: Ils sont recouverts de sable. Ils sont difficiles à repérer.
+ - BLEU score: 0.991484
+Sentence 1196: Mais au fil du temps, je me suis habituée à les chercher.
+ - BLEU score: 0.63951
+Sentence 1197: J'ai commencé à reconnaître des formes et des modèles qui m'aidaient à les rassembler.
+ - BLEU score: 0.665293
+Sentence 1198: Ça a évolué en une passion pour la découverte, un amour pour le passé et l'archéologie.
+ - BLEU score: 1.012535
+Sentence 1199: Finalement, quand j'ai commencé à étudier l'égyptologie, je me suis rendue compte que voir à l'œil nu n'était pas suffisant.
+ - BLEU score: 1.047743
+Sentence 1200: Parce que, d'un coup en Egypte, ma minuscule plage du Maine s'était transformée en une plage d'environ 1300 kilomètres de long près du Nil, et mes dollars des sables avaient la taille de villes.
+ - BLEU score: 0.644313
+Sentence 1201: C'est ce qui m'a vraiment amenée à utiliser l'imagerie satellite.
+ - BLEU score: 0.876348
+Sentence 1202: Pour pouvoir tracer le passé, je savais qu'il me faudrait voir les choses autrement.
+ - BLEU score: 1.026086
+Sentence 1203: Je veux vous montrer comment l'on voit différemment grâce à l'infrarouge.
+ - BLEU score: 0.845417
+Sentence 1204: Ce site, situé à l'est du Delta égyptien, s'appelle Bendix.
+ - BLEU score: 0.85926
+Sentence 1205: À vue d'œil, le site est marron, mais sous infrarouge et après traitement avec des couleurs artificielles, le site apparaît soudain en rose vif.
+ - BLEU score: 0.84341
+Sentence 1206: Ce que vous voyez sont en fait les transformations chimiques du paysage causées par les matériaux de construction et l'activité des égyptiens antiques.
+ - BLEU score: 0.85758
+Sentence 1207: Ce que je veux partager avec vous aujourd'hui c'est la manière dont des données satellite ont servi à retrouver une ville égyptienne antique, appelée Itjtawy, portée disparue durant des milliers d'années.
+ - BLEU score: 0.975721
+Sentence 1208: Itjtawi a été la capitale de l'Égypte antique pendant plus de quatre cent ans, à une époque appelée le Moyen Empire et datant de quatre mille ans.
+ - BLEU score: 0.953862
+Sentence 1209: Cet endroit se situe dans la ville de Faiyum en Égypte et il est très important parce qu'au Moyen Empire, une grande renaissance avait transformé l'art, l'architecture et la religion de l'Égypte antique.
+ - BLEU score: 1.041124
+Sentence 1210: Les Égyptologues avaient toujours présumé qu'Itjtawy se trouvait quelque part entre les pyramides des deux rois l'ayant construite, comme l'indiquent les cercles rouges, quelque part au sein de cet immense lit d'inondation.
+ - BLEU score: 0.782144
+Sentence 1211: Cette zone est vaste, elle mesure environ 6,5 kilomètres sur 5.
+ - BLEU score: 1.058047
+Sentence 1212: Le Nil s'écoulait tout près de la ville d'Itjtawy, et à mesure qu'il évoluait, changeait et se déplaçait vers l'est, il a fini par recouvrir la ville.
+ - BLEU score: 0.73647
+Sentence 1213: Comment retrouver une ville engloutie sous un vaste paysage ?
+ - BLEU score: 0.602269
+Sentence 1214: Essayer au hasard équivaudrait à chercher une aiguille dans une botte de foin, les yeux bandés et des gants de baseball aux mains.
+ - BLEU score: 0.971659
+Sentence 1215: Ce qu'on a fait c'est qu'on a utilisé les données topographiques de la NASA pour établir une carte du site; les différences sont très subtiles.
+ - BLEU score: 0.952802
+Sentence 1216: On a réussi à remonter aux origines de l'écoulement du Nil
+ - BLEU score: 1.076483
+Sentence 1217: et ce qui est encore plus intéressant, c'est que vous pouvez voir en détail cette zone légèrement surélevée et délimitée par ce cercle ; nous avons pensé que cela pourrait bien être l'emplacement de la ville d'Itjtawy.
+ - BLEU score: 0.890646
+Sentence 1218: Avec des scientifiques Égyptiens, nous avons entrepris le carottage, que vous voyez ici.
+ - BLEU score: 1.021256
+Sentence 1219: Quand je dis carottage, c'est comme le carottage de glace, or on ne cherchait pas de couches témoignant du changement climatique mais de l'occupation humaine.
+ - BLEU score: 0.673948
+Sentence 1220: À cinq mètres de profondeur, sous une épaisse couche de boue, se trouvait une dense couche de poterie.
+ - BLEU score: 1.033402
+Sentence 1221: Ceci démontre qu'à l'emplacement probable d'Itjtawy, à cinq mètres de profondeur, des couches témoignent de l'occupation humaine durant plusieurs centaines d'années et datent du Moyen Empire, exactement comme on l'avait supposé.
+ - BLEU score: 0.711077
+Sentence 1222: On a aussi trouvé des pierres taillées, de la cornaline, du quartz, de l'agate, ce qui montrait qu'un atelier de bijoutier se trouvait ici.
+ - BLEU score: 0.751211
+Sentence 1223: À première vue, ça ne saute pas aux yeux, mais quand vous pensez aux pierres les plus utilisées en matière de bijoux à l'époque du Moyen Empire, c'étaient bien celles-là.
+ - BLEU score: 1.064526
+Sentence 1224: Donc nous avons ici une dense couche d'occupation humaine datant du Moyen Empire.
+ - BLEU score: 0.936318
+Sentence 1225: On a aussi la preuve de l'existence d'un atelier de bijouterie de luxe démontrant que la ville qui se trouvait ici devait être très importante.
+ - BLEU score: 0.961957
+Sentence 1226: On ne sait pas encore si c'était bien Itjtawy, mais on compte prochainement revenir sur les lieux pour en dresser le plan.
+ - BLEU score: 0.723203
+Sentence 1227: Ce qui est plus important encore, c'est que nous disposons de fonds pour apprendre aux jeunes Égyptiens à manier la technologie satellitaire pour qu'ils puissent également contribuer aux grandes découvertes.
+ - BLEU score: 0.96163
+Sentence 1228: Je conclue donc avec ma citation favorite du Moyen Empire, probablement écrite à Itjtawy il y a quatre mille ans.
+ - BLEU score: 0.66791
+Sentence 1229: « Le partage du savoir est la meilleure des vocations.
+ - BLEU score: 0.610534
+Sentence 1230: Il n'y a rien de comparable sur terre. »
+ - BLEU score: 0.710021
+Sentence 1231: Il s'avère que TED n'a pas été fondé en 1984 de notre ère.
+ - BLEU score: 0.690823
+Sentence 1232: La création d'idées a en fait commencé en 1984 avant J.-C dans une ville égarée pour quelque temps et retrouvée d'en haut.
+ - BLEU score: 0.78309
+Sentence 1233: Cela met surement en perspective la découverte des coquillages sur le rivage.
+ - BLEU score: 0.625851
+Sentence 1234: Merci beaucoup.
+ - BLEU score: 0.638241
+Sentence 1235: Merci.
+ - BLEU score: 0.862421
+Sentence 1236: Grandir à Taiwan en tant que fille d'une calligraphe, un des moments que je chéris le plus c'est ma mère me montrant la beauté et la forme des caractères chinois.
+ - BLEU score: 0.940945
+Sentence 1237: Depuis, j'ai toujours été fascinée par cette langue incroyable.
+ - BLEU score: 0.63635
+Sentence 1238: Mais pour un étranger, ça semble être aussi impénétrable que la Grande Muraille de Chine.
+ - BLEU score: 0.665009
+Sentence 1239: Depuis quelques années, je me suis demandé si je pouvais abattre ce mur, pour que n'importe qui, qui souhaiterait comprendre et apprécier la beauté de cette langue sophistiquée puisse le faire.
+ - BLEU score: 0.817461
+Sentence 1240: J'ai commencé à réfléchir à l'utilité d'une méthode nouvelle et rapide d'apprendre le chinois.
+ - BLEU score: 0.986082
+Sentence 1241: Depuis que j'ai cinq ans, j'ai appris à dessiner chaque trait pour chaque caractère dans l'ordre.
+ - BLEU score: 1.021372
+Sentence 1242: J'apprenais de nouveaux caractères tous les jours pendant les 15 années qui ont suivi.
+ - BLEU score: 0.871761
+Sentence 1243: Puisque nous n'avons que cinq minutes, il faudrait faire simple et rapide.
+ - BLEU score: 0.689635
+Sentence 1244: Un érudit Chinois comprendrait 20 000 caractères.
+ - BLEU score: 0.811667
+Sentence 1245: On n'en a besoin que de 1000 pour la langue courante.
+ - BLEU score: 0.71388
+Sentence 1246: Les 200 premiers permettent de comprendre 40% de la littérature de base -- assez pour lire les signes de la route, le menu des restaurants, pour comprendre l'idée de base des sites web ou des journaux.
+ - BLEU score: 0.726046
+Sentence 1247: Aujourd'hui je vais commencer avec huit caractères pour vous montrer comment marche la méthode.
+ - BLEU score: 0.678131
+Sentence 1248: Vous êtes prêts ?
+ - BLEU score: 0.75857
+Sentence 1249: Ouvrez la bouche aussi grand que possible jusqu'à ce qu'elle soit carrée.
+ - BLEU score: 0.915879
+Sentence 1250: Vous avez une bouche.
+ - BLEU score: 0.792302
+Sentence 1251: Voici une personne qui se promène.
+ - BLEU score: 0.682626
+Sentence 1252: Personne.
+ - BLEU score: 0.879777
+Sentence 1253: Si la forme du feu est une personne avec deux bras de chaque côté, comme si elle hurlait frénétiquement, «  Aidez-moi ! Je prends feu ! » -- Le symbole vient de la forme d'une flamme, mais j'aime le voir comme ça. C'est comme vous le voulez.
+ - BLEU score: 1.097526
+Sentence 1254: Ceci est un arbre.
+ - BLEU score: 0.901525
+Sentence 1255: Arbre.
+ - BLEU score: 0.978123
+Sentence 1256: Ceci est une montagne.
+ - BLEU score: 0.79126
+Sentence 1257: Le soleil.
+ - BLEU score: 1.076447
+Sentence 1258: La lune.
+ - BLEU score: 0.868672
+Sentence 1259: Le symbole de la porte ressemble à une porte de saloon du Far West.
+ - BLEU score: 0.948786
+Sentence 1260: J'appelle ces huit caractères des radicaux.
+ - BLEU score: 0.96974
+Sentence 1261: Ce sont les briques pour créer plus de caractères.
+ - BLEU score: 0.883013
+Sentence 1262: Une personne.
+ - BLEU score: 1.057947
+Sentence 1263: Si quelqu'un marche derrière, ça veut dire « suivre ».
+ - BLEU score: 0.696008
+Sentence 1264: Comme le veut le dicton, deux c'est bien, trois c'est une foule.
+ - BLEU score: 0.774166
+Sentence 1265: Si une personne ouvre grand les bras, alors cette personne dit, « C'était grand comme ça. »
+ - BLEU score: 0.626017
+Sentence 1266: Si la personne est dans la bouche, c'est qu'elle est piégée.
+ - BLEU score: 0.884296
+Sentence 1267: C'est un prisonnier, comme Jonah dans la baleine.
+ - BLEU score: 0.837646
+Sentence 1268: Un arbre c'est un arbre. Deux arbres, c'est un bois.
+ - BLEU score: 0.997017
+Sentence 1269: Trois arbres, nous avons une forêt.
+ - BLEU score: 0.666841
+Sentence 1270: Une planche sous l'arbre, et nous avons la fondation.
+ - BLEU score: 0.715152
+Sentence 1271: Une bouche au-dessus de l'arbre, et c'est « stupide ».
+ - BLEU score: 0.883902
+Sentence 1272: Facile à mémoriser, puisque parler à un arbre est assez stupide.
+ - BLEU score: 0.76078
+Sentence 1273: Vous vous souvenez du feu ?
+ - BLEU score: 0.774863
+Sentence 1274: Deux feux ensemble, et il fait très chaud.
+ - BLEU score: 1.097768
+Sentence 1275: Trois feux ensemble, c'est beaucoup de flammes.
+ - BLEU score: 1.020105
+Sentence 1276: Mettez le feu sous les deux arbres, et il brûle.
+ - BLEU score: 1.066325
+Sentence 1277: Pour nous, le soleil est source de prospérité.
+ - BLEU score: 0.759866
+Sentence 1278: Deux soleils ensemble, prospérité.
+ - BLEU score: 0.654125
+Sentence 1279: Trois soleils, c'est des étincelles.
+ - BLEU score: 0.828016
+Sentence 1280: Le soleil et la lune ensemble, c'est la brillance.
+ - BLEU score: 0.864114
+Sentence 1281: Ça veut aussi dire demain, après un jour et une nuit.
+ - BLEU score: 1.071892
+Sentence 1282: Le soleil se lève au-dessus de l'horizon. L'aube.
+ - BLEU score: 1.019576
+Sentence 1283: Une porte. Une planche dans la porte, c'est un verrou.
+ - BLEU score: 0.983534
+Sentence 1284: Une bouche dans la porte, c'est poser des questions.
+ - BLEU score: 0.85783
+Sentence 1285: Toc, toc. Quelqu'un est là ?
+ - BLEU score: 1.023155
+Sentence 1286: Cette personne se faufile dehors, se sauve, s'échappe.
+ - BLEU score: 0.969608
+Sentence 1287: A gauche, on a une femme.
+ - BLEU score: 0.607454
+Sentence 1288: Deux femmes ensemble, c'est une dispute.
+ - BLEU score: 0.825375
+Sentence 1289: Trois femmes ensemble, attention, c'est l'adultère.
+ - BLEU score: 0.657966
+Sentence 1290: Donc nous avons vu presque 30 caractères.
+ - BLEU score: 0.869896
+Sentence 1291: En utilisant cette méthode, les huit premiers radicaux vous permettent d'en construire 32.
+ - BLEU score: 0.914806
+Sentence 1292: Les huit prochains caractères en construiront 32 de plus.
+ - BLEU score: 0.766657
+Sentence 1293: Donc avec très peu d'effort, vous pourrez apprendre 200 caractères, comme un enfant Chinois de 8 ans.
+ - BLEU score: 0.972119
+Sentence 1294: Donc après les caractères, nous en construisons des phrases.
+ - BLEU score: 0.830852
+Sentence 1295: Par exemple, la montagne et le feu ensemble, nous avons un feu de montagne. C'est un volcan.
+ - BLEU score: 0.72474
+Sentence 1296: Nous savons que le Japon est le pays du soleil levant.
+ - BLEU score: 0.789707
+Sentence 1297: C'est un soleil placé avec l'origine, car le Japon est à l'Est de la Chine.
+ - BLEU score: 1.091018
+Sentence 1298: Donc un soleil, avec son origine, nous avons le Japon.
+ - BLEU score: 0.687786
+Sentence 1299: Une personne derrière le Japon, qu'avons-nous ?
+ - BLEU score: 0.897247
+Sentence 1300: Un Japonais.
+ - BLEU score: 0.84511
+Sentence 1301: Le caractère sur la gauche c'est deux montagnes l'une au-dessus de l'autre.
+ - BLEU score: 0.971822
+Sentence 1302: Dans l'ancienne Chine, ça voulait dire exil, parce que les empereurs Chinois mettaient leurs ennemis en exil au-delà des montagnes.
+ - BLEU score: 0.986526
+Sentence 1303: Aujourd'hui, l'exil veut dire sortir.
+ - BLEU score: 0.881305
+Sentence 1304: Une bouche qui indique où sortir est une sortie.
+ - BLEU score: 1.052797
+Sentence 1305: Ça c'est une diapo qui me rappelle que je dois arrêter de parler et descendre de la scène. Merci. - BLEU score: 0.773636
+
+
+Average BLEU score: 0.8513036773946357
